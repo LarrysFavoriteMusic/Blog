@@ -1,0 +1,132 @@
+---
+title: "Top 25 Albums of 2020"
+format:
+  html:
+    code-fold: true
+---
+
+## 25. Jenny O: New Truth
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2LS3eg9v6U1KFpdvmqmuPE?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe
+```
+## 24. Chicano Batman: Invisible People
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2sS14o33EFyvcUPu2dfPOT?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 23. Jeff Tweedy: Love is the King
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3cuftKYEWJF8MT8sqAv6ov?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 22. The Strokes:: The New Abnormal
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2xkZV2Hl1Omi8rk2D7t5lN?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 21. Lawn: Johnny
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5kqu0mFYuMkeZdPgyYX0UD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 20. Sylvan Esso: Free Love
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2KAPJ40On8JY1Yt64JJgTk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 19. Haim: Women in Music Pt. III
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4qNGDMsRNqDQZPkTWyyeRF?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 18. The Beths: Jump Rope Gazers
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5rwWTJEIAyzBbRjEU0BTfA?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 17. Bonny Light Horseman
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5OgTkrQuF1aL0FtsTi5KmV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 16. Car Seat Headrest: Making a Door Less Open
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0p6P42zHY2W8Zd7BKBcKQg?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 15. The Flaming Lips: American Head
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4H8NX3ovAZdY2iJmwSNqlw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 14. Adrianne Lenker: songs
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Qt8Z1LB3Fsrf6nhBNsvUJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 13. Caribou: Suddenly
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4wSb7OhVUzw3u76lta9fJw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 12. Lomelda: Hannah
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0xyYtBmta0jBeqXOJsocSJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 11. Lianne La Havas: Lianne La Havas
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6JwtB0zzNYy4qANDrJtrJy?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 10. Cindy Lee: What's Tonight to Eternity
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5BEV4gGnAkRsLuoW3FQeqN?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 9. Nick Hakim: WILL THIS MAKE ME GOOD
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5wHIOaV0DXf73kL7i5blmM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 8. Deerhoof: Future Teenage Cave Artists
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4I9skhRTov4hKAxAgoclt3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 7. Pinegrove: Marigold
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6gVVXym1g4L51txS2e6slf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 6. Fiona Apple: Fetch The Bolt Cutters
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0fO1KemWL2uCCQmM22iKlj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 5. Fleet Foxes: Shore
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0lmjCPEcec2k6L7ysNIcd3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 4. Laura Marling: Song for Our Daughter
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0ubXthGSkZfe30Nuj91lcu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 3. illuminati hotties: FREE I.H: This is Not the One You've Been Waiting For
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1DGMVrNrgevKdEsKW8G4uZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 2. Andy Shauf: The Neon Skyline
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41M6R2mWLgqU9aKFUvZv8S?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 1. Phoebe Bridgers: Punisher
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2xECuqnvvmVktV7UO8Dd3s?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```

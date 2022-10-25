@@ -1,0 +1,590 @@
+[
+  {
+    "objectID": "2021_List.html",
+    "href": "2021_List.html",
+    "title": "My Favorite 25 Albums of 2021",
+    "section": "",
+    "text": "2021 contained many large changes for both the world and myself. A new president was elected, vaccines for COVID-19 were distributed, the world began opening up again and during the fall, I moved to Boulder Colorado from September to December. This list was probably one of my less experimental years of music, with a fantastic year for women in music (9 out 10 artists in the top 10 and 18 of the top 25 albums were female artists or bands led by women)."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Playlists",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "AlbumLists.html",
+    "href": "AlbumLists.html",
+    "title": "Top Album Lists",
+    "section": "",
+    "text": "Hello There"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Top Albums of the Year Lists",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nlibrary(tidyverse)\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.3.6      ✔ purrr   0.3.4 \n✔ tibble  3.1.8      ✔ dplyr   1.0.10\n✔ tidyr   1.2.0      ✔ stringr 1.4.1 \n✔ readr   2.1.2      ✔ forcats 0.5.2 \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n\nggplot(mtcars)+\n  geom_point(aes(x = mpg, y =cyl))"
+  },
+  {
+    "objectID": "lists/2016_List.html#section",
+    "href": "lists/2016_List.html#section",
+    "title": "Top 10 Albums of 2016",
+    "section": "9.",
+    "text": "9."
+  },
+  {
+    "objectID": "lists/2017_List.html#honorable-mention.-kendrick-lamar-damn",
+    "href": "lists/2017_List.html#honorable-mention.-kendrick-lamar-damn",
+    "title": "Top 25 Albums of 2017",
+    "section": "Honorable Mention. Kendrick Lamar: Damn",
+    "text": "Honorable Mention. Kendrick Lamar: Damn"
+  },
+  {
+    "objectID": "lists/2017_List.html#honorable-mention.-alex-g-rocket",
+    "href": "lists/2017_List.html#honorable-mention.-alex-g-rocket",
+    "title": "Top 25 Albums of 2017",
+    "section": "Honorable Mention. Alex G: Rocket",
+    "text": "Honorable Mention. Alex G: Rocket"
+  },
+  {
+    "objectID": "lists/2017_List.html#honorable-mention.-father-john-misty",
+    "href": "lists/2017_List.html#honorable-mention.-father-john-misty",
+    "title": "Top 25 Albums of 2017",
+    "section": "Honorable Mention. Father John Misty",
+    "text": "Honorable Mention. Father John Misty"
+  },
+  {
+    "objectID": "lists/2017_List.html#jay-som-everybody-works",
+    "href": "lists/2017_List.html#jay-som-everybody-works",
+    "title": "Top 25 Albums of 2017",
+    "section": "10. Jay Som: Everybody Works",
+    "text": "10. Jay Som: Everybody Works"
+  },
+  {
+    "objectID": "lists/2017_List.html#the-war-on-drugs-a-deeper-understanding",
+    "href": "lists/2017_List.html#the-war-on-drugs-a-deeper-understanding",
+    "title": "Top 25 Albums of 2017",
+    "section": "9. The War on Drugs: A Deeper Understanding",
+    "text": "9. The War on Drugs: A Deeper Understanding"
+  },
+  {
+    "objectID": "lists/2017_List.html#fleet-foxes-crack-up",
+    "href": "lists/2017_List.html#fleet-foxes-crack-up",
+    "title": "Top 25 Albums of 2017",
+    "section": "8. Fleet Foxes: Crack-Up",
+    "text": "8. Fleet Foxes: Crack-Up"
+  },
+  {
+    "objectID": "lists/2017_List.html#wolf-alice-visions-of-a-life",
+    "href": "lists/2017_List.html#wolf-alice-visions-of-a-life",
+    "title": "Top 25 Albums of 2017",
+    "section": "7. Wolf Alice: Visions of A Life",
+    "text": "7. Wolf Alice: Visions of A Life"
+  },
+  {
+    "objectID": "lists/2017_List.html#courtney-bartnett-and-kurt-vile-lotta-sea-lice",
+    "href": "lists/2017_List.html#courtney-bartnett-and-kurt-vile-lotta-sea-lice",
+    "title": "Top 25 Albums of 2017",
+    "section": "6. Courtney Bartnett and Kurt Vile: Lotta Sea Lice",
+    "text": "6. Courtney Bartnett and Kurt Vile: Lotta Sea Lice"
+  },
+  {
+    "objectID": "lists/2017_List.html#peter-sliberman-impermanence",
+    "href": "lists/2017_List.html#peter-sliberman-impermanence",
+    "title": "Top 25 Albums of 2017",
+    "section": "5. Peter Sliberman: Impermanence",
+    "text": "5. Peter Sliberman: Impermanence"
+  },
+  {
+    "objectID": "lists/2017_List.html#slowdive-slowdive",
+    "href": "lists/2017_List.html#slowdive-slowdive",
+    "title": "Top 25 Albums of 2017",
+    "section": "4. Slowdive: Slowdive",
+    "text": "4. Slowdive: Slowdive"
+  },
+  {
+    "objectID": "lists/2017_List.html#feist-pleasure",
+    "href": "lists/2017_List.html#feist-pleasure",
+    "title": "Top 25 Albums of 2017",
+    "section": "3. Feist: Pleasure",
+    "text": "3. Feist: Pleasure"
+  },
+  {
+    "objectID": "lists/2017_List.html#nick-hakim-green-twins",
+    "href": "lists/2017_List.html#nick-hakim-green-twins",
+    "title": "Top 25 Albums of 2017",
+    "section": "2. Nick Hakim: Green Twins",
+    "text": "2. Nick Hakim: Green Twins"
+  },
+  {
+    "objectID": "lists/2017_List.html#big-thief-capacity",
+    "href": "lists/2017_List.html#big-thief-capacity",
+    "title": "Top 25 Albums of 2017",
+    "section": "1. Big Thief: Capacity",
+    "text": "1. Big Thief: Capacity"
+  },
+  {
+    "objectID": "lists/2018_List.html",
+    "href": "lists/2018_List.html",
+    "title": "Top 40 Albums of 2018",
+    "section": "",
+    "text": "This was a very significant year of change for me. I graduated from SUNY College of Environmental Science and Forestry in May 2018, and started my Ph.D in atmospheric sciences at the University of Albany a couple of weeks later. It seems fitting this was the year I decided switch up the format for the album of the list. If there was one year I could pick redo a list for, it’s probably this one. I decided on choosing 40 albums rather than 10 as there was just a ton of albums I really liked that year that I wanted to represent in some way. Looking at the records chose when writing this, I was right. There just a ton of albums that I enjoy that year. However, 40 was probably too large of a number as their is a pretty noticeable drop off in quality towards the end of the list. The Top 10 would probably be reshuffled pretty significantly as well. Albums like Low’s hauntingly beautiful and experimental “Double Negative” or Beach House’s “7” (and amazing followup to 2 very solid releases in 2015) probably deserve to be higher up on this list, while albums like Lucy Dacus’s “Historian” or the fun hot mess that is Anderson.Paak’s “Oxnard” probably should be lower on the list. Still, this list contains just tons of great music and really highlights just how much there was to enjoy."
+  },
+  {
+    "objectID": "lists/2018_List.html#miya-folick-premonitions",
+    "href": "lists/2018_List.html#miya-folick-premonitions",
+    "title": "Top 40 Albums of 2018",
+    "section": "40. Miya Folick: Premonitions:",
+    "text": "40. Miya Folick: Premonitions:"
+  },
+  {
+    "objectID": "lists/2018_List.html#the-greeting-cmmittee-this-is-it",
+    "href": "lists/2018_List.html#the-greeting-cmmittee-this-is-it",
+    "title": "Top 40 Albums of 2018",
+    "section": "39. The Greeting Cmmittee: This Is It",
+    "text": "39. The Greeting Cmmittee: This Is It"
+  },
+  {
+    "objectID": "lists/2018_List.html#saintsenca-pillar-of-na",
+    "href": "lists/2018_List.html#saintsenca-pillar-of-na",
+    "title": "Top 40 Albums of 2018",
+    "section": "38. Saintsenca: Pillar of Na",
+    "text": "38. Saintsenca: Pillar of Na"
+  },
+  {
+    "objectID": "lists/2018_List.html#earl-sweatshirt-some-rap-songs",
+    "href": "lists/2018_List.html#earl-sweatshirt-some-rap-songs",
+    "title": "Top 40 Albums of 2018",
+    "section": "37. Earl Sweatshirt: Some Rap Songs",
+    "text": "37. Earl Sweatshirt: Some Rap Songs"
+  },
+  {
+    "objectID": "lists/2018_List.html#forth-wanderers-forth-wanderers",
+    "href": "lists/2018_List.html#forth-wanderers-forth-wanderers",
+    "title": "Top 40 Albums of 2018",
+    "section": "36. Forth Wanderers: Forth Wanderers",
+    "text": "36. Forth Wanderers: Forth Wanderers"
+  },
+  {
+    "objectID": "lists/2018_List.html#tash-sultana-flow-state",
+    "href": "lists/2018_List.html#tash-sultana-flow-state",
+    "title": "Top 40 Albums of 2018",
+    "section": "35. Tash Sultana: Flow State",
+    "text": "35. Tash Sultana: Flow State"
+  },
+  {
+    "objectID": "lists/2018_List.html#optiganally-yours-o.y.-in-hi-fi",
+    "href": "lists/2018_List.html#optiganally-yours-o.y.-in-hi-fi",
+    "title": "Top 40 Albums of 2018",
+    "section": "34. Optiganally Yours: O.Y. in Hi-Fi",
+    "text": "34. Optiganally Yours: O.Y. in Hi-Fi"
+  },
+  {
+    "objectID": "lists/2018_List.html#noname-room-25",
+    "href": "lists/2018_List.html#noname-room-25",
+    "title": "Top 40 Albums of 2018",
+    "section": "33. Noname: Room 25",
+    "text": "33. Noname: Room 25"
+  },
+  {
+    "objectID": "lists/2018_List.html#dr.-dog-critical-equation",
+    "href": "lists/2018_List.html#dr.-dog-critical-equation",
+    "title": "Top 40 Albums of 2018",
+    "section": "32. Dr. Dog: Critical Equation",
+    "text": "32. Dr. Dog: Critical Equation"
+  },
+  {
+    "objectID": "lists/2018_List.html#idles-joy-as-an-act-of-resistance",
+    "href": "lists/2018_List.html#idles-joy-as-an-act-of-resistance",
+    "title": "Top 40 Albums of 2018",
+    "section": "31. Idles: Joy as an Act of Resistance",
+    "text": "31. Idles: Joy as an Act of Resistance"
+  },
+  {
+    "objectID": "lists/2018_List.html#aqueduct-ensemble-improvisations-on-an-apricot",
+    "href": "lists/2018_List.html#aqueduct-ensemble-improvisations-on-an-apricot",
+    "title": "Top 40 Albums of 2018",
+    "section": "30. Aqueduct Ensemble: Improvisations on an Apricot",
+    "text": "30. Aqueduct Ensemble: Improvisations on an Apricot"
+  },
+  {
+    "objectID": "lists/2018_List.html#wye-oak-the-louder-i-call-the-faster-it-runs",
+    "href": "lists/2018_List.html#wye-oak-the-louder-i-call-the-faster-it-runs",
+    "title": "Top 40 Albums of 2018",
+    "section": "29. Wye Oak: The Louder I call, the Faster It Runs",
+    "text": "29. Wye Oak: The Louder I call, the Faster It Runs"
+  },
+  {
+    "objectID": "lists/2018_List.html#sam-evian-you-forever",
+    "href": "lists/2018_List.html#sam-evian-you-forever",
+    "title": "Top 40 Albums of 2018",
+    "section": "28. Sam Evian: You, Forever",
+    "text": "28. Sam Evian: You, Forever"
+  },
+  {
+    "objectID": "lists/2018_List.html#spirit-of-the-beehive-hypnic-jerks",
+    "href": "lists/2018_List.html#spirit-of-the-beehive-hypnic-jerks",
+    "title": "Top 40 Albums of 2018",
+    "section": "27. SPIRIT OF THE BEEHIVE: Hypnic Jerks",
+    "text": "27. SPIRIT OF THE BEEHIVE: Hypnic Jerks"
+  },
+  {
+    "objectID": "lists/2018_List.html#rubblebucket-sun-machine",
+    "href": "lists/2018_List.html#rubblebucket-sun-machine",
+    "title": "Top 40 Albums of 2018",
+    "section": "26. Rubblebucket: Sun Machine",
+    "text": "26. Rubblebucket: Sun Machine"
+  },
+  {
+    "objectID": "lists/2018_List.html#river-whyless-kindness-a-rebel",
+    "href": "lists/2018_List.html#river-whyless-kindness-a-rebel",
+    "title": "Top 40 Albums of 2018",
+    "section": "25. River Whyless: Kindness, A Rebel",
+    "text": "25. River Whyless: Kindness, A Rebel"
+  },
+  {
+    "objectID": "lists/2018_List.html#pllush-strangers-to-the-pain",
+    "href": "lists/2018_List.html#pllush-strangers-to-the-pain",
+    "title": "Top 40 Albums of 2018",
+    "section": "24. Pllush: Strangers to the Pain",
+    "text": "24. Pllush: Strangers to the Pain"
+  },
+  {
+    "objectID": "lists/2018_List.html#lets-eat-grandma-im-all-ears",
+    "href": "lists/2018_List.html#lets-eat-grandma-im-all-ears",
+    "title": "Top 40 Albums of 2018",
+    "section": "23. Let’s Eat Grandma: I’m All Ears",
+    "text": "23. Let’s Eat Grandma: I’m All Ears"
+  },
+  {
+    "objectID": "lists/2018_List.html#gregory-alan-isakov-evening-machines",
+    "href": "lists/2018_List.html#gregory-alan-isakov-evening-machines",
+    "title": "Top 40 Albums of 2018",
+    "section": "22. Gregory Alan Isakov: Evening Machines",
+    "text": "22. Gregory Alan Isakov: Evening Machines"
+  },
+  {
+    "objectID": "lists/2018_List.html#shame-songs-of-praise",
+    "href": "lists/2018_List.html#shame-songs-of-praise",
+    "title": "Top 40 Albums of 2018",
+    "section": "21. shame: Songs of Praise",
+    "text": "21. shame: Songs of Praise"
+  },
+  {
+    "objectID": "lists/2018_List.html#big-red-machine-big-red-machine",
+    "href": "lists/2018_List.html#big-red-machine-big-red-machine",
+    "title": "Top 40 Albums of 2018",
+    "section": "20. Big Red Machine: Big Red Machine",
+    "text": "20. Big Red Machine: Big Red Machine"
+  },
+  {
+    "objectID": "lists/2018_List.html#the-milk-carton-kids-all-the-things-that-i-did-and-all-things-i-didnt-do",
+    "href": "lists/2018_List.html#the-milk-carton-kids-all-the-things-that-i-did-and-all-things-i-didnt-do",
+    "title": "Top 40 Albums of 2018",
+    "section": "19. The Milk Carton Kids: All the Things That I Did and All Things I Didn’t Do",
+    "text": "19. The Milk Carton Kids: All the Things That I Did and All Things I Didn’t Do"
+  },
+  {
+    "objectID": "lists/2018_List.html#lawn-blood-on-the-tracks",
+    "href": "lists/2018_List.html#lawn-blood-on-the-tracks",
+    "title": "Top 40 Albums of 2018",
+    "section": "18. Lawn: Blood on the Tracks",
+    "text": "18. Lawn: Blood on the Tracks"
+  },
+  {
+    "objectID": "lists/2018_List.html#unknown-mortal-orchestra-sex-and-food",
+    "href": "lists/2018_List.html#unknown-mortal-orchestra-sex-and-food",
+    "title": "Top 40 Albums of 2018",
+    "section": "17. Unknown Mortal Orchestra: Sex and Food",
+    "text": "17. Unknown Mortal Orchestra: Sex and Food"
+  },
+  {
+    "objectID": "lists/2018_List.html#haley-heynderickx-i-need-to-start-a-garden",
+    "href": "lists/2018_List.html#haley-heynderickx-i-need-to-start-a-garden",
+    "title": "Top 40 Albums of 2018",
+    "section": "16. Haley Heynderickx: I Need to Start a Garden",
+    "text": "16. Haley Heynderickx: I Need to Start a Garden"
+  },
+  {
+    "objectID": "lists/2018_List.html#snail-mail-lush",
+    "href": "lists/2018_List.html#snail-mail-lush",
+    "title": "Top 40 Albums of 2018",
+    "section": "15. Snail Mail: Lush",
+    "text": "15. Snail Mail: Lush"
+  },
+  {
+    "objectID": "lists/2018_List.html#low-double-negative",
+    "href": "lists/2018_List.html#low-double-negative",
+    "title": "Top 40 Albums of 2018",
+    "section": "14. Low: Double Negative",
+    "text": "14. Low: Double Negative"
+  },
+  {
+    "objectID": "lists/2018_List.html#saba-care-for-me",
+    "href": "lists/2018_List.html#saba-care-for-me",
+    "title": "Top 40 Albums of 2018",
+    "section": "13. Saba: CARE FOR ME",
+    "text": "13. Saba: CARE FOR ME"
+  },
+  {
+    "objectID": "lists/2018_List.html#foxwarren-foxwarren",
+    "href": "lists/2018_List.html#foxwarren-foxwarren",
+    "title": "Top 40 Albums of 2018",
+    "section": "12. Foxwarren: Foxwarren",
+    "text": "12. Foxwarren: Foxwarren"
+  },
+  {
+    "objectID": "lists/2018_List.html#anderson.paak-oxnard",
+    "href": "lists/2018_List.html#anderson.paak-oxnard",
+    "title": "Top 40 Albums of 2018",
+    "section": "11. Anderson.Paak: Oxnard",
+    "text": "11. Anderson.Paak: Oxnard"
+  },
+  {
+    "objectID": "lists/2018_List.html#mountain-man-magic-ship",
+    "href": "lists/2018_List.html#mountain-man-magic-ship",
+    "title": "Top 40 Albums of 2018",
+    "section": "10. Mountain Man: Magic Ship",
+    "text": "10. Mountain Man: Magic Ship\nThis is probably one of the most unique albums I’ve probably included on a top 10 list. This trio includes Amelia Meath of Slyvan Esso, Molly Sarlé, and Alexandra Sauser-Monnig of Daughter of the Swords, all who attended Bennington College together. Together, they produce a master class in minimalistic traditional and indie folk, opting for nothing more than simple acoustic guitar parts and their amazing vocal harmonies. Tracks like “Whale Song” and “Bright Morning Stars” use space perfectly to really necessitate their siren like vocal harmonies. The incredibly cozy and comforting, “Slow Wake Up Sunday Morning” is true highlight from this record, that is only made better in the context of the full album."
+  },
+  {
+    "objectID": "lists/2018_List.html#father-john-misty-gods-favorite-customer",
+    "href": "lists/2018_List.html#father-john-misty-gods-favorite-customer",
+    "title": "Top 40 Albums of 2018",
+    "section": "9. Father John Misty: God’s Favorite Customer",
+    "text": "9. Father John Misty: God’s Favorite Customer\nThis is the follow record by one of the more polarizing figures in indie music; 2017’s (similarly polarizing) “Pure Comedy”. I found “Pure Comedy” to be a very frustrating album, containing some of FJM’s very best song writing, but often overshadowed by preachy and pretentious tracks (Leaving La being 11 minutes of just acoustic guitar…). “God’s Favorite Customer” was a pleasant surprise for me, with FJM returning to the vulnerability and lush instrumentation that made 2015’s “I Love You, Honeybear” so fantastic."
+  },
+  {
+    "objectID": "lists/2018_List.html#beach-house-7",
+    "href": "lists/2018_List.html#beach-house-7",
+    "title": "Top 40 Albums of 2018",
+    "section": "8. Beach House: 7",
+    "text": "8. Beach House: 7"
+  },
+  {
+    "objectID": "lists/2018_List.html#jeff-tweedy-warm",
+    "href": "lists/2018_List.html#jeff-tweedy-warm",
+    "title": "Top 40 Albums of 2018",
+    "section": "7. Jeff Tweedy: Warm",
+    "text": "7. Jeff Tweedy: Warm"
+  },
+  {
+    "objectID": "lists/2018_List.html#lucy-dacus-historian",
+    "href": "lists/2018_List.html#lucy-dacus-historian",
+    "title": "Top 40 Albums of 2018",
+    "section": "6. Lucy Dacus: Historian",
+    "text": "6. Lucy Dacus: Historian"
+  },
+  {
+    "objectID": "lists/2018_List.html#parquet-courts-wide-awake",
+    "href": "lists/2018_List.html#parquet-courts-wide-awake",
+    "title": "Top 40 Albums of 2018",
+    "section": "5. Parquet Courts: Wide Awake!",
+    "text": "5. Parquet Courts: Wide Awake!"
+  },
+  {
+    "objectID": "lists/2018_List.html#young-fathers-cocoa-sugar",
+    "href": "lists/2018_List.html#young-fathers-cocoa-sugar",
+    "title": "Top 40 Albums of 2018",
+    "section": "4. Young Fathers: Cocoa Sugar",
+    "text": "4. Young Fathers: Cocoa Sugar"
+  },
+  {
+    "objectID": "lists/2018_List.html#bill-ryder-jones-yawn",
+    "href": "lists/2018_List.html#bill-ryder-jones-yawn",
+    "title": "Top 40 Albums of 2018",
+    "section": "3. Bill Ryder-Jones: Yawn",
+    "text": "3. Bill Ryder-Jones: Yawn"
+  },
+  {
+    "objectID": "lists/2018_List.html#car-seat-headrest",
+    "href": "lists/2018_List.html#car-seat-headrest",
+    "title": "Top 40 Albums of 2018",
+    "section": "2. Car Seat Headrest",
+    "text": "2. Car Seat Headrest"
+  },
+  {
+    "objectID": "lists/2018_List.html#courtney-barnett",
+    "href": "lists/2018_List.html#courtney-barnett",
+    "title": "Top 40 Albums of 2018",
+    "section": "1. Courtney Barnett",
+    "text": "1. Courtney Barnett"
+  },
+  {
+    "objectID": "lists/2019_List.html#billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+    "href": "lists/2019_List.html#billie-eilish-when-we-all-fall-asleep-where-do-we-go",
+    "title": "Top 25 Albums of 2019",
+    "section": "24. Billie Eilish: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "text": "24. Billie Eilish: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?"
+  },
+  {
+    "objectID": "lists/2019_List.html#barrie-happy-to-be-here",
+    "href": "lists/2019_List.html#barrie-happy-to-be-here",
+    "title": "Top 25 Albums of 2019",
+    "section": "23. Barrie: Happy to Be Here:",
+    "text": "23. Barrie: Happy to Be Here:"
+  },
+  {
+    "objectID": "lists/2019_List.html#stella-donnelly-beware-of-the-dogs",
+    "href": "lists/2019_List.html#stella-donnelly-beware-of-the-dogs",
+    "title": "Top 25 Albums of 2019",
+    "section": "22. Stella Donnelly: Beware of the Dogs",
+    "text": "22. Stella Donnelly: Beware of the Dogs"
+  },
+  {
+    "objectID": "lists/2019_List.html#urochromes-trope-house",
+    "href": "lists/2019_List.html#urochromes-trope-house",
+    "title": "Top 25 Albums of 2019",
+    "section": "21. Urochromes: Trope House",
+    "text": "21. Urochromes: Trope House"
+  },
+  {
+    "objectID": "lists/2019_List.html#nilüfer-yanya-miss-universe",
+    "href": "lists/2019_List.html#nilüfer-yanya-miss-universe",
+    "title": "Top 25 Albums of 2019",
+    "section": "20. Nilüfer Yanya: Miss Universe",
+    "text": "20. Nilüfer Yanya: Miss Universe"
+  },
+  {
+    "objectID": "lists/2019_List.html#little-simz-grey-area",
+    "href": "lists/2019_List.html#little-simz-grey-area",
+    "title": "Top 25 Albums of 2019",
+    "section": "19. Little Simz: GREY Area",
+    "text": "19. Little Simz: GREY Area"
+  },
+  {
+    "objectID": "lists/2019_List.html#stef-chura-midnight",
+    "href": "lists/2019_List.html#stef-chura-midnight",
+    "title": "Top 25 Albums of 2019",
+    "section": "18. Stef Chura: Midnight",
+    "text": "18. Stef Chura: Midnight"
+  },
+  {
+    "objectID": "lists/2019_List.html#andrew-bird-my-finest-work-yet",
+    "href": "lists/2019_List.html#andrew-bird-my-finest-work-yet",
+    "title": "Top 25 Albums of 2019",
+    "section": "17. Andrew Bird: My Finest Work Yet",
+    "text": "17. Andrew Bird: My Finest Work Yet"
+  },
+  {
+    "objectID": "lists/2019_List.html#arthur-moon-arthur-moon",
+    "href": "lists/2019_List.html#arthur-moon-arthur-moon",
+    "title": "Top 25 Albums of 2019",
+    "section": "16. Arthur Moon: Arthur Moon",
+    "text": "16. Arthur Moon: Arthur Moon"
+  },
+  {
+    "objectID": "lists/2019_List.html#psychedelic-porn-crumpets-and-now-for-the-whatchamacallit",
+    "href": "lists/2019_List.html#psychedelic-porn-crumpets-and-now-for-the-whatchamacallit",
+    "title": "Top 25 Albums of 2019",
+    "section": "15. Psychedelic Porn Crumpets: And Now for the Whatchamacallit",
+    "text": "15. Psychedelic Porn Crumpets: And Now for the Whatchamacallit"
+  },
+  {
+    "objectID": "lists/2019_List.html#anderson-paak-ventura",
+    "href": "lists/2019_List.html#anderson-paak-ventura",
+    "title": "Top 25 Albums of 2019",
+    "section": "14. Anderson Paak: Ventura",
+    "text": "14. Anderson Paak: Ventura"
+  },
+  {
+    "objectID": "lists/2019_List.html#lillie-mae-other-girls",
+    "href": "lists/2019_List.html#lillie-mae-other-girls",
+    "title": "Top 25 Albums of 2019",
+    "section": "13. Lillie Mae: Other Girls",
+    "text": "13. Lillie Mae: Other Girls"
+  },
+  {
+    "objectID": "lists/2019_List.html#brittany-howard-jaime",
+    "href": "lists/2019_List.html#brittany-howard-jaime",
+    "title": "Top 25 Albums of 2019",
+    "section": "12. Brittany Howard: Jaime",
+    "text": "12. Brittany Howard: Jaime"
+  },
+  {
+    "objectID": "lists/2019_List.html#james-blake-assume-form",
+    "href": "lists/2019_List.html#james-blake-assume-form",
+    "title": "Top 25 Albums of 2019",
+    "section": "11. James Blake: Assume Form",
+    "text": "11. James Blake: Assume Form"
+  },
+  {
+    "objectID": "lists/2019_List.html#michael-kiwanuka-kiwanuka",
+    "href": "lists/2019_List.html#michael-kiwanuka-kiwanuka",
+    "title": "Top 25 Albums of 2019",
+    "section": "10. Michael Kiwanuka: KIWANUKA",
+    "text": "10. Michael Kiwanuka: KIWANUKA"
+  },
+  {
+    "objectID": "lists/2019_List.html#weyes-blood-titanic-rising",
+    "href": "lists/2019_List.html#weyes-blood-titanic-rising",
+    "title": "Top 25 Albums of 2019",
+    "section": "9. Weyes Blood: Titanic Rising",
+    "text": "9. Weyes Blood: Titanic Rising"
+  },
+  {
+    "objectID": "lists/2019_List.html#tiny-ruins-olympic-girls",
+    "href": "lists/2019_List.html#tiny-ruins-olympic-girls",
+    "title": "Top 25 Albums of 2019",
+    "section": "8. Tiny Ruins: Olympic Girls",
+    "text": "8. Tiny Ruins: Olympic Girls"
+  },
+  {
+    "objectID": "lists/2019_List.html#big-thief-two-hands",
+    "href": "lists/2019_List.html#big-thief-two-hands",
+    "title": "Top 25 Albums of 2019",
+    "section": "7. Big Thief: Two Hands",
+    "text": "7. Big Thief: Two Hands"
+  },
+  {
+    "objectID": "lists/2019_List.html#pup-morbid-stuff",
+    "href": "lists/2019_List.html#pup-morbid-stuff",
+    "title": "Top 25 Albums of 2019",
+    "section": "6. Pup: Morbid Stuff",
+    "text": "6. Pup: Morbid Stuff"
+  },
+  {
+    "objectID": "lists/2019_List.html#wilco-ode-to-joy",
+    "href": "lists/2019_List.html#wilco-ode-to-joy",
+    "title": "Top 25 Albums of 2019",
+    "section": "5. Wilco: Ode to Joy",
+    "text": "5. Wilco: Ode to Joy"
+  },
+  {
+    "objectID": "lists/2019_List.html#bon-iver-ii",
+    "href": "lists/2019_List.html#bon-iver-ii",
+    "title": "Top 25 Albums of 2019",
+    "section": "4. Bon Iver: i,i",
+    "text": "4. Bon Iver: i,i"
+  },
+  {
+    "objectID": "lists/2019_List.html#big-thief-u.f.o.f.",
+    "href": "lists/2019_List.html#big-thief-u.f.o.f.",
+    "title": "Top 25 Albums of 2019",
+    "section": "3. Big Thief: U.F.O.F.",
+    "text": "3. Big Thief: U.F.O.F."
+  },
+  {
+    "objectID": "lists/2019_List.html#alex-g-house-of-sugar",
+    "href": "lists/2019_List.html#alex-g-house-of-sugar",
+    "title": "Top 25 Albums of 2019",
+    "section": "2. Alex G: House of Sugar",
+    "text": "2. Alex G: House of Sugar"
+  },
+  {
+    "objectID": "lists/2019_List.html#angel-olsen-all-mirrors",
+    "href": "lists/2019_List.html#angel-olsen-all-mirrors",
+    "title": "Top 25 Albums of 2019",
+    "section": "1. Angel Olsen: All Mirrors",
+    "text": "1. Angel Olsen: All Mirrors"
+  },
+  {
+    "objectID": "lists/2021_List.html",
+    "href": "lists/2021_List.html",
+    "title": "My Favorite 25 Albums of 2021",
+    "section": "",
+    "text": "2021 contained many large changes for both the world and myself. A new president was elected, vaccines for COVID-19 were distributed, the world began opening up again and during the fall, I moved to Boulder Colorado from September to December. This list was probably one of my less experimental years of music, with a fantastic year for women in music (9 out 10 artists in the top 10 and 18 of the top 25 albums were female artists or bands led by women)."
+  }
+]

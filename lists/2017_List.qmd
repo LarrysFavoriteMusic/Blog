@@ -1,0 +1,77 @@
+---
+title: "Top 25 Albums of 2017"
+format:
+  html:
+    code-fold: true
+---
+
+## Honorable Mention. Sylvan Esso: What Now
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1BJMCEXQ7JmuVlJ6cYbe3x?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## Honorable Mention. Kendrick Lamar: Damn
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4eLPsYPBmXABThSJ821sqY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## Honorable Mention. Alex G: Rocket
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5Pq92omNLyQgGGrj2u4pur?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## Honorable Mention. Father John Misty
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6nyf9D2M4je5BdNXwycoIe?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 10. Jay Som: Everybody Works
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1ZMtgC7o6TGbzwkv5SpThU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 9. The War on Drugs: A Deeper Understanding
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4TkmrrpjlPoCPpGyDN3rkF?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 8. Fleet Foxes: Crack-Up
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0xtTojp4zfartyGtbFKN3v?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 7. Wolf Alice: Visions of A Life
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7BJmbXNSX1tUPmVjvrlqvz?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 6. Courtney Bartnett and Kurt Vile: Lotta Sea Lice
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3gvo4nvimDdqA9c3y7Bptc?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 5. Peter Sliberman: Impermanence
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3sR2dXUyecxOsoB8WgQQZd?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 4. Slowdive: Slowdive
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4nSWX5A4xVomzrOEGDKLQ6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 3. Feist: Pleasure
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5lXgrzp3xcFdYCQXtsS6dG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 2. Nick Hakim: Green Twins
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5RfZQHPapcSY40HaYvt3fh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 1. Big Thief: Capacity
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2hOYLjoRQFXcdviMiwtgxe?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```

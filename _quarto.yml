@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Larry Loves Music"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Spotify Playlists
+      - text: Top Albums Lists
+        menu: 
+          - href: ./lists/2021_List.qmd
+            text: "2021"
+          - href: ./lists/2020_List.qmd
+            text: "2020"
+          - href: ./lists/2019_List.qmd
+            text: "2019"
+          - href: ./lists/2018_List.qmd
+            text: "2018"
+          - href: ./lists/2017_List.qmd
+            text: '2017'
+          - href: ./lists/2016_List.qmd
+            text: '2016'
+        
+        
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

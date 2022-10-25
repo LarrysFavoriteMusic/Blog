@@ -1,0 +1,16 @@
+---
+title: "Top Albums of the Year Lists"
+format: html
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+library(tidyverse)
+
+ggplot(mtcars)+
+  geom_point(aes(x = mpg, y =cyl))
+
+```

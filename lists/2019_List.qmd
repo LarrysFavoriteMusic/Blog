@@ -1,0 +1,182 @@
+---
+title: "Top 25 Albums of 2019"
+format:
+  html:
+    code-fold: true
+---
+
+## 25. Julia Jacklin: Crushing
+
+![](images/JuliaJacklin_Crushing.webp){width="248"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4u3aIyQbywYaxgF7TcXuIu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 24. Billie Eilish: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+
+![](images/When_We_All_Fall_Asleep,_Where_Do_We_Go%20.png){width="259"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0S0KGZnfBGSIssfF54WSJh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 23. Barrie: Happy to Be Here:
+
+![](images/a2890044646_65.jpg){width="266"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/74hkehs2cahKJ7jFLOrxYh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 22. Stella Donnelly: Beware of the Dogs
+
+![](images/StellaDonnelly_BewareOfTheDogs.webp){width="266"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1pKIMs0GEePXjDC2EiYEb7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 21. Urochromes: Trope House
+
+![](images/a2591922263_10.jpg){width="267"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/48U0hLIFl2sM9l3xRWIk0R?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 20. Nilüfer Yanya: Miss Universe
+
+![](images/NiluferYanya_MissUniverse.webp){width="269"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4ghm3TST2NwYOIAd5QHjbU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 19. Little Simz: GREY Area
+
+![](images/LittleSimz_GREYArea.webp){width="270"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4Wwm4xg2748zhYuzDRFTgY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 18. Stef Chura: Midnight
+
+![](images/Stef-Chura-Midnight.webp){width="284"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0PMmJ0qQByXO0ROaKYq74k?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 17. Andrew Bird: My Finest Work Yet
+
+![](images/MFWY_Andrew_Bird.jpg)
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2xQ1WHVV0MdVSRkpND5P51?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 16. Arthur Moon: Arthur Moon
+
+![](images/ab67616d0000b2730abda348dd32677136914c94.jpg){width="225"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2qyHO4roesfNRDiLOWMr0G?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 15. Psychedelic Porn Crumpets: And Now for the Whatchamacallit
+
+![](images/ppc-and-now-for-the-whatchamacallit-1.jpg){width="226"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1gqmoyxBJ4EQ5yVbs86NAj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 14. Anderson Paak: Ventura
+
+![](images/Anderson.Paak_Ventura.webp){width="234"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0YF8PfcGbsKg5IaFyPnlyY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 13. Lillie Mae: Other Girls
+
+![](images/LillieMae_OtherGirls.webp){width="239"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/158vIXOymv1hbHh1pCG2fD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 12. Brittany Howard: Jaime
+
+![](images/brittanyhoward_jaime.webp){width="230"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6fbphjr9j57oxMB2bnhzUf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 11. James Blake: Assume Form
+
+![](images/Assume_Form.jpg){width="229"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3VpbXPsAOhcp3duHhkye8g?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 10. Michael Kiwanuka: KIWANUKA
+
+![](images/Michael_Kiwanuka_-_Kiwanuka.png){width="245"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1yIqauTni1V7l7djYAKSsZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 9. Weyes Blood: Titanic Rising
+
+![](images/WeyesBlood_TitanicRising.webp){width="280"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/53VKICyqCf91sVkTdFrzKX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 8. Tiny Ruins: Olympic Girls
+
+![](images/tiny%20ruins_olympic%20girls.webp){width="285"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2fXjFuPIS8mmNjzrm20t4k?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 7. Big Thief: Two Hands
+
+![](images/bigthief_twohands.webp){width="284"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7pg8T6pajjHVZbiyB8bGxo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 6. Pup: Morbid Stuff
+
+![](images/Pup_MorbidStuff.webp){width="287"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/504XSXhUJlzztcMV4YMaDV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 5. Wilco: Ode to Joy
+
+![](images/wilco_odetojoy.webp){width="285"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0RR7qfOCOOHXbPAO1P3G5b?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 4. Bon Iver: i,i
+
+![](images/ab67616d0000b27357629d831030c7cd9506b49c.jpg){width="280"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/54DU59anGQsdrFP7utpshG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 3. Big Thief: U.F.O.F.
+
+![](images/BigThief_UFOF.webp){width="445"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5X0bIKvPtSDo4NpXqgrB6p?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 2. Alex G: House of Sugar
+
+![](images/alexg_houseofsugar.webp){width="455"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2kCDZ3gCr5hXFgbFsPMcxP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 1. Angel Olsen: All Mirrors
+
+![](images/angelolsen_allmirrors.webp){width="497"}
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0RedX0LZkGUFoRwFntAaI0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```

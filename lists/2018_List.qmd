@@ -1,0 +1,213 @@
+---
+title: "Top 40 Albums of 2018"
+format:
+  html:
+    code-fold: true
+---
+
+This was a very significant year of change for me. I graduated from SUNY College of Environmental Science and Forestry in May 2018, and started my Ph.D in atmospheric sciences at the University of Albany a couple of weeks later. It seems fitting this was the year I decided switch up the format for the album of the list. If there was one year I could pick redo a list for, it's probably this one. I decided on choosing 40 albums rather than 10 as there was just a ton of albums I really liked that year that I wanted to represent in some way. Looking at the records chose when writing this, I was right. There just a ton of albums that I enjoy that year. However, 40 was probably too large of a number as their is a pretty noticeable drop off in quality towards the end of the list. The Top 10 would probably be reshuffled pretty significantly as well. Albums like Low's hauntingly beautiful and experimental "Double Negative" or Beach House's "7" (and amazing followup to 2 very solid releases in 2015) probably deserve to be higher up on this list, while albums like Lucy Dacus's "Historian" or the fun hot mess that is Anderson.Paak's "Oxnard" probably should be lower on the list. Still, this list contains just tons of great music and really highlights just how much there was to enjoy.
+
+## 40. Miya Folick: Premonitions:
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3nWDfV4stC2VQopcuHjJmO?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 39. The Greeting Cmmittee: This Is It
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/35H7mR1u6XET8YKvezYUkB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 38. Saintsenca: Pillar of Na
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/62Q2VoAPpBo1OgfuJ63g6w?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 37. Earl Sweatshirt: Some Rap Songs
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/66at85wgO2pu5CccvqUF6i?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 36. Forth Wanderers: Forth Wanderers
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3TZWID34tFQeznr09VILyt?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 35. Tash Sultana: Flow State
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5eOlKFDAN9dXwYycRqEmnP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 34. Optiganally Yours: O.Y. in Hi-Fi
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41iCKFG0ZCapCuZKrxhcNb?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 33. Noname: Room 25
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7oHM3Sj0l2nXAzGAxW0KOt?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 32. Dr. Dog: Critical Equation
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0kafVzFVwhsAjOzA2h6QQB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 31. Idles: Joy as an Act of Resistance
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7BbRSUBwTB37ut0Ht3yAqt?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 30. Aqueduct Ensemble: Improvisations on an Apricot
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6vSIDUOj0PG7gaCkYB3J2w?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 29. Wye Oak: The Louder I call, the Faster It Runs
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3lSHd2sapKzXk7XkDac2zg?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 28. Sam Evian: You, Forever
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7uOn3dpPMtthc9fx89AcPX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 27. SPIRIT OF THE BEEHIVE: Hypnic Jerks
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5l93RkfOpA9Whuziy038gB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 26. Rubblebucket: Sun Machine
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5Nzqg5Xb7xaKfl3XudeNiY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 25. River Whyless: Kindness, A Rebel
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1RNcYrqXqFyb3R6jjQrwT7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 24. Pllush: Strangers to the Pain
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2N9i29tj6fKP2XjVszMuvW?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 23. Let's Eat Grandma: I'm All Ears
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5Bnhkya5cGltQFTrnC0grx?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 22. Gregory Alan Isakov: Evening Machines
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5K7PZiOlAn8sxxhh0QTFuJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 21. shame: Songs of Praise
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3A1kutvBmC6czSsSv7aR5E?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 20. Big Red Machine: Big Red Machine
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3LBRCisCaxgQjb5nwSMPgU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 19. The Milk Carton Kids: All the Things That I Did and All Things I Didn't Do
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1BpQ1yTs26aKJg0aWqnzEq?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 18. Lawn: Blood on the Tracks
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4NrrXVPLiggFGlvuOiUvw6?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 17. Unknown Mortal Orchestra: Sex and Food
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7c2Xfq7aQKzs0KdSI3K7Rc?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 16. Haley Heynderickx: I Need to Start a Garden
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4I8BEAiq1kPqRRlvWLTo5B?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 15. Snail Mail: Lush
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2e48GqjEwCi87gQJanb1bf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 14. Low: Double Negative
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1zTkgOHx3mjrUvrhxq4osf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 13. Saba: CARE FOR ME
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6Te111t5gDZ7W94myHRqUt?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 12. Foxwarren: Foxwarren
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/27NP9XgsqFi9sfV9RZaqOa?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 11. Anderson.Paak: Oxnard
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3rqqwtJE89WoWvMyPTvbZc?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 10. Mountain Man: Magic Ship
+
+This is probably one of the most unique albums I've probably included on a top 10 list. This trio includes Amelia Meath of Slyvan Esso, Molly Sarlé, and Alexandra Sauser-Monnig of Daughter of the Swords, all who attended Bennington College together. Together, they produce a master class in minimalistic traditional and indie folk, opting for nothing more than simple acoustic guitar parts and their amazing vocal harmonies. Tracks like "Whale Song" and "Bright Morning Stars" use space perfectly to really necessitate their siren like vocal harmonies. The incredibly cozy and comforting, "Slow Wake Up Sunday Morning" is true highlight from this record, that is only made better in the context of the full album.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/26ahuw4JsKSGyNN1PCZe83?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 9. Father John Misty: God's Favorite Customer
+
+This is the follow record by one of the more polarizing figures in indie music; 2017's (similarly polarizing) "Pure Comedy". I found "Pure Comedy" to be a very frustrating album, containing some of FJM's very best song writing, but often overshadowed by preachy and pretentious tracks (Leaving La being 11 minutes of just acoustic guitar...). "God's Favorite Customer" was a pleasant surprise for me, with FJM returning to the vulnerability and lush instrumentation that made 2015's "I Love You, Honeybear" so fantastic.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0hMPUtgjezv7gUsmhztvPv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 8. Beach House: 7
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4qftBBO7pnYlek3mRENIvM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 7. Jeff Tweedy: Warm
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2XTPulCL6EUx1thyJPnlmj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 6. Lucy Dacus: Historian
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/01GO03odsNlNLtvNETukWT?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 5. Parquet Courts: Wide Awake!
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5uTI2HcpAywDP8Vo1DpJta?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 4. Young Fathers: Cocoa Sugar
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/03Dp6OJS4wd7dI1rRszPwj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 3. Bill Ryder-Jones: Yawn
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/70I1oXkFprQzZ2DJAchR7K?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 2. Car Seat Headrest
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/20U1UWeGcGq7JVW0tf8yfH?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 1. Courtney Barnett
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3l7JWewI3ZByxaT5BCgRx2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
