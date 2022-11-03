@@ -1,5 +1,5 @@
 ---
-title: "Top 25 Albums of 2017"
+title: "My 10 Favorite Albums of 2017"
 format:
   html:
     code-fold: true

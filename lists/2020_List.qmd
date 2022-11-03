@@ -1,11 +1,15 @@
 ---
-title: "Top 25 Albums of 2020"
+title: "My Favorite 25 Albums of 2020"
 format:
   html:
     code-fold: true
+    toc: true
+title-block-banner: true
 ---
 
-## 25. Jenny O: New Truth
+This was a bad year.
+
+## 25. Jenny O: New Truth {#sec-25.-jenny-o-new-truth}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2LS3eg9v6U1KFpdvmqmuPE?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe

@@ -3,6 +3,8 @@ title: "Top 25 Albums of 2019"
 format:
   html:
     code-fold: true
+    toc: true
+title-block-banner: true
 ---
 
 ## 25. Julia Jacklin: Crushing

@@ -1,10 +1,10 @@
 ---
 title: "My Favorite 25 Albums of 2021"
 editor: visual
-format: html
+format: 
+  html: 
+    code-fold: true
 ---
-
-# Top List of 2021
 
 2021 contained many large changes for both the world and myself. A new president was elected, vaccines for COVID-19 were distributed, the world began opening up again and during the fall, I moved to Boulder Colorado from September to December. This list was probably one of my less experimental years of music, with a fantastic year for women in music (9 out 10 artists in the top 10 and 18 of the top 25 albums were female artists or bands led by women).
 

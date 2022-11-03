@@ -1,13 +1,101 @@
 ---
-title: "Top 10 Albums of 2016"
+title: "My 10 Favorite Albums of 2016"
 format:
   html:
     code-fold: true
+editor: visual
 ---
 
+This is the list that started it all: made from a undergrad who wanted to stay entertained during finals week. Despite this being my first list, I'm impressed with how well it's held up. The music quality in 2016 was just amazing, with amazing albums I don't cover here that include (and are not limited to) David Bowie's final record "Blackstar", Anderson Paak's "Malibu", Frank Ocean's "Blonde", Pinegrove's "Cardinal", and Deerhoof's "The Magic" (which remains my favorite album of theirs from a very long and impressive catalog). The albums that are on this list still find their way into my listening queues on fairly regular basis. I also didn't make a top songs playlist to accompany the album list so I'll name a handful tracks that remain favorites to me, but tracks that really stand out to me from this year include:
+
+-   Andy Shauf's haunting opening track "The Magician"
+
+-   The controlled chaos that is Car Seat Headrest's "Vincent"
+
+-   The incredibly catchy jazz rap from Jalen Santoy, "Foreplay"
+
+-   The country/bluegrass layered in harmonies, "It's Getting Late" by Honeysuckle
+
+-   The indie rock ear worm combined with subtly great guitar work, "Emotions and Math" from Margaret Glaspy
+
+-   Ripping guitars and emotional vocals on "Real Love" from an excellent debut from Big Thief (keep an eye on these guys)
+
+-   The euphoric slow burn on "Hidden Driver" by LVL Up
+
+-   Finally, the delightful track from a one off project super group project named case/lang/veirs, "Atomic Number"
+
+Plus tons of other songs, some of which I feature in this list. This
+
 ## 10. Lucy Dacus: No Burden
+
+This would serve to be a really solid debut for Lucy Dacus, going on to create music that would make it on to my future lists. Much of this album
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7lQ9R31OcTvMn2MojAuKVE?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-## 9. 
+**Key Tracks:** Green Eyes, Red Face, Map on the Wall
+
+## 9. RY X: Dawn
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0DvauBOn2G8RIEQR54Cmiv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Only, Howling
+
+## 8. Klangstof: Closure
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/314g2JtzkHhPw8uo6lrAwz?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Hostage, Island
+
+## 7. Angel Olsen: MY WOMAN
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3CHcldbsbrBOOlw8cnLpNm?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Sister, Never Be Mine, Shut Up Kiss Me
+
+## 6. Wilco: Schmilco
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1Wjheru5k9DMQduRIasAyL?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** If I Ever Was A Child, Locator, Shrug and Destroy
+
+## 5. Keaton Henson: Kindly Now
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2STN4lLvNNRsO0FuatKqVI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Holy Lover, Alright
+
+## 4. Margaret Glaspy: Emotions and Math
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Bq3X3NF39gvmAihzX1DdK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Emotions and Math, You and I, Memory Street
+
+## 3. Bon Iver: 22, A Millon
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4bJCKmpKgti10f3ltz6LLl?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** 715 - CRΣΣKS, 8 (circle), 00000 Million
+
+## 2. Car Seat Headrest: Teens of Denial
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3KpYyDP8q8sUBxatHaYEsP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Vincent, Drunk Drivers/Killer Whales, The Ballad of the Costa Concodria
+
+## 1. Andy Shauf: The Party
+
+To this day, "The Party" remains one of my very favorite albums.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/35FWLG8Ysjj1BF3sx4F6zM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks**: The Magician, To You, Martha Sways
