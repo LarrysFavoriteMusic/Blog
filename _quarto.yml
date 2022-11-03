@@ -9,7 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - href: about.qmd
-        text: Spotify Playlists
+        text: About
+      - href: playlists.qmd
+        text: Top Songs Playlists
       - text: Top Albums Lists
         menu: 
           - href: ./lists/2021_List.qmd
@@ -24,14 +26,18 @@ website:
             text: '2017'
           - href: ./lists/2016_List.qmd
             text: '2016'
-        
-        
+  search:
+    location: navbar
+    type: overlay
+ 
+title-block-banner: true       
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: slate
     css: styles.css
-    toc: true
+    toc: true  
 
 editor: visual
 

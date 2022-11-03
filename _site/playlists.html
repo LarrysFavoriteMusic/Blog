@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Larry Loves Music - So Why Did You Make This?</title>
+<title>Larry Loves Music - Spotify Playlists</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,9 +25,12 @@ ul.task-list{list-style: none;}
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -52,12 +55,42 @@ ul.task-list{list-style: none;}
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -75,10 +108,10 @@ ul.task-list{list-style: none;}
     <a class="nav-link" href="./index.html">Home</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page">About</a>
+    <a class="nav-link" href="./about.html">About</a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./playlists.html">Top Songs Playlists</a>
+    <a class="nav-link active" href="./playlists.html" aria-current="page">Top Songs Playlists</a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-top-albums-lists" role="button" data-bs-toggle="dropdown" aria-expanded="false">Top Albums Lists</a>
@@ -118,50 +151,60 @@ ul.task-list{list-style: none;}
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
-      <h1 class="title">So Why Did You Make This?</h1>
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Spotify Playlists</h1>
                       </div>
   </div>
+    
+  
   <div class="quarto-title-meta">
+
+      
+      
     </div>
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-jolla">
- <main class="content quarto-banner-title-block" id="quarto-document-content">
-<p>Hello! Thanks for visiting Larry Loves Music (name is pending). For a long time, I’ve been pretty obsessed with music. In highschool I had the opportunity to do a research project of my choosing. As someone done a lot of science projects (and currently do so for living), I wanted to try something else. I wrote</p>
-<section id="my-first-list" class="level1">
-<h1>My First List</h1>
-<p>Approaching finals week, I unsurprisingly was finding myself in the library quite frequently either studying or working on final class projects. I was looking for something to help things bit more bearbile. It then I stumbled on to two different music outlets. The first was the website <a href="https://www.albumoftheyear.org/">Album of the Year</a>. Album of the year is social network/blog type website not dissmilar to sites like <a href="https://rateyourmusic.com/">Rate Your Music</a>. However, an important difference here is that also as a database for both reviews for critics and users of the website. Since it was early December, we were in “list season”; where major publications release their lists for the top albums of the year. Album of the year was also compiling this information to create an average albums of the year list.</p>
-<p>The second outlet is from an NPR podcast that I had already been regularly listening to for about year at this point; <a href="https://www.npr.org/sections/allsongs/">All Songs Considered</a>. A wonderful music podcast hosted by Bob Boilen (the same person who created Tiny Desk Concerts) and Robin Hilton. They had just released a pod discussing listener picks for the best albums of the year. For whatever reason, I found (and still find this…) fascinating. This got me thinking about what my favorite albums of the past year were. I then wrote down some 30 albums, and listened to each one during finals week and picked my 10 favorites. I h</p>
-</section>
-<section id="going-forward" class="level1">
-<h1>Going Forward</h1>
-<p>This project is here for 3 major purpose:</p>
-<ol type="1">
-<li>Compile all of my lists and playlists into one place for ease of access</li>
-<li>Improve coding and writing skills with a website/pseudoblog project</li>
-<li>Make it easier to share my favorite music with a potentially larger audience</li>
-</ol>
-<p>I</p>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
-</section>
-</main> 
-  <hr class="about-sep">
-   <div class="about-links">
-  <a href="mailto:chrislarrylaw08@gmail.com" class="about-link">
-     <span class="about-link-text">email</span>
-  </a>
-  <a href="https://open.spotify.com/user/1213285150?si=9659b21b724b4a54" class="about-link">
-    <i class="bi bi-spotify"></i>
-     <span class="about-link-text"></span>
-  </a>
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1667360861000" data-listing-reading-time-sort="0.08">
+<div class="body">
+<a href="./posts/2021List.html">
+<h3 class="no-anchor listing-title">
+Top 40 Albums of 2018
+</h3>
+<div class="listing-subtitle">
+
+</div>
+<div class="listing-description">
+This column takes 1/3 of the page
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/2021List.html"> </a>
 </div>
 </div>
- <!-- /main -->
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -182,6 +225,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;
