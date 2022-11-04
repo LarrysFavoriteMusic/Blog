@@ -1,6 +1,8 @@
 ---
 title: "Welcome!"
 format: html
+sidebar: false
+search: false
 ---
 
 Hello! Welcome to my website/blog. This website is a collection of all of my top album and songs lists that create in \~December of each year. I may also create some sort of blog if I find the time....
@@ -15,30 +17,9 @@ On this website you'll find:
 
 -   More information on why I make these lists and some thoughts on how approach each year
 
-I largely put this website mostly to collect my thoughts on music into one place. However, if you somehow stumbled onto this website, I hope you discover some cool music you may not have heard of before. Thanks for reading!.
+I put this website together mostly to collect my thoughts on music into one place. However, if you somehow stumbled onto this website, I hope you discover some cool music you may not have heard of before. Thanks for reading!.
 
-If there any bugs or you have suggestions with the website, feel free to reach out to [chrislarrylaw08\@gmail.com](mailto:chrislarrylaw08@gmail.com)
+If you find any bugs or you have suggestions for the website, feel free to reach out to
+[larrysfavoritemusic\@gmail.com](mailto:larrysfavoritemusic@gmail.com)
 
-### This content appears above the formatted about page content.
-
-:::{#hero-heading}
-
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending  time unicycling and playing with her pet iguana.
-
-## Education
-
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Sept 2012 - April 2018
-
-:::
-
-### This content appears below the formatted about page content.
+### 

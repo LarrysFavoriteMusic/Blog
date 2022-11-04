@@ -12,8 +12,10 @@ title-block-banner: true
 ![](images/JuliaJacklin_Crushing.webp){width="248"}
 
 ```{=html}
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4u3aIyQbywYaxgF7TcXuIu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4u3aIyQbywYaxgF7TcXuIu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Don't Know How To Keep Loving You, You Were Right
+
 ## 24. Billie Eilish: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 
 ![](images/When_We_All_Fall_Asleep,_Where_Do_We_Go%20.png){width="259"}
@@ -21,6 +23,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0S0KGZnfBGSIssfF54WSJh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Track**: bury a friend, ilomilo
+
 ## 23. Barrie: Happy to Be Here:
 
 ![](images/a2890044646_65.jpg){width="266"}
@@ -28,6 +32,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/74hkehs2cahKJ7jFLOrxYh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Darjeeling, Dark Tropical
+
 ## 22. Stella Donnelly: Beware of the Dogs
 
 ![](images/StellaDonnelly_BewareOfTheDogs.webp){width="266"}
@@ -35,6 +41,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1pKIMs0GEePXjDC2EiYEb7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks** Old Man, Tricks
+
 ## 21. Urochromes: Trope House
 
 ![](images/a2591922263_10.jpg){width="267"}
@@ -42,6 +50,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/48U0hLIFl2sM9l3xRWIk0R?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks** Milieux, Trapped on a Planet
+
 ## 20. Nilüfer Yanya: Miss Universe
 
 ![](images/NiluferYanya_MissUniverse.webp){width="269"}
@@ -49,6 +59,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4ghm3TST2NwYOIAd5QHjbU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** In Your Head, Safety Net
+
 ## 19. Little Simz: GREY Area
 
 ![](images/LittleSimz_GREYArea.webp){width="270"}
@@ -56,6 +68,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4Wwm4xg2748zhYuzDRFTgY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Offence, Pressure
+
 ## 18. Stef Chura: Midnight
 
 ![](images/Stef-Chura-Midnight.webp){width="284"}
@@ -63,6 +77,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0PMmJ0qQByXO0ROaKYq74k?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Method Man, Jumpin' Jack
+
 ## 17. Andrew Bird: My Finest Work Yet
 
 ![](images/MFWY_Andrew_Bird.jpg)
@@ -70,6 +86,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2xQ1WHVV0MdVSRkpND5P51?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Sisyphus, Manifest
+
 ## 16. Arthur Moon: Arthur Moon
 
 ![](images/ab67616d0000b2730abda348dd32677136914c94.jpg){width="225"}
@@ -77,6 +95,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2qyHO4roesfNRDiLOWMr0G?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Homonormo, I Feel Better
+
 ## 15. Psychedelic Porn Crumpets: And Now for the Whatchamacallit
 
 ![](images/ppc-and-now-for-the-whatchamacallit-1.jpg){width="226"}
@@ -84,6 +104,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1gqmoyxBJ4EQ5yVbs86NAj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Bill's Mandolin, Hymn for a Droid
+
 ## 14. Anderson Paak: Ventura
 
 ![](images/Anderson.Paak_Ventura.webp){width="234"}
@@ -91,6 +113,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0YF8PfcGbsKg5IaFyPnlyY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Winners Circle, Come Home
+
 ## 13. Lillie Mae: Other Girls
 
 ![](images/LillieMae_OtherGirls.webp){width="239"}
@@ -98,6 +122,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/158vIXOymv1hbHh1pCG2fD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Terlingua Girl, You've Got Other Girls for That, A Golden Year
+
 ## 12. Brittany Howard: Jaime
 
 ![](images/brittanyhoward_jaime.webp){width="230"}
@@ -105,6 +131,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6fbphjr9j57oxMB2bnhzUf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Baby, Stay High, Goat Head
+
 ## 11. James Blake: Assume Form
 
 ![](images/Assume_Form.jpg){width="229"}
@@ -112,6 +140,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3VpbXPsAOhcp3duHhkye8g?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Don't Miss It, Where's the Catch?, Assume Form
+
 ## 10. Michael Kiwanuka: KIWANUKA
 
 ![](images/Michael_Kiwanuka_-_Kiwanuka.png){width="245"}
@@ -119,6 +149,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1yIqauTni1V7l7djYAKSsZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Piano Joint, Hero, Solid Ground
+
 ## 9. Weyes Blood: Titanic Rising
 
 ![](images/WeyesBlood_TitanicRising.webp){width="280"}
@@ -126,6 +158,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/53VKICyqCf91sVkTdFrzKX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: A Lot's Gonna Change, Andromeda, Wild Time
+
 ## 8. Tiny Ruins: Olympic Girls
 
 ![](images/tiny%20ruins_olympic%20girls.webp){width="285"}
@@ -133,6 +167,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2fXjFuPIS8mmNjzrm20t4k?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: How Much, Cold Enough to Climb, School of Design
+
 ## 7. Big Thief: Two Hands
 
 ![](images/bigthief_twohands.webp){width="284"}
@@ -140,6 +176,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7pg8T6pajjHVZbiyB8bGxo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Replaced, The Toy, Not
+
 ## 6. Pup: Morbid Stuff
 
 ![](images/Pup_MorbidStuff.webp){width="287"}
@@ -147,6 +185,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/504XSXhUJlzztcMV4YMaDV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** See You at Your Funeral, Morbid Stuff, Scorpion Hill
+
 ## 5. Wilco: Ode to Joy
 
 ![](images/wilco_odetojoy.webp){width="285"}
@@ -154,6 +194,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0RR7qfOCOOHXbPAO1P3G5b?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: An Empty Corner, Love Is Everywhere (Beware), Everyone Hides
+
 ## 4. Bon Iver: i,i
 
 ![](images/ab67616d0000b27357629d831030c7cd9506b49c.jpg){width="280"}
@@ -161,6 +203,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/54DU59anGQsdrFP7utpshG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Hey, Ma, Faith, Sh'Diah
+
 ## 3. Big Thief: U.F.O.F.
 
 ![](images/BigThief_UFOF.webp){width="445"}
@@ -168,6 +212,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5X0bIKvPtSDo4NpXqgrB6p?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Century, U.FO.F, Contact, Cattails
+
 ## 2. Alex G: House of Sugar
 
 ![](images/alexg_houseofsugar.webp){width="455"}
@@ -175,6 +221,8 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2kCDZ3gCr5hXFgbFsPMcxP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Hope, Gretel, Southern Sky, In My Arms
+
 ## 1. Angel Olsen: All Mirrors
 
 ![](images/angelolsen_allmirrors.webp){width="497"}
@@ -182,3 +230,4 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0RedX0LZkGUFoRwFntAaI0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Chance, Lark, New Love Cassette, Tonight

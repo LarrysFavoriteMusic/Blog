@@ -3,6 +3,9 @@ project:
   output-dir: docs
 
 website:
+  reader-mode: true
+  site-url: https://larrysfavoritemusic.github.io/Blog/
+  description: 'A music blog type object'
   title: "Larry Loves Music"
   navbar:
     left:
@@ -26,10 +29,15 @@ website:
             text: '2017'
           - href: ./lists/2016_List.qmd
             text: '2016'
+    right: 
+      - icon: spotify
+        href: https://open.spotify.com/user/1213285150?si=f5db32d6bd624952
   search:
     location: navbar
     type: overlay
- 
+      
+
+  
 title-block-banner: true       
 
 format:
