@@ -7,89 +7,151 @@ format:
 title-block-banner: true
 ---
 
-This was a bad year.
+This was a bad year. Early in March, 2020 I had packed up my car and embarked for Boulder, Colorado for a 2 month internship with my buddy Matt. We had been hearing stuff on the news about COVID, but didn't think things would get too bad. When I arrive at work, i find out that if I had shown up a day later, they weren't going to let me in the building. A few days, we get the "go home for 2 weeks" instruction. A week later I packed my car back to go home, and not leave really leave home for a long time. To make things worse, the presidential election became an utter shit show, with election "night" stretching into election week. With all this in the background, this made for an odd year of music for me. I find that this list is a more melancholy or experimental than other years, which probably matches how I felt at the time. Still, despite all of the awfulness that came out of this year, I did manage to find some truly great music.
 
 ## 25. Jenny O: New Truth {#sec-25.-jenny-o-new-truth}
+
+On the surface, this album feels like a very straightforward indie rock record. And yet, this album contains a lot little things in the background that seem to make it stick out amongst the crowd. The truly great "What About that Day" starts off as this simple acoustic song and takes cool turn with an interesting chord progression and cascading harmonies. Tons of great stuff here.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2LS3eg9v6U1KFpdvmqmuPE?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe
 ```
-## 24. Chicano Batman: Invisible People
+**Key Tracks:** What About That Day, God Knows Why
+
+## 24. Chicano Batman: Invisible People {#sec-24.-chicano-batman-invisible-people}
+
+Few albums from this year made me bob head as much as this album It's filled with funky grooves, fuzzy guitars, and playful vocals. A very consistent album conically, perfectly personified by the closing track "Wounds"
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2sS14o33EFyvcUPu2dfPOT?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-## 23. Jeff Tweedy: Love is the King
+**Key Tracks:** Wound, Color my life
+
+## 23. Jeff Tweedy: Love is the King {#sec-23.-jeff-tweedy-love-is-the-king}
+
+Jeff Tweedy's musical output this past decade has been nothing short of impressive. Love is the King is possibly is best solo work with some of his most introspective songwriting. There is a wondeful coziness on tracks like "Guess Again". But the highlight is title track of the album and maybe the best lesson to take from this year.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3cuftKYEWJF8MT8sqAv6ov?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Love is the King, Guess Again
+
 ## 22. The Strokes:: The New Abnormal
+
+The Strokes are arguably one of the most influential bands from the early 2000s, particularly for growth and subsequent oversaturation of indie rock. Therefore, I was pretty excited to find that can still produce a great record. While not wild different in sound, the synth riffs and jangly guitars on "Brooklyn Bridge to Chorus" is them back at the height of their powers.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2xkZV2Hl1Omi8rk2D7t5lN?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Brooklyn Bridge to Chorus, Bad Decisions
+
 ## 21. Lawn: Johnny
+
+Coming off a terrific debut album "Blood on the Tracks", Lawn follow up with an equally impressive record "Johnny". A major standout on this album is having two songwriters who write distinct songs from one another, whether it's the brighter songs like "Nighttime Creatures" or more jammy, sprawling songs like "Jane Ryan".
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5kqu0mFYuMkeZdPgyYX0UD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Nightime Creatures, Playing Dumb
+
 ## 20. Sylvan Esso: Free Love
+
+This first word that always that pops into my head when I listen to Slyvan Esso is "charming" and this album is no different. Like albums of the past, it contains bangers in "Ferris Wheel" and "Ring" and tracks on their more experimental side like "Make It Easy".
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2KAPJ40On8JY1Yt64JJgTk?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Ferris Wheel, Ring
+
 ## 19. Haim: Women in Music Pt. III
+
+This is by far my favorite music to come from Haim, making just a really consistent, catchy indie pop record. I adore the opening the track "Los Angeles" with the ringing guitars and loose saxophone solo, and the anthemic "The Steps".
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4qNGDMsRNqDQZPkTWyyeRF?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Los Angeles, The Steps
+
 ## 18. The Beths: Jump Rope Gazers
+
+The Beths music always contains some much energy, that it can't help but improve my mood. The combination of the pop punk/power pop combined with the sweet vocals make for some great song arrangements. There is also tons of great drumming on this album, which make songs like "Dying to Believe" really pop.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5rwWTJEIAyzBbRjEU0BTfA?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Dying to Believe, Out of Sight
+
 ## 17. Bonny Light Horseman
+
+When you have 3 incredibly established musicians in Eric. D. Johnson, Josh Kaufman, and Anais Mitchell, you can't be surprised when they produce something great. There is just some truly beautiful song writing on display, and provided some great comfort during lockdown. In particular, I love the hollow body acoustic strumming on "The Roving" and the vocal performance on "Deep in Love". There's even a fun Bon Iver feature!
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5OgTkrQuF1aL0FtsTi5KmV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Deep in Love, The Roving
+
 ## 16. Car Seat Headrest: Making a Door Less Open
+
+One of the most polarizing releases of the year, and admittedly, I wasn't much of a fan at first. However, I largely put that down to coming into the album thinking I was getting another ambitious, timeless rock album, which put me in the wrong headspace. Over time, this album continued to grew on me, and while not on the same level as "Twin Fantasy" or "Teens of Denial", its still a great record. My highlight of the album is "Hollywood", which on paper should be just god awful song (my immediate comparison is Weezer's "Beverly Hills") and yet the guitar riff is enough to make me blast it every time it comes on my queue.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0p6P42zHY2W8Zd7BKBcKQg?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Hollywood, There Must Be More than Blood
+
 ## 15. The Flaming Lips: American Head
+
+At this point, the Flamming lips had been around for 37 years, and they are still making truly amazing albums. This album contains so many moments of pure psychedelic beauty, featuring wavy guitars, dreamy production, and layered harmonies. "Mother Please Don't Be Sad" is an emotional gut punch, narrating from the perspective of a son trying to console his mother from the afterlife. The guitar and vocal harmonies in the middle of this track are truly breathtaking.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4H8NX3ovAZdY2iJmwSNqlw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Mother Please Don't Be Sad, Dinosaurs on the Mountain
+
 ## 14. Adrianne Lenker: songs
+
+When Adrianne Lenker is fronting one of the best bands in music, she also producing amazing solo records. This album coupled with the wonderful aptly named "instrumentals", contains some of Adrianne's best song writing. The very light production on the track "anything" bring a delicacy that compliment the vulnerability in the lyrics. This album also showcases what terrific guitar player Lenker is, dancing all over the neck of her guitar on songs like "two reverse". I also love the sound that comes from her decision to play her guitar with a paintbrush on "dragon eyes" which gives the song just enough of a percussive sound. Yet another album that brought me a lot comfort this year.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Qt8Z1LB3Fsrf6nhBNsvUJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Home, You and I
+
 ## 13. Caribou: Suddenly
+
+Electronic albums are typically pretty hit or miss for me, particularly house records, so I can sometimes (and unfairly) approach them with some hesitation. This album however, is a major exception. Caribou walks the fine line between experimental almost glitch poppy tracks (You and I) and fun, danceable tracks (Home). On top of that, this album is amazingly consistent, with rarely a dull moment on the record. If people find me more records like this, you could quickly turn me into an electronic music fan.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4wSb7OhVUzw3u76lta9fJw?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 ## 12. Lomelda: Hannah
 
+There is this amazing spaciousness to this record that draws me back to it fairly often. Many of the arrangements are often not much more than some simple acoustic guitar, a simple drum kit, and the sweet but casual vocals from Lomelda, and yet can be so impactful. The highlight of the album is "Hannah Sun" that starts with some simple strumming of an acoustic guitar with some synth for effect and slowly builds in volume only to fade away once again leaving just Lomelda and her guitar. Still, this album has moments of bigger sound like on the delightful "Wonder", or a "Reach", which sounds like it belongs on Weezer's "Blue Album", right after Undone. (I recognize this is the second Weezer reference I've made and I'm not sure why it's keeps happening).
+
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0xyYtBmta0jBeqXOJsocSJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Hannah Sun, Wonder
+
 ## 11. Lianne La Havas: Lianne La Havas
+
+My favorite R&B record of the year, showcases how talented Lianna La Havas is. The opening track "Bittersweet" really sets the you up for how the rest of the record is going to be, with silky smooth arrangements and incredibly vocal performances. This album also includes a really amazing cover of Radiohead's "Weird Fishes", which as far as I'm concerned, her version is about 10 times better than the original. Hard to say much more than just an incredibly talented R&B artist made a wonderful record.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6JwtB0zzNYy4qANDrJtrJy?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Bittersweet, Can't Fight
+
 ## 10. Cindy Lee: What's Tonight to Eternity
+
+The album just absolutely fascinates me. On it's base, many of the songs are pretty on face value. Yet, you have the lo-fi production surrounding the songs, making for a truly eerie listening experience. The halloween-esq "I Want You To Suffer" begins with this almost Scooby Doo vibe to it before descending into pure distortion and feed back that is honestly quite unsettling, before coming back into focus. The following track has this 1940s song quality to it, but feels like it's being played on a broker radio playing in another room. The album closes on it's best track, "Heavy Metal", sharing a similar oldies song style to it, but has this infectious guitar riff, a swelling string section, and a sweet choir of vocals, ending an album that at times can be quite abrasive, on a beautiful note.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5BEV4gGnAkRsLuoW3FQeqN?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 ## 9. Nick Hakim: WILL THIS MAKE ME GOOD
+
+This albu
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5wHIOaV0DXf73kL7i5blmM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

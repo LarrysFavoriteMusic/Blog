@@ -5,7 +5,7 @@ sidebar: false
 search: false
 ---
 
-Hello! Welcome to my website/blog. This website is a collection of all of my top album and songs lists that create in \~December of each year. I may also create some sort of blog if I find the time....
+Hello! Welcome to my website/blog. This website is a collection of all of my top album and songs lists that make around December of each year. I may also create some sort of blog if I find the time....
 
 On this website you'll find:
 
@@ -19,7 +19,6 @@ On this website you'll find:
 
 I put this website together mostly to collect my thoughts on music into one place. However, if you somehow stumbled onto this website, I hope you discover some cool music you may not have heard of before. Thanks for reading!.
 
-If you find any bugs or you have suggestions for the website, feel free to reach out to
-[larrysfavoritemusic\@gmail.com](mailto:larrysfavoritemusic@gmail.com)
+If you find any bugs or you have suggestions for the website, feel free to reach out to [larrysfavoritemusic\@gmail.com](mailto:larrysfavoritemusic@gmail.com)
 
 ### 
