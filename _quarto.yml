@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 
-website:
+website: 
   reader-mode: true
   site-url: https://larrysfavoritemusic.github.io/Blog/
   description: 'A music blog type object'
@@ -29,6 +29,9 @@ website:
             text: '2017'
           - href: ./lists/2016_List.qmd
             text: '2016'
+      
+      - href: ListofBlogs.qmd
+        text: Music Discovery
     right: 
       - icon: spotify
         href: https://open.spotify.com/user/1213285150?si=f5db32d6bd624952
@@ -36,7 +39,6 @@ website:
     location: navbar
     type: overlay
       
-
   
 title-block-banner: true       
 

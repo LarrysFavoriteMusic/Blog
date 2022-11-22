@@ -1,0 +1,31 @@
+---
+title: "Some Places to Discover New Music"
+format:
+  html:
+    code-fold: true
+editor: visual
+---
+
+Here some website and podcasts that I use for music discovery.
+
+-   [All Songs Considered](https://www.npr.org/sections/allsongs/) (especially New Music Friday).
+
+-   [Album of the Year](https://www.albumoftheyear.org/)
+
+-   [Bandcamp](https://bandcamp.com/) (particularly Bandcamp Weekly)
+
+-   [Post Trash](http://post-trash.com/)
+
+-   [Gorilla vs Bear](https://www.gorillavsbear.net/)
+
+-   [r/indieheads](https://www.reddit.com/r/indieheads/)
+
+-   [The Needle Drop](https://www.youtube.com/@theneedledrop)
+
+-   [A Closer Listen](https://acloserlisten.com/)
+
+-   [Pitchfork](https://pitchfork.com/)
+
+-   [Loud and Quiet](https://www.loudandquiet.com/)
+
+-   My texting group chat entitled "Safe Place for Pretentious Musical Discussion" (Hi Tim, Jo, and Sid)
