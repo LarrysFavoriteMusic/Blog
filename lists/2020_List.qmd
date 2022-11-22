@@ -135,7 +135,7 @@ There is this amazing spaciousness to this record that draws me back to it fairl
 
 ## 11. Lianne La Havas: Lianne La Havas
 
-My favorite R&B record of the year, showcases how talented Lianna La Havas is. The opening track "Bittersweet" really sets the you up for how the rest of the record is going to be, with silky smooth arrangements and incredibly vocal performances. This album also includes a really amazing cover of Radiohead's "Weird Fishes", which as far as I'm concerned, her version is about 10 times better than the original. Hard to say much more than just an incredibly talented R&B artist made a wonderful record.
+My favorite R&B record of the year, showcasing how talented Lianna La Havas is. The opening track "Bittersweet" really sets the you up for how the rest of the record is going to be, with silky smooth arrangements and incredibly vocal performances. This album also includes a really amazing cover of Radiohead's "Weird Fishes", which as far as I'm concerned, is about 10 times better than the original. Hard to say much more than just an incredibly talented R&B artist made a wonderful record.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6JwtB0zzNYy4qANDrJtrJy?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -151,48 +151,81 @@ The album just absolutely fascinates me. On it's base, many of the songs are pre
 ```
 ## 9. Nick Hakim: WILL THIS MAKE ME GOOD
 
-This albu
+Nick Hakim has an amazing talent to create these woozy, dreamy R&B records and this is no exception. Compared to his fantastic debut "Green Twins" this record often feels that it's in no rush, with song containing tempos that almost feel like they purposely drag. Compared to previous works that had Nick's vocals under tons of reverb, his voice feels more out in front with beautiful arrangements that compliment this so nicely. My favorite song on the record "Gods Dirty Work" has this amazing contrast between a strummed acoustic and a silky smooth lead guitar that just play off each other in way that I'm just in love with. The peaceful "Whoo" with a subtle flute notes towards the end, providing a perfect way to close this album. A great companion for relaxing evening.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5wHIOaV0DXf73kL7i5blmM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks**: Gods Dirty Work, Qadir, Whoo
+
 ## 8. Deerhoof: Future Teenage Cave Artists
+
+This band just straight up kicks ass. The latest project from Deerhoof comes in with this wacky noise rock album, pushing the limits of this band. There is plethora of this ringing, and at times, grating guitar that just breathe so much life into these tracks. I love the technically proficient and yet deliberately off beat screeching guitar on "Sympathy for the Baby Boo" or the climbing scales in "Farewell Symphony" that descend into pure chaos in the second half of the record. "O Ye Saddle Babes" stands out has this fun, funky song, that almost feels dancable. The album ends with this lovely piano instrumental that almost feels like a palate cleanser at the end of wonderful but truly bizarre experience. Perhaps the only thing more chaotic then the sounds on this album is the incomprehensible track names.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4I9skhRTov4hKAxAgoclt3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Sympathy for the Baby Boo, "Farewell" Symphony, O Ye Saddle Babes
+
 ## 7. Pinegrove: Marigold
+
+There are few words for how much I adore this band and their previous album "Skylight" and they did not disappoint on their followup "Marigold". This band manages to change their sound each record to keep things interesting without compromising what makes they great. The album starts of strong with "Dotted Line" containing fantastic harmonies and a fantastic guitar riff that always gets stuck in my head. "The Alarmist" some their lead singer Evan Stephens Hall's absolutely best song writing tied to one of his best vocal performances for the band, particularly on the bridge. "Moment" almost feels like a jam session on the back end of the track. The album also contains the prophetic "Endless" that Pinegrove described at one of their live shows as an "accidental pandemic song". This indie rock/country/southern rock band from New Jersey does it again.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6gVVXym1g4L51txS2e6slf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** The Alarmist, Dotted Line, Moment
+
 ## 6. Fiona Apple: Fetch The Bolt Cutters
+
+This record from the already beloved Fiona Apple was undisputed critics album of the year (Pitchfork gave this album its first 10/10 since Kanyes' My Beautiful Dark Fantasy) and I kind of get it. This album is incredibly in your face and uncompromising. Fiona Apple pulls no punches lyrically and take a lots risks musically that just work amazingly. In particular, there is tons of great piano work on "Shamekia" or the empowering "Under the Table". The title track contains this awesome lounge room vibe with the brushed snare drum and the standup bass. Fiona Apple reallly went for it on this album and was largely a success. One question I have about this record, is if it will have be as beloved at the end of the decade as it was this at the beginning.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0fO1KemWL2uCCQmM22iKlj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Shameika, Fetch the Bolt Cutters, Under the Table
+
 ## 5. Fleet Foxes: Shore
+
+This album was a gift when it released. It was released very suddenly in late September, as we approached the first dark winter of COVID for the U.S. and we were in the middle of the clusterfuck that was the 2020 presidential election. In short, things were scary and tense. The world needed (or at least I believe the world needed) this record. "Shore" feels like a sister album to the fantastic (and slightly underrated if you ask me) "Crack Up". However, rather than the grandiose songwriting that can make the approaching the project a bit daunting, on "Shore" the Fleet Foxes simplified things to allow songs to work better on their own, and to wonderful effect. This is just this bright optimism on songs like "Sunblind" that filled me with comfort. "Featherweight" is a standout track on the record, open with plucky acoustic guitar and an almost sea-faring vibe to it. As all Fleet Foxes albums, their are layered harmonies, folk acoustics that border on medieval aesthetics , and the undeniably melodic lead vocals from Robin Pecknold. I'm not sure I've ever had an album that came at such a perfect time in my life more than this and it's hard not to come back to this album with the exact same feeling.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0lmjCPEcec2k6L7ysNIcd3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Sunblind, Featherweight, Can I Believe You
+
 ## 4. Laura Marling: Song for Our Daughter
+
+My favorite record from the singer/songwriter legend that is Laura Marling. Top to bottom, this is truly a wonderful exhibit in songwriting. "Held Down" was a song I was absolutely obsessed 2020, with hollow bodied guitar, Laura's confident vocals, and a busy bass-line that just fits the song well. The great opening track "Alexander", according to Laura Marling, is in response to the Leonard Cohen song "Leaving Alexander" where she tries to gives the Alexander agency, which I find to be such a cool concept. "Song For Our Daughter" is as exactly as you would expect, thinking about and providing advice for her daughter. This album is full of amazing moments and another comforting album that got me through the shit year of 2020.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0ubXthGSkZfe30Nuj91lcu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Held Down, Alexandra, Song for Our Daughter
+
 ## 3. illuminati hotties: FREE I.H: This is Not the One You've Been Waiting For
+
+This album honestly surprised me a bit. Sarah Tudzin illuminati hotties released a really fun power pop/indie rock record in 2018, so I was interested to find out that this project was releasing a new album. However, this is no typical follow record, really considered more of a mixtape. At its core, this album is a punk album, filled with great production and biting lyrics. "Freed Ppls" is this almost speed metal like track that hits hard and collapses into chaos. "Content//Bedtime" is the describes the all too real feeling of a having a day being filled with just work then bed (probably a little to well...). Another striking thing about this record is it's brevity, coming in at a very quick 23 minutes with only 1 song lasting longer than 2 and half minutes. Despite much of the album being recorded before the pandemic, the lyrics on "Free Dumb" reading "there was no love lost until you demand that I was non-essential" hits much harder in the context of 2020. And yet, it feels as if you get a full album experience. The closing track is a nice way to close out feelings of anger and anxiety, with Sarah thinking of things about loved ones that make her happy. This mixtape may not be the one we were supposed to wait for, but it's hard to deny that something truly special was made here.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1DGMVrNrgevKdEsKW8G4uZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Free Ppls, Content/Bedtime, Melatonezone, Superiority Complex (Big Noise)
+
 ## 2. Andy Shauf: The Neon Skyline
+
+Above all, Andy Shauf is a story teller. On his truly extraordinary "The Party", Andy had already demonstrated his ability to craft a concept album. Here on the "Neon Skyline" Andy steps back the lush arrangements just a bit to allow for the story to take center stage, following a guy hearing about his ex-girlfriend returning to his hometown, only to run into her at while out at the bar, and unsuccessfully trying to make his move. This album is only about 34 minutes, and yet there is so much characterization throughout, whether it's talking about reincarnation on "Dust Kids" or on the lounge-room like "Living Room" where a mother laments her acting like her father toward her own kid. Andy Shauf's voice serves as a perfect narrator, providing a pleasant tone that doesn't distract the story telling throughout the song. I'm just not aware of other artists that can capture the intimacy of relate able situations quite like Andy. The album closes perfectly with "Changer", where the protagonist and his ex are just catching up talking about how the met and what brought them back to town, enveloped with a sweet but simple guitar part and Andy's distinct clarinets. You truly feel like you have lived through this experience, and all in just 34 minutes.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/41M6R2mWLgqU9aKFUvZv8S?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Living Room, Changer, Try Again, The Neon Skyline
+
 ## 1. Phoebe Bridgers: Punisher
+
+I'm not sure if there was anyone better equipped to release a record during a pandemic or during major social unrest than Phoebe Bridgers. I also am not sure this would be my album of the year if it was released on a different. But context matters so much when making these lists, and it was an obvious choice for the top spot in 2020. This just struck a perfect emotional chord with me. There is also just a truly amazing number of amazing songs. "Kyoto" is this fun ( well at least sonically) song with a memorable trumpet part to the track and chorus that's just begging you to scream-sing along. "Saviors Complex" has this incredible melody that I can't help but hum along with every time it comes on. "ICU" has the slow burn to it that builds to the amazing final chorus and has the great lyric 'I hate your mom, I hate when she opens her mouth. It's amazing to me how much you can say when you don't know what your talking about" The albums ends with the truly cathartic finale on "I Know the End", ending with Phoebe just screaming, which was just such a relateable feeling at the time. The album inevitably launched Phoebe into stardom, and it's just such a cool thing to see, as this is an artist I had heard of since college, before her full-length debut. All in all, this album may not be all time favorite number 1 album of a year, but it's one of the most important number 1 albums on all of the lists I've made.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2xECuqnvvmVktV7UO8Dd3s?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
+**Key Tracks:** Kyoto, ICU, Garden Song, Savior Complex
