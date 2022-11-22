@@ -10,7 +10,7 @@
 <atom:link href="https://larrysfavoritemusic.github.io/Blog/playlists.xml" rel="self" type="application/rss+xml"/>
 <description>A music blog type object</description>
 <generator>quarto-1.1.251</generator>
-<lastBuildDate>Tue, 22 Nov 2022 06:04:24 GMT</lastBuildDate>
+<lastBuildDate>Tue, 22 Nov 2022 06:27:43 GMT</lastBuildDate>
 <item>
   <title>Top 40 Albums of 2018</title>
   <link>https://larrysfavoritemusic.github.io/Blog/posts/2021List.html</link>
@@ -32,7 +32,7 @@
 
  ]]></description>
   <guid>https://larrysfavoritemusic.github.io/Blog/posts/2021List.html</guid>
-  <pubDate>Tue, 22 Nov 2022 06:04:24 GMT</pubDate>
+  <pubDate>Tue, 22 Nov 2022 06:27:43 GMT</pubDate>
 </item>
 </channel>
 </rss>

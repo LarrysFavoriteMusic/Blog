@@ -5,7 +5,7 @@ about:
   template: jolla
   links: 
     - text: email
-      url: "mailto:chrislarrylaw08@gmail.com"
+      url: "mailto:larrylovesmusic@gmail.com"
     - icon: spotify
       url: "https://open.spotify.com/user/1213285150?si=9659b21b724b4a54"
 ---

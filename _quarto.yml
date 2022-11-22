@@ -33,6 +33,8 @@ website:
       - href: ListofBlogs.qmd
         text: Music Discovery
     right: 
+      - icon: envelope
+        href: mailto:larrylovesmusic@gmail.com 
       - icon: spotify
         href: https://open.spotify.com/user/1213285150?si=f5db32d6bd624952
   search:
