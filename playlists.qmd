@@ -1,14 +1,86 @@
 ---
 title: "Spotify Playlists"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-  feed: true
 page-layout: full
 title-block-banner: true
 ---
 
+# Top Songs 2021
+
+1.  G.S.K - Squid
+2.  Be Sweet - Japanese Breakfast
+3.  MMMOOOAAAAAAYAYA - illuminati hotties
+4.  Romeo - Jungle feat Bas
+5.  Orange - Pinegrove
+6.  Pocket Square Mother Fucker
+7.  Holocene - Zella Day feat Weyes Blood
+8.  Write A List of Things to Look Forward to - Courtney Barnett
+9.  Delicious Things - Wolf Alice
+10. Secrets (Your Fire) - Magdalena Bay
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5ufXFtIXpYXFBXKqGqN1eG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+# 2020 
+
+1.  Will Call - Brass Tracks feat Elliott Skinner, Victoria Canal
+2.  Kyoto - Phoebe Bridgers
+3.  Held Down - Laura Marling
+4.  Home - Caribou
+5.  Heavy Metal - Cindy Lee
+6.  The Alarmist - Pinegrove
+7.  Sympathy for the Baby Boo - Deerhoof
+8.  free ppls - illuminati hotties
+9.  Living Room - Andy Shauf
+10. Selling Candy - Ohm (now called Fionom)
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4BBP8JJgfNq8H25V8stCFB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+# 2019 
+
+1.  Hope - Alex G
+2.  Chance - Angel Olsen
+3.  Century - Big Thief
+4.  Don't Miss It - James Blake
+5.  Morbid Stuff - PUP
+6.  Faith - Bon Iver
+7.  A Lot's Gonna Change - Weyes Blood
+8.  An Empty Corner - Wilco
+9.  Replaced - Big Thief
+10. Terlingua Girl - Lillie Mae
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ffCWw6yXdCaTU9PM1YSJK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+# 2017 
+
+1.  Sugar for the Pill - Slowdive
+2.  Bet She Looks Like You - Nick Hakim
+3.  Mythological Beauty - Big Thief
+4.  Thinking of a Place - The War on Drugs
+5.  Driver - John Andrews & The Yawns
+6.  Baybee - Jay Som
+7.  Continental Breakfast - Courtney Barnett, Kurt Vile
+8.  Saturnz Barz - Gorillaz feat Popcaan
+9.  Shark Smile - Big Thief
+10. Die Young - Sylvan Esso
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4fsurEdMqyxifShZY9c0qI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+# 2010s
+
+1.   How Long Must I Wait - Dr. Dog
+2.  I Love You, Honeybear - Father John Misty
+3.  Gimme All You Love - Alabama Shakes
+4.  Feels Like We Only Go Backwards - Tame Impala
+5.  The Magician - Andy Shauf
+6.  Sugar of the Pill - Slowdive
+7.  Pedestrian at Best - Courtney Barnett
+8.  Shark Smile - Big Thief
+9.  Hope - Alex G
+10. Vincent - Car Seat Headrest
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6EXEQs8BQa888Z0aF0TxfI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
