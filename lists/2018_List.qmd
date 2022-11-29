@@ -5,8 +5,24 @@ format:
     code-fold: true
 ---
 
-This was a very significant year of change for me. I graduated from SUNY College of Environmental Science and Forestry in May 2018, and started my Ph.D in atmospheric sciences at the University of Albany a couple of weeks later. It seems fitting this was the year I decided switch up the format for the album of the list. If there was one year I could pick to redo a list for, it's probably this one. I decided on choosing 40 albums rather than 10 or 25 as there was just a ton of albums I really liked that year that I wanted to represent in some way. Look back now, I was right; there are just a ton of albums that I enjoy that year. However, 40 was probably a few too many as there are a handful of albums that haven't aged well for me. I would probably reshuffle the Top 10 pretty significantly as well. Albums like Low's hauntingly beautiful and experimental "Double Negative" or Beach House's subperb "7" probably deserve to be higher up on this list, while albums like Lucy Dacus's "Historian" or the fun hot mess that is Anderson.Paak's "Oxnard" probably should be lower on the list. Still, 2018 had a lot of music I really loved, and I often associate with graduation. It's hard not to look back at this list with nostalgia.
+This was a very significant year of change for me. I graduated from SUNY College of Environmental Science and Forestry in May 2018, and started my Ph.D in atmospheric sciences at the University of Albany a couple of weeks later. It seems fitting this was the year I decided switch up the format for the album of the list. If there was one year I could pick to redo a list for, it's probably this one. I decided on choosing 40 albums rather than 10 or 25 as there was just a ton of albums I really liked that year that I wanted to represent in some way. Look back now, I was right; there are just a ton of albums that I enjoy that year. However, 40 was probably a few too many as there are a handful of albums that haven't aged well for me. I would probably reshuffle the Top 10 pretty significantly as well. Albums like Low's hauntingly beautiful and experimental "Double Negative" or Beach House's subperb "7" probably deserve to be higher up on this list, while albums like Lucy Dacus's "Historian" or the fun hot mess that is Anderson.Paak's "Oxnard" probably should be lower on the list. Most regrettably, Pinegrove's "Skylight" is suspiciously missing from this list, which I still cannot believe I didn't include. Still, 2018 had a lot of music I really loved, and I often associate with graduation. It's hard not to look back at this list with nostalgia.
 
+## My Favorite Songs of 2018
+
+1.  Beach Life-In-Death - Car Seat Headrest
+2.  Mither - Bill Ryder-Jones
+3.  Rings - Pinegrove
+4.  City Looks Pretty - Courtney Barnett
+5.  Lemon Glow - Beach House
+6.  Great No One - The Beths
+7.  Almost Had to Start a Fight/In and Out of Patience - Parquet Courts
+8.  To Be - Fox Warren
+9.  Nevermine - Fourth Wanderers
+10. 6 Summers - Anderson .Paak
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5LG7vPzO2U3w453BfkxtR3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
 ## 40. Miya Folick: Premonitions:
 
 ```{=html}

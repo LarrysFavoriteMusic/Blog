@@ -5,6 +5,26 @@ format:
     code-fold: true
 ---
 
+sdf
+
+## My Favorite Song of 2017
+
+1.  Sugar for the Pill - Slowdive
+2.  Bet She Looks Like You - Nick Hakim
+3.  Mythological Beauty - Big Thief
+4.  Thinking of a Place - The War on Drugs
+5.  Driver - John Andrews & The Yawns
+6.  Baybee - Jay Som
+7.  Continental Breakfast - Courtney Barnett, Kurt Vile
+8.  Saturnz Barz - Gorillaz feat Popcaan
+9.  Shark Smile - Big Thief
+10. Die Young - Sylvan Esso
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4fsurEdMqyxifShZY9c0qI?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+# 
+
 ## Honorable Mention. Sylvan Esso: What Now
 
 ```{=html}

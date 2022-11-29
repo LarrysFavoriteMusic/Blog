@@ -7,6 +7,24 @@ format:
 title-block-banner: true
 ---
 
+## My Favorite Songs of 2019
+
+# 2019
+
+1.  Hope - Alex G
+2.  Chance - Angel Olsen
+3.  Century - Big Thief
+4.  Don't Miss It - James Blake
+5.  Morbid Stuff - PUP
+6.  Faith - Bon Iver
+7.  A Lot's Gonna Change - Weyes Blood
+8.  An Empty Corner - Wilco
+9.  Replaced - Big Thief
+10. Terlingua Girl - Lillie Mae
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ffCWw6yXdCaTU9PM1YSJK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
 ## 25. Julia Jacklin: Crushing
 
 ![](images/JuliaJacklin_Crushing.webp){width="248"}

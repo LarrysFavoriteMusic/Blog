@@ -4,7 +4,11 @@ page-layout: full
 title-block-banner: true
 ---
 
-# Top Songs 2021
+Each year, in addition to my top albums, I make top songs playlist as well (just in case people don't want to list to \~25 albums....). These playlists allow me to share songs that I love that aren't necessarily on top albums or only are released as singles.
+
+Typically the playlists consist of 100 songs. In 2018, because I chose 40 albums rather than 10 or 25, I decided against a making top songs playlist. Additionally, for 2016, I did not make a top songs playlist as it was my first ever list. However, for both 2016 and 2018, I made 25 song playlist to showcase some of my favorite songs from those years.
+
+# 2021
 
 1.  G.S.K - Squid
 2.  Be Sweet - Japanese Breakfast
@@ -20,7 +24,7 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5ufXFtIXpYXFBXKqGqN1eG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-# 2020 
+# 2020
 
 1.  Will Call - Brass Tracks feat Elliott Skinner, Victoria Canal
 2.  Kyoto - Phoebe Bridgers
@@ -36,7 +40,7 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4BBP8JJgfNq8H25V8stCFB?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-# 2019 
+# 2019
 
 1.  Hope - Alex G
 2.  Chance - Angel Olsen
@@ -52,7 +56,23 @@ title-block-banner: true
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4ffCWw6yXdCaTU9PM1YSJK?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-# 2017 
+# 2018
+
+1.  Beach Life-In-Death - Car Seat Headrest
+2.  Mither - Bill Ryder-Jones
+3.  Rings - Pinegrove
+4.  City Looks Pretty - Courtney Barnett
+5.  Lemon Glow - Beach House
+6.  Great No One - The Beths
+7.  Almost Had to Start a Fight/In and Out of Patience - Parquet Courts
+8.  To Be - Fox Warren
+9.  Nevermine - Fourth Wanderers
+10. 6 Summers - Anderson .Paak
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5LG7vPzO2U3w453BfkxtR3?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+# 2017
 
 1.  Sugar for the Pill - Slowdive
 2.  Bet She Looks Like You - Nick Hakim
@@ -86,7 +106,7 @@ title-block-banner: true
 ```
 # 2010s
 
-1.   How Long Must I Wait - Dr. Dog
+1.  How Long Must I Wait - Dr. Dog
 2.  I Love You, Honeybear - Father John Misty
 3.  Gimme All You Love - Alabama Shakes
 4.  Feels Like We Only Go Backwards - Tame Impala
