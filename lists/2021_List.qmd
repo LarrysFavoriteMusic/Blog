@@ -11,7 +11,9 @@ website:
     openSidebar: false
 ---
 
-2021 contained many large changes for both the world and myself. A new president was elected, vaccines for COVID-19 were distributed, the world began opening up again and during the fall, I moved to Boulder Colorado from September to December. This list was probably one of my less experimental years of music, with a fantastic year for women in music (9 out 10 artists in the top 10 and 18 of the top 25 albums were female artists or bands led by women).
+2021 represented a year of both healing and pain. A good end of things, a new president was elected, vaccines for COVID-19 were distributed and the world began opening up again. But the all too real problems surrounding climate change were present particularly in the summer as much of North America was engulfed in smoke. I spent much of my summer at the summit of Whiteface Mountain, collecting cloud water and aerosol data for my eventual dissertation and was truly horrified by how hazy so many of the days were, despite being 100s-1000s of miles away from the actual fires. During the fall, I had the great pleasure of moving to Boulder, Colorado, for a few months, which was a welcome change from being stranded in my apartment.
+
+This list really highlights how much women kicked ass in the music industry in 2021, with 9 out of the top 10 albums and 18 of the top 25 albums were from female artists or female led bands. It was also a list that was considerably cheery than its 2020 counterpart which has to be tied to my improved mood throughout 2021. The only critique of this list I probably would have is a general lack of folk/acoustic/singer songwriter type music. Even so, this album was a perfect companion for a year that represented both healing and tragedy.
 
 ## My Favorite Songs of 2021
 
@@ -31,12 +33,16 @@ website:
 ```
 ## 25. Hiatus Kaiyote: Mood Valiant
 
+Jazz/Funk/R&B fusion (or some combination of those genres) is back after the cult classic "Choose Your Weapon". In all honesty, "Choose Your Weapon" was an album that I really wanted to like but could really nice grab on to, so admittedly I wasn't sure what to expect with this record. With Mood Valiant, Hiatus Kaiyote delivers finding the perfect sweet spot between intricate arrangements and catchy songwriting. "Red Room" is such an ear worm, with such unassuming instrumentation and subtle vocals.
+
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/456WeVeZk38VJuqg2sL7QG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 **Key Track:** Red Room, Chivalry is Not Dead
 
 ## 24. W.H. Lung: Vanities
+
+There is a shroud of mystique and erieness that surrounds this record. Each electropop track contains a heart pumping beat that drives each song forward that will inevitably have you bopping your head along. On tracks like "Gd Tym" (which I think is pronounced "good time"), I get this sense of urgency within the vocal performances, that give provide so much energy. This was album I can back to often whenever I needed a pickme up in my energy levels.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3ibpHV6iYgRzBVMOuqBCwn?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -45,12 +51,16 @@ website:
 
 ## 23. Fruit Bats: The Pet Parade
 
+At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. Johnson seems to be on a role, with three terrific album releases in row. On The Pet Parade, Fruit Bats do what they do best, creating a wonderful collection of indie-folk tracks. "Pet Parade" has this wonderful soaring chorus surrounded by big acoustic guitars and fiddles. "Holy Rose" confronts the very real challenges of balancing your personal life with the unsettling realities of climate change. For any indie-folk fan, this an album worth spending time with.
+
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4fyZyhtsOevsFYLbLitaHZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 **Key Tracks:** The Pet Parade, Holy Rose
 
 ## 22. Black Country, New Road: For the first time
+
+2021 seemed to be a pretty darn good year for British post-punk bands. This is the first of 2 of this category on this list, with really promising debut from Black Country, New Road. The album starts energetically with the aptly named "Instrumental" led by a dueling keyboard and saxophone. "Athens, France" is a true highlight, consistently changing its mind between scratchy guitars and beautiful jazz interludes. An truly exciting debut for this young band.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2PfgptDcfJTFtoZIS3AukX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -132,7 +142,7 @@ website:
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3WVpMRRKz9BVU4koPEFpnF?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-**Key Tracks:** ,Be Unbarred, O Ye Gates of Hell, Scarcity is Manufactured
+**Key Tracks:** Be Unbarred, O Ye Gates of Hell, Scarcity is Manufactured
 
 ## 10. Lucy Dacus: Home Video
 
