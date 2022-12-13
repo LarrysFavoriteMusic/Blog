@@ -11,9 +11,16 @@ website:
     openSidebar: false
 ---
 
-2021 represented a year of both healing and pain. A good end of things, a new president was elected, vaccines for COVID-19 were distributed and the world began opening up again. But the all too real problems surrounding climate change were present particularly in the summer as much of North America was engulfed in smoke. I spent much of my summer at the summit of Whiteface Mountain, collecting cloud water and aerosol data for my eventual dissertation and was truly horrified by how hazy so many of the days were, despite being 100s-1000s of miles away from the actual fires. During the fall, I had the great pleasure of moving to Boulder, Colorado, for a few months, which was a welcome change from being stranded in my apartment.
+2021 represented a year of both healing and pain.
+A good end of things, a new president was elected, vaccines for COVID-19 were distributed and the world began opening up again.
+But the all too real problems surrounding climate change were present particularly in the summer as much of North America was engulfed in smoke.
+I spent much of my summer at the summit of Whiteface Mountain, collecting cloud water and aerosol data for my eventual dissertation and was truly horrified by how hazy so many of the days were, despite being 100s-1000s of miles away from the actual fires.
+During the fall, I had the great pleasure of moving to Boulder, Colorado, for a few months, which was a welcome change from being stranded in my apartment.
 
-This list really highlights how much women kicked ass in the music industry in 2021, with 9 out of the top 10 albums and 18 of the top 25 albums were from female artists or female led bands. It was also a list that was considerably cheery than its 2020 counterpart which has to be tied to my improved mood throughout 2021. The only critique of this list I probably would have is a general lack of folk/acoustic/singer songwriter type music. Even so, this album was a perfect companion for a year that represented both healing and tragedy.
+This list really highlights how much women kicked ass in the music industry in 2021, with 9 out of the top 10 albums and 18 of the top 25 albums were from female artists or female led bands.
+It was also a list that was considerably cheery than its 2020 counterpart which has to be tied to my improved mood throughout 2021.
+The only critique of this list I probably would have is a general lack of folk/acoustic/singer songwriter type music.
+Even so, this album was a perfect companion for a year that represented both healing and tragedy.
 
 ## My Favorite Songs of 2021
 
@@ -33,7 +40,10 @@ This list really highlights how much women kicked ass in the music industry in 2
 ```
 ## 25. Hiatus Kaiyote: Mood Valiant
 
-Jazz/Funk/R&B fusion (or some combination of those genres) is back after the cult classic "Choose Your Weapon". In all honesty, "Choose Your Weapon" was an album that I really wanted to like but could really nice grab on to, so admittedly I wasn't sure what to expect with this record. With Mood Valiant, Hiatus Kaiyote delivers finding the perfect sweet spot between intricate arrangements and catchy songwriting. "Red Room" is such an ear worm, with such unassuming instrumentation and subtle vocals.
+Jazz/Funk/R&B fusion (or some combination of those genres) is back after the cult classic "Choose Your Weapon".
+In all honesty, "Choose Your Weapon" was an album that I really wanted to like but could really nice grab on to, so admittedly I wasn't sure what to expect with this record.
+With Mood Valiant, Hiatus Kaiyote delivers finding the perfect sweet spot between intricate arrangements and catchy songwriting.
+"Red Room" is such an ear worm, with such unassuming instrumentation and subtle vocals.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/456WeVeZk38VJuqg2sL7QG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -42,7 +52,10 @@ Jazz/Funk/R&B fusion (or some combination of those genres) is back after the cul
 
 ## 24. W.H. Lung: Vanities
 
-There is a shroud of mystique and erieness that surrounds this record. Each electropop track contains a heart pumping beat that drives each song forward that will inevitably have you bopping your head along. On tracks like "Gd Tym" (which I think is pronounced "good time"), I get this sense of urgency within the vocal performances, that give provide so much energy. This was album I can back to often whenever I needed a pickme up in my energy levels.
+There is a shroud of mystique and erieness that surrounds this record.
+Each electropop track contains a heart pumping beat that drives each song forward that will inevitably have you bopping your head along.
+On tracks like "Gd Tym" (which I think is pronounced "good time"), I get this sense of urgency within the vocal performances, that give provide so much energy.
+This was album I can back to often whenever I needed a pickme up in my energy levels.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3ibpHV6iYgRzBVMOuqBCwn?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -51,7 +64,11 @@ There is a shroud of mystique and erieness that surrounds this record. Each elec
 
 ## 23. Fruit Bats: The Pet Parade
 
-At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. Johnson seems to be on a role, with three terrific album releases in row. On The Pet Parade, Fruit Bats do what they do best, creating a wonderful collection of indie-folk tracks. "Pet Parade" has this wonderful soaring chorus surrounded by big acoustic guitars and fiddles. "Holy Rose" confronts the very real challenges of balancing your personal life with the unsettling realities of climate change. For any indie-folk fan, this an album worth spending time with.
+At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. Johnson seems to be on a role, with three terrific album releases in row.
+On The Pet Parade, Fruit Bats do what they do best, creating a wonderful collection of indie-folk tracks.
+"Pet Parade" has this wonderful soaring chorus surrounded by big acoustic guitars and fiddles.
+"Holy Rose" confronts the very real challenges of balancing your personal life with the unsettling realities of climate change.
+For any indie-folk fan, this an album worth spending time with.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4fyZyhtsOevsFYLbLitaHZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -60,7 +77,11 @@ At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. John
 
 ## 22. Black Country, New Road: For the first time
 
-2021 seemed to be a pretty darn good year for British post-punk bands. This is the first of 2 of this category on this list, with really promising debut from Black Country, New Road. The album starts energetically with the aptly named "Instrumental" led by a dueling keyboard and saxophone. "Athens, France" is a true highlight, consistently changing its mind between scratchy guitars and beautiful jazz interludes. An truly exciting debut for this young band.
+2021 seemed to be a pretty darn good year for British post-punk bands.
+This is the first of 2 of this category on this list, with really promising debut from Black Country, New Road.
+The album starts energetically with the aptly named "Instrumental" led by a dueling keyboard and saxophone.
+"Athens, France" is a true highlight, consistently changing its mind between scratchy guitars and beautiful jazz interludes.
+An truly exciting debut for this young band.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2PfgptDcfJTFtoZIS3AukX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -69,12 +90,27 @@ At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. John
 
 ## 21. Alice Phoebe Lou: Glow
 
+Alice Phoebe Lou has managed to make a wonderful collection of dreamy R&B songs on her record "Glow".
+Throughout the record, Alice explores falling into and then out of love.
+I really enjoy the vocal effects added to her vocals that make her almost sound like she's underwater.
+For whatever reason, it adds warmth to the songwriting.
+"Lovesick" is great way to close the record, full of energy and brightness, and a great drum line.
+Just a lovely collection of soul and R&B songs.
+
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/17bMGqdO2UxbHHgiE9mX6X?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 **Key Tracks:** Lovesick, Mother's Eye
 
 ## 20. Tyler, The Creator: CALL ME IF YOU GET LOST
+
+At this point, Tyler is an undeniable talent.
+However (and don't crucify me for this), I didn't quite get the hype around "Igor", whose sound I couldn't quite get behind.
+With "CALL ME IF YOU GET LOST", I fully on board and is my new favorite Tyler record.
+There is just so much great production and instrumentation throughout the record and Tyler's vocal performances.
+"WUSYANAME" is an undeniable banger.
+I also love HOT WIND BLOWS, which has the great jazz flute and piano driving the song forward and a truly fantastic Lil Wayne feature.
+My definite favorite from Tyler's catalog.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/45ba6QAtNrdv6Ke4MFOKk9?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -83,6 +119,13 @@ At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. John
 
 ## 19. Jungle: Loving in Stereo
 
+God this album is so fun.
+Jungle has this great ability to create this optimistic and energetic funk, disco, and soul tracks.
+The album opens with the optimistic "Keep Moving", a perfect track to represent the whole of the record.
+I became absolutely obsessed with the song "Romeo", which has this unbelievably catchy hook and great flow on the feature from Bas.
+The synths and guitar on "No Rules" are another great stand out that just make my bob every time.
+A really fun record.
+
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1hykVcbmenjAoG7wwoXmCV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -90,12 +133,21 @@ At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. John
 
 ## 18. Little Simz: Sometimes I Might Be Introvert
 
+It's been really cool to watch Little Simz reach the mainstream cause she is just wonderfully talented and clearly ambitious with her music.
+I really enjoyed her previous work on "GREY Area" which contained a ton of hooky beats and flows.
+On "Somtimes I Might Be Introvert", she swings for the fences and it pulls it off.
+The album opens with a statement; the 6 minute track "Introvert", containing big horns as if to introduce royalty.
+There are tons of really cool interludes that act as conversations to Little Simz.
+The album closes with the simple "Miss Understood" at track that almost feels like it's to recenter Little Simz after leaving it all on the field.
+
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0DBoWQ52XUHtrZQdfAqOVj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
 **Key Tracks:** Introvert, Miss Understood
 
 ## 17. Snail Mail: Valentine
+
+Snail Mail.s
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0zNWhYDalgisc4uweLIGZJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
