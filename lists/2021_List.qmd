@@ -148,6 +148,7 @@ The album closes with the simple "Miss Understood" at track that almost feels li
 ## 17. Snail Mail: Valentine
 
 Snail Mail has become a rising star in the indie rock community.
+She had a wondefufl
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0zNWhYDalgisc4uweLIGZJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
