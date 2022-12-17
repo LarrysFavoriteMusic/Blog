@@ -46,7 +46,7 @@ title-block-banner: true
 
 format:
   html:
-    theme: slate
+    theme: darkly
     css: styles.css
     toc: true  
 
