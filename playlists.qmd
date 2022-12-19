@@ -8,6 +8,22 @@ Each year, in addition to my top albums, I make a top songs playlist as well (ju
 
 Typically the playlists consist of 100 songs, ranked from 1-100. In 2018, because I chose 40 albums rather than 10 or 25, I decided against a making top songs playlist. Additionally, for 2016, I did not make a top songs playlist as it was my first ever list. However, for both 2016 and 2018, I made 25 song playlist to showcase some of my favorite songs from those years. Lastly, I also made a playlist for my favorite song of the 2010s.
 
+# 2022
+
+1.  The Place Where He Inserted the Blade - Black Country, New Road
+2.  High Hopes - Sweet Pill
+3.  Gold Chain Punk (whogonbeatmyass) - Soul Glo
+4.  Sugar/Tzu - Black Midi
+5.  Expert In A Dying Field - The Beths
+6.  All The Good Times - Angel - Olsen
+7.  Basketball Shoes - Black Country, New Road
+8.  God Turn Me Into a Flower - Weyes Blood
+9.  Summer Dream - Bonny Light Horseman
+10. Satan - Andy Shauf
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4FHnWCczoYevM2M6DTdV2v?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
 # 2021
 
 1.  G.S.K - Squid
