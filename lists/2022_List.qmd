@@ -1,5 +1,14 @@
 ---
 title: "My Favorite Albums of 2022"
+editor: visual
+format: 
+  html: 
+    code-fold: true
+website:
+  comments:
+    hypothesis:
+    theme: clean
+    openSidebar: false
 ---
 
 I gotta admit, 2022 was pretty darn good to me. I began the year by successfully passing my oral exam, which is the final step before I defend my dissertation and (hopefully) receive my PhD (hoping to be done in 2024, which isn't far away....). I also met my lovely girlfriend Karen, which has been a wonderful addition in my life. World events have been somewhat positive as well. The war in Ukraine has been going considerably better than anyone (besides Ukraine) could have imagined. COVID is starting to become a more mildly and losing it's ability to collapse the health care system. Perhaps the biggest develop in my field was the passage of the inflation reduction act, which is mostly a giant climate bill throw \$350+ billion dollars in various ways at tackling greenhouse gas emissions in various ways, which has given me more hope that U.S. is actually going to do something about climate change.
