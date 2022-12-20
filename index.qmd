@@ -1,8 +1,6 @@
 ---
 title: "Welcome!"
 format: html
-sidebar: false
-search: false
 ---
 
 Hello! Welcome to my website/blog. This website is a collection of all of my top album and songs lists that make around December of each year. I may also create some sort of blog if I find the time....
