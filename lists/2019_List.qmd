@@ -9,7 +9,7 @@ title-block-banner: true
 
 The calm before the storm....
 
-2019 was a fairly uneventful year for me. I was settling into grad school at this point and the world events world relatively uneventful, bar whatever nonsense Trump was up to and some news coming out of China. I had also moved apartments within Albany after my old house mates had moved on. Honestly, I can't say anything particularly interesting happened to me in 2019. Yet, the music was quite fantastic. It was somewhat opposite to the previous year, with not a huge quantity of albums that spoke to me, but the ones I found were absolute fantastic. This remains as one of my favorite top 10 lists I've made, each quite sonically distinct from one another. It's kind of nice to see that the world doesn't have to be on fire in order for great music to still be made.
+2019 was a fairly uneventful year for me. I was settling into grad school at this point and the world events world relatively uneventful, bar whatever nonsense Trump was up to and some potentially concerning news coming out of Wuhan, China. I had also moved apartments within Albany after my old house mates had moved on. Honestly, I can't say anything particularly interesting happened to me in 2019. Yet, the music was quite fantastic. It was somewhat opposite to the previous year, with not a huge quantity of albums that spoke to me, but the ones I found were absolutely top quality. This remains as one of my favorite lists I've made, with each album pick being quite sonically distinct from one another. It's kind of nice to see that the world doesn't have to be on fire in order for great music to still be made.
 
 ## My Favorite Songs of 2019
 
@@ -33,8 +33,6 @@ The calm before the storm....
 
 After a [really solid debut album](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY?si=WdJ9cTyYQ8erzM5rGO5iAw), I was pretty excited to see that Julia Jacklin was releasing a new record, and its a great follow up. I must say, it's a pretty somber one. The opening track, "Body", detailing a toxic relationship, ending with her ending it and worrying about the damage this person might use a scandalous picture of her he has against. There brighter sound tracks like "Pressure to Party" and "You Were Right" more reminiscent of her earlier work. "Don't Know Hot To Keep Loving You" has this lead guitar part that matches Julia's vocals that I enjoy a lot. A super solid indie-folk and indie-rock album with some heavy lyrics.
 
-![](images/JuliaJacklin_Crushing.webp){width="248"}
-
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4u3aIyQbywYaxgF7TcXuIu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -43,8 +41,6 @@ After a [really solid debut album](https://open.spotify.com/album/33C9uXgwL1Bee6
 ## 24. Billie Eilish: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 
 This was a pleasant surprise for me, as I was never quite into her [debut EP](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU?si=ciaLmXp7RZ6giB1gIx6M1A), with the exception of "Ocean Eyes". But on "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO", Billie and her brother create this gloomy bedroom pop that didn't really sound like anything else in popular music at the time. It's biggest strength is where other pop music tends to ignore; subtlety. She has bangers like "bad guy", but without the need of big beats or crazy vocal runs. "bury a friend" is an especially cool song. I really enjoy the vocal harmonies that come in and out throughout the song. It makes the song so thrilling. The album closes with this neat idea with Billie bringing back parts of various songs to act as a summary for the whole record. Super promising debut, especially for someone so young.
-
-![](images/When_We_All_Fall_Asleep,_Where_Do_We_Go%20.png){width="259"}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0S0KGZnfBGSIssfF54WSJh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -55,8 +51,6 @@ This was a pleasant surprise for me, as I was never quite into her [debut EP](ht
 
 Barrie creates a really cool indie-pop and dream-pop record littered with super smooth guitars and layered harmonies. The opening track "Darjeeling" is perfect opener, with the chorus almost reminding me of ["Turn the Beat Around"](https://open.spotify.com/track/0XQxZZIgdcXBaxgL7zMKpK?si=8a9fb1cbda134566) (and classic). "Dark Tropical" has the great chord progression that fits the song perfectly. The album isn't too sonically diverse but it just sounds so good front to back. A perfect album to vibe to on a long drive on a nice day.
 
-![](images/a2890044646_65.jpg){width="266"}
-
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/74hkehs2cahKJ7jFLOrxYh?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -65,8 +59,6 @@ Barrie creates a really cool indie-pop and dream-pop record littered with super 
 ## 22. Stella Donnelly: Beware of the Dogs
 
 Yet another really great full length debut, this time from the New Zealand native Stella Donnelly. She finds the great way to balance fun indie rock tracks with pretty dark concepts such as sexual harassment or assault. "Old Man" opens with probably the catchiest guitar hook I heard all year before it goes on to tell old married men they can't harass young women anymore. "Tricks" is another really fun track that has such an infectious chorus and is full of cool little musical moments like on the lines "get laid". It'd be wrong not to mention the dark "Boy Will Be Boys" confronting the bizarre permission structure that boys are allowed to have towards girls and women. Really interesting juxtapositions of bright music and dark underlying themes throughout the record.
-
-![](images/StellaDonnelly_BewareOfTheDogs.webp){width="266"}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1pKIMs0GEePXjDC2EiYEb7?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -77,8 +69,6 @@ Yet another really great full length debut, this time from the New Zealand nativ
 
 What a crazy noise rock and punk album this is. With the track list coming in under 20 minutes and only one track lasting longer than 3 minutes. The album just churns ahead, whether you can keep up with or not. The use of a drum machine throughout the record also creates the sound that I can't quite put my finger on. Highlights include "Milieux", starting off somewhat hollow in sound before the guitars come in full force, or "Trapped on A Planet" that borders on screamo. This isn't an album I listen to all that often, but if I want something like and crazy, this record always comes to mind.
 
-![](images/a2591922263_10.jpg){width="267"}
-
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/48U0hLIFl2sM9l3xRWIk0R?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -87,8 +77,6 @@ What a crazy noise rock and punk album this is. With the track list coming in un
 ## 20. Nilüfer Yanya: Miss Universe
 
 If there was one album that I would change the rank of on this list, it would probably be putting Miss Universe much higher up. Nilüfer Yanya managed to make a really cool alternative pop record filled with cool interludes, plucky guitars, and messy vocals that are just perfect for the sound of the entire. It's a pretty long record at that, with 17 tracks and coming in at 53 minutes, but never overstaying its welcome. "In Your Head" is has the big sound with these great fuzzy guitars to it and a great vocal performance from Nilüfer. The guitar work on "Paralyzed" is fantastic alternating between the plucky melodic lead guitar and fuzzy rhythm guitar."Safety Net" is another highlight, a more reserved pop track with a catchy chorus. A great alternative pop record that doesn't quite like anything else released in 2019.
-
-![](images/NiluferYanya_MissUniverse.webp){width="269"}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4ghm3TST2NwYOIAd5QHjbU?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -99,8 +87,6 @@ If there was one album that I would change the rank of on this list, it would pr
 
 My first exposure Little Simz is a great one. This album got a lot of positive attention from many music critics and rightly so. Its a weird thing to say, but I just like the way Little Simz says words, not just her flow and cadence, but just her speaking voice. The album has beats for days, like on the jazz rap "Offence" in which she goes off on any of her haters or doubters, or the crazy flow she finds on "Wounds" or "Venom". "Pressure", Little Simz goes after the privileged classes while also trying to reach those same heights. My favorite hip record of 2019.
 
-![](images/LittleSimz_GREYArea.webp){width="270"}
-
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4Wwm4xg2748zhYuzDRFTgY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -109,8 +95,6 @@ My first exposure Little Simz is a great one. This album got a lot of positive a
 ## 18. Stef Chura: Midnight
 
 A new discovery for me comes in the form of Stef Chura, with Will Toledo of Car Seat Headrest producing (and appearing) on this record. Every year, there is a straight ahead indie rock album that I fall in love with, and this was the one for 2019. There are no special tricks here, just honest to god good indie-rock songwriting without needing to hide behind production. There are some many times that Stef starts the song off more reserved before opening into these garage rock anthems and I love it every time. "Method Man" just straight up kicks ass, opening confidently before descending into chaos with crazy drums and tons of feedback on her guitars. "Jumpin' Jack" is a fun track that opens as almost a rockabiliy kind track before transitioning back to more garage rock. This album doesn't reinvent the wheel, but man there is so much to love here.
-
-![](images/Stef-Chura-Midnight.webp){width="284"}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0PMmJ0qQByXO0ROaKYq74k?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -121,8 +105,6 @@ A new discovery for me comes in the form of Stef Chura, with Will Toledo of Car 
 
 This a pretty confident album title from Andrew Bird, and I tend to agree that this is his finest work. There is plenty of the violins and virtuosoic whistling that we've all come to love from him. But I'd argue his vocal performances are what makes this album shine, like on tracks like "Manifest". "Sisyphus" is a fantastic opener to the record, with a patented whistling melody and a interestingly busy bass line that gives the song so much life. "Bloodless" has chilling refrains of "bloodless for now" and "history forgets the moderates", implying the potential for violent conflict in the not distant future. This is a really fantastic album. The only question is, is this only is finest work yet.
 
-![](images/MFWY_Andrew_Bird.jpg)
-
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2xQ1WHVV0MdVSRkpND5P51?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -131,7 +113,6 @@ This a pretty confident album title from Andrew Bird, and I tend to agree that t
 ## 16. Arthur Moon: Arthur Moon
 
 Electronic music is a genre that I typically don't spend enough time with, so this was an album that I was really happy to find. There is just this really fun interplay between the woozy vocal harmonies filled with vocal effects and the simplicity of an acoustic guitar and drumset. "Homonomo" is playful sonic adventure that has Lora-Faye Ashuvud explore settling down with a family outside the business of New York. "I Feel Better" has this great sing along quality that makes you want to join along."Infield" has these super cool vocal effects that pop in and out of the track that just love so much. This album is reminder to me that there is ton of great electronic music out there, I just need to look.\
-![](images/ab67616d0000b2730abda348dd32677136914c94.jpg){width="225"}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2qyHO4roesfNRDiLOWMr0G?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -142,8 +123,6 @@ Electronic music is a genre that I typically don't spend enough time with, so th
 
 Despite the incredibly silly name, Psychedlic Porn Crumpets kick freaking ass. "And Now for the Watchamacllit" is chock full of heavy guitars and echoing vocals. "Hymm For A Droid" is one of the most hype songs that I've ever heard and always get my heart pumping. "Bill's Mandolin" is another heart racer that makes in on to every running playlist that made since this album released, with the belting vocals towards the serving as perfect climax to the song. This album isn't just loud either. There is tons of great musicality throughout the record, which prevents the album from dragging. If you're looking for a loud guitar rock album, this is the one for you.
 
-![](images/ppc-and-now-for-the-whatchamacallit-1.jpg){width="226"}
-
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1gqmoyxBJ4EQ5yVbs86NAj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -151,9 +130,7 @@ Despite the incredibly silly name, Psychedlic Porn Crumpets kick freaking ass. "
 
 ## 14. Anderson Paak: Ventura
 
-The final record of trilogy of California named cities from Anderson Paak and its probably the most coherent. Anderson has the amazing ability to take big ideas and combine them into all kinds of classic songs, but sometimes this ambition gets the best of him, with [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc?si=-ztvAAHfRs-XEbyfZBzi2Q) and to lesser extent, [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK?si=J7ZvcQFHT0CfvBWDFivJQA), having somewhat messing endings. On Ventura, he moves past that, with a collection of more funk and disco type tracks. The album starts off great with "Come Home", that starts with this silky smooth drum beat and finishes of with a amazing Andre 3000 feature. The real highlight on record is "Winner Circle", starting off as this Jazz rap type track, before Anderson just drops the hammer on his flow on the back of the track (such a cool moment). This record is the most focused work in Anderson Paak's career so far, and a great way to finish the trilogy.
-
-![](images/Anderson.Paak_Ventura.webp){width="234"}
+The final record of trilogy of California named cities from Anderson Paak and its probably the most coherent. Anderson has the amazing ability to take big ideas and combine them into all kinds of classic songs, but sometimes this ambition gets the best of him, with [Oxnard](https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc?si=-ztvAAHfRs-XEbyfZBzi2Q) and to lesser extent, [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK?si=J7ZvcQFHT0CfvBWDFivJQA), having somewhat messing endings. On Ventura, he moves past that, with a collection of more funk and disco type tracks. The album starts off great with "Come Home", that starts with this silky smooth drum beat and finishes of with a amazing Andre 3000 feature. Far and away the best track on record is "Winner Circle", starting off as this Jazz rap type track, before Anderson just drops the hammer on his flow on the back of the track (such a cool moment). This record is the most focused work in Anderson Paak's career so far, and a great way to finish the trilogy.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0YF8PfcGbsKg5IaFyPnlyY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -164,8 +141,6 @@ The final record of trilogy of California named cities from Anderson Paak and it
 
 I was honestly surprised that I found my self putting a country album so highly ranked on my list, but this album is so deserving of it. Lillie Mae has collect a tremendous set of alternative country songs that equal parts beautiful and bold. The opening track "You've Got Other Girls For That" starts the album with a statement, showcasing a prominent drumset and guitar part not dissimilar to George Harrsion's "[While My Guitar Gently Weeps](https://open.spotify.com/track/389QX9Q1eUOEZ19vtzzI9O?si=7940b6e96b3b4392)". But the album doesn't stay that way, with Lillie creating just lovely traditional country and blue grass songs like on "Didn't I" and "I Came for the Band (For Show)", prominently displaying her great fiddle playing. The album emotional climax is the same as it started, with the show stopping "Terlingua Girl", starting of as simple country before erupting into huge guitars and drums. This is definitely my favorite country album in recent memory, and any time I hear someone say that no one makes good country like the old days, I immediately point them to Lillie Mae.
 
-![](images/LillieMae_OtherGirls.webp){width="239"}
-
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/158vIXOymv1hbHh1pCG2fD?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
@@ -173,9 +148,7 @@ I was honestly surprised that I found my self putting a country album so highly 
 
 ## 12. Brittany Howard: Jaime
 
-What more can be said about the generational talent that is Brittany Howard.
-
-![](images/brittanyhoward_jaime.webp){width="230"}
+What more can be said about the generational talent that is Brittany Howard. Any release that she puts out is worth your time. It had been a long 5 years since the release of the truly amazing [Sound and Color](https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY?si=dGoeNb6uSTuQb4NFUwg3BA), containing a diverse collection of alternative rock tracks including classics like the "Gimme All Your Love" and the title track. Since then, she has found herself involved in side projects including the "Thunderbitch" and "Bermuda Triangle" before finally releasing her full length debut. Fans of Sound and Color will recognize many of the sounds album, find that great balance between experimentation and Southern Rock but also includes more soul and jazz influences "Stay High" is a sweet and breezy track showcasing Howard's iconic falsetto and has such an infectious chorus that is guaranteed to be stuck in your head all day. "Goat Head" is dark, confronting disgusting acts of racism faced by Howard and her family, including slashing the tires of her dad's vehicle and putting a goat head in the back seat. My personal favorite is "Baby", a dreamy love ballad that has some of Howard's best vocals on the record and some truly extraordinary piano playing on the back half of the track. At this point, anything that Brittany Howard puts out is essential listening, with this record being no exception.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6fbphjr9j57oxMB2bnhzUf?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -184,7 +157,7 @@ What more can be said about the generational talent that is Brittany Howard.
 
 ## 11. James Blake: Assume Form
 
-![](images/Assume_Form.jpg){width="229"}
+James Blake has been a frustrating artist for me in the past. His early work has indicated that his an incredibly talented singer and songwriter, putting out amazing minimalist alternative electronic tracks such as [Retrograde](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U?si=GKU25ieeRXCm-aDC9xf3Ew) or [I Need a Forest Fire](https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6?si=dae2e5777c21400f). And yet, so many other tracks on these records feel meandering and over-complicated as if he was getting in his own way. This has always made it challenging for me to enjoy his full projects. This changed with the excellent "Assume Form", with Blake exhibiting some of most beautiful song writing in his career. He has managed to find a perfect balance between experimentation and approachable as his instantly recognizable voice soars on "Power On" or the title track. He recruits so heavy hitter collaborations for several songs including Travis Scott on "Mile High" or ROSALIA on "Barefoot in the Park". The best feature is hands down the verse from André 3000 that is "little bit heady"; he just absolutely hits verse out of the park on an amazingly melancholy beat from Blake. However, despite some fantastic features on this record, the best track and one of my favorite songs of 2019 is the simple but stunning "Don't Miss It". This is Blake at his best, an incredibly simple drum beat bolstered by beautiful piano and haunting vocals, as he describes all the annoyances of life he could avoid if he secluded himself from life, and yet he'd still miss life. I'm just obsessed with the chord progressions in the second half of the song, as the piano swells to the emotional climax of the album. The track is truly a masterpiece and the best thing James Blake has produced so far. This album excited me so much as it is so satisfying watching a talented artist reach their potential and produce a great album. Another year, this album would have comfortably made the top 10, but alas 2019 was a stacked year.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3VpbXPsAOhcp3duHhkye8g?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -193,7 +166,7 @@ What more can be said about the generational talent that is Brittany Howard.
 
 ## 10. Michael Kiwanuka: KIWANUKA
 
-![](images/Michael_Kiwanuka_-_Kiwanuka.png){width="245"}
+Sneaking into top 10 is the terrific soul record by Michael Kiwanuka. This album was my introduction to Kiwanuka, where I my attention was immediately grabbed by the opening track "You Ain't the Problem", with its rapid fire vocals, fuzzy guitars, and urgent percussion, a combination of sounds that I hadn't really heard all year. There are so many amazing vocal performances throughout the record, not just from Kiwanuka, but from gospel choirs like on "I've Been Dazed" or "Solid Ground". The major highlight on the album is "Piano Joint (This Kind of Love)", a song so good that it's worthy of its own intro track. I just adore the opening piano melody , setting the tone for the rest of track before the string and drums join in on the second half. The song is topped off by the strongest vocal performance from Kiwanauka on the entire record (which is really saying something, as the album is full of fantastic performances). "Hero" is another classic (interestingly also containing an intro track). There some truly fantastic guitar on this song, whether its the ringing melody found throughout, or the fuzzy and distorted solo towards the end of the track. This all capped off by the brilliant echoing of the drum kit, bringing a fullness to the song as whole. The album closer is the beautiful "Light", combining all of the elements that made this album successful into one track, serving as a perfect finale. This is the best soul album I have heard in quite some time and has made me more interested in deep-diving the genre to see what else is out there.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1yIqauTni1V7l7djYAKSsZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -202,7 +175,7 @@ What more can be said about the generational talent that is Brittany Howard.
 
 ## 9. Weyes Blood: Titanic Rising
 
-![](images/WeyesBlood_TitanicRising.webp){width="280"}
+Weyes Blood had been on my radar for a little while at this point, as I was familiar with her 2016 project [Front Row Seat to Earth](https://open.spotify.com/album/2jBj6Qyedfd0XwbvJFuzTh?si=NEXcZYGfRcy3sc-wv4Cuow), particularly the lovely song "Used to Be", hinted at how she was going to evolve sonically. 2019, Natalie Merling's project exploded on the scene, and deservedly so. "Titanic Rising" is a collection of dream and chamber pop tracks (I've also seen it called "Baroque Pop", whatever that means) of pure beauty and wonder. Merling's vocals are ethereal, as the transcend over ringing pianos, swelling strings, and bright guitars. The album opens with it's stronger track, "A Lot's Gonna Change", a song I must admit I have scream-sung in my car many times. The song slowly builds before it reaches its emotional climax on the line "Cause you got what it takes" that gives me chills every time. The album then transitions wonderfully into the space themed "Andromeda", filled some truly gorgeous slide guitar. The synth laddened "Movies" has gathered many comparisons to [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4?si=CfwWYP--TC-Xbsc3Oah7bw) (an artist I honestly know very little about), provides a bit of experimentation for the record, keeping the back half the record fresh. This is honestly a difficult album to write about not because it's bad, but rather the complete opposite: the album is stunning front to back, with 10 wonderful chamber pop songs. All I can say is that you should give this album a chance, an opinion share by much of the online music world and beyond.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/53VKICyqCf91sVkTdFrzKX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -211,16 +184,16 @@ What more can be said about the generational talent that is Brittany Howard.
 
 ## 8. Tiny Ruins: Olympic Girls
 
-![](images/tiny%20ruins_olympic%20girls.webp){width="285"}
+Tiny Ruins, the indie folk project of Hollie Fullbrook, produces these amazingly delicate folk records that immediately put you at peace, particularly the lovely [Brightly Painted One](https://open.spotify.com/album/7rD8MC9AYKYr9QmeIqzSLS?si=TdoNvJmiTcOWsQBNFCkDGA), tracks with hushed vocals, intricate finger picked acoustic guitars, and softly piercing electric guitars (an album that has only grown on me over time). More than anything, this bands music captures a sort of magic that few artists are capable of making. I was however first introduced to Tiny Ruins through the lead single of this record "How Much", one of my favorite songs of 2018. This song serves a case study for the rest of the album; an ever so slightly larger sound compared to Fullbrook's previous works, but managing not to lose the magic that made the previous works so great. There are a lot of amazing things going on in this song including the Fullbrook's vocals or the baseline towards the end of the track, but the ringing slide guitar is the icing on the cake. The title track contains some truly fantastic acoustic finger picking before the song erupts into life. "Hologram" has this great woozy guitar on it, a percussion section I'm not used to hearing with this group, and the line "I saw the Grim Reaper, and I gave him the slip", which is a line I find so delightfully silly. The album closes with the fantastic "Cold Enough to Climb", serving as perfect bookend to the record. I love the use of space on the second verse where the other piano chords are left by themselves with the very simple drum beat; it really makes the song feel so much more intimate. "Olympic Girls" is a fantastic evolution for Tiny Ruin's sound, without getting lost in too many ideas with the added instrumentation. Like basically everything else this band puts out, this is an essential rainy day soundtrack.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2fXjFuPIS8mmNjzrm20t4k?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-**Key Tracks**: How Much, Cold Enough to Climb, School of Design
+**Key Tracks**: How Much, Cold Enough to Climb, Olympic Girls
 
 ## 7. Big Thief: Two Hands
 
-![](images/bigthief_twohands.webp){width="284"}
+There is only band that could make my top 10 list twice in the same year, and that band is Big Thief. "Two Hands" is their second release 2019, serving as the more raw project with the band opting to largely record live with minimal production. For this collection of songs, this an absolute strength. This decision allows for the talent of the band to really shine through, particularly Adrianne Lenker and Buck Meek. Tracks like "Forgotten Eyes", Lenker's vocal performance (on a pretty difficult melody to stay in tune with I must say) isn't necessarily perfect, but the slight blemishes adds a realness to the song that just makes it so much more charming. Lenker's guitar playing is allowed to take center stage, like on the track "Not", a song harking back to their debut record, contains a 2+ minute, raw and emotional guitar solo. This is truly one of the coolest moments on the record and is something I think a lot Big Thief fans wouldn't mind them revisiting. Lenker also shows her softer side, with some lovely acoustic playing on the track "Wolf". But the stripped back production also allows for more Buck's beautifully subtle guitar playing to shine, like his delicate soloing on the wonderful vibe that is "Replaced". If this was the only record to be released from this amazing band, I would be truly ecstatic. And yet, being the amazing band they are, they manged to top themselves with an even better release earlier in the year.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7pg8T6pajjHVZbiyB8bGxo?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -229,16 +202,16 @@ What more can be said about the generational talent that is Brittany Howard.
 
 ## 6. Pup: Morbid Stuff
 
-![](images/Pup_MorbidStuff.webp){width="287"}
+Pop punk lives! Something I noticed as the decade was coming to an end was that I had very few pop punk rock records that I could look back on. This really bummed me out as I was raised on Green Day, so this genre was always going to have a place in my heart. Enter Pup. This was a band that I wasn't really familiar but my friend Billie was absolutely obsessed with. After the first listen, I was blown away. There was the pop punk record I had spent years searching for. Top to bottom, this album is banger after banger of angsty, emo-ey, power chord loving pop punk. The album kicks off perfectly with the title track, a loud sing alone with soaring vocals from the lead singer Stefan Babcock that serves as a perfect case study for what is to come from the rest of the album. "See You At Your Funeral" is another personal favorite of my, led by such an infectious chorus. The pettiness behind the song with lines like "I hope somehow, I never see you again. And if I do it's at your funeral, or better yet. I hope the world explodes, I hope we all die. We can watch the highlights in hell, I hope it's televised" just make me laugh. Despite no large deviations from their overall sound, the band manages to keep the album feeling fresh. The one major change is on the glorious " Full Blown Meltdown", that practically serves as a speed metal track that just absolutely kicks ass. This record then seamlessly transitions to the fantastic "Bare Hands", before ending on the quietier "City" to bring the album home. "Morbid Stuff" doesn't try to reinvent the wheel, it's just a collection of damn good pop tracks. As far as I'm concerned, this is the best pop punk record of the 2010s.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/504XSXhUJlzztcMV4YMaDV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ```
-**Key Tracks:** See You at Your Funeral, Morbid Stuff, Scorpion Hill
+**Key Tracks:** See You at Your Funeral, Morbid Stuff, Full Blown Meltdown
 
 ## 5. Wilco: Ode to Joy
 
-![](images/wilco_odetojoy.webp){width="285"}
+It makes me so happy that Wilco is still capable of making music that amazes me. As I have to state with any Wilco album I talk about, I'm biased as Wilco is my favorite band and Jeff Tweedy is my favorite songwriter. Anything this band puts out I will probably like. Still, Ode to Joy may be the best effort Wilco has put out since the previous decade (which is likely not a popular opinion among fans). I personally have enjoyed this more somber tone that Wilco has taken on their past couple of records. "Bright Leaves" is a a great example, with the track starting of somewhat dissonant before correcting itself into a truly sweet song. I love the subtle production and noises that are added to this track (and many other tracks on the album) that hearkens back to Wilco's best work (think Yankee Hotel Foxtrot and A Ghost is Born). "Quiet Amplifier" is a return to Wilco's most experiemental work and has me immediately thinking of the amazing track [Radio Cure](https://open.spotify.com/track/5y4MDqm1PYa2T1vT6vboJI?si=3e4470f5cce04b7a). The album does pick of the volume up a bit on tracks like "Everybody Hides", a fun song from the Jeff's side project with his son, Tweedy. The lead single "Love Is Everywhere (Beware)" is Nels Cline, their virtuosoic lead guitarist, is at his very best with an incredibly catchy guitar riff, coupled with Tweedy's hushed vocals giving the solemn warning of not to be placated by love surrounding you. But the best track on the whole record, and truly one of Tweedy's best songs, is the closer "Empty Corner". Is such a simple song, basic drums and acoustic guitar, with light pianos and production in the background. And yet, the song is perfect case study of what Wilco does best; crafting songs where the whole is greater than the sum of it's parts. Whether it's the beautiful melody from Tweedy, the perfect use of space for all of the instrumentation, or the use noise in their production decisions to just add the perfect amount of atmosphere and melancholy characteristic of all of the best Wilco songs. The refrain of "You've got family out there" is something that always stick with me in this song. I highly recommend listening to the album with headphones to capture all of the layers of the songs properly. What else is there to say other than this band is just so special.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0RR7qfOCOOHXbPAO1P3G5b?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -247,7 +220,9 @@ What more can be said about the generational talent that is Brittany Howard.
 
 ## 4. Bon Iver: i,i
 
-![](images/ab67616d0000b27357629d831030c7cd9506b49c.jpg){width="280"}
+If you needed anymore confirmation that Bon Iver had fully committed to the more electric, almost glitch pop sound, this album does it. Coming off the truly spectacular [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl?si=54Rnhof2TkqKfpGkzQgK8g), Bon Iver takes a slight step back from the experimental sounds to allow for sound containing more joy and optimism. The opening track "iMi" is perfect example, jumping in and out of big sounds and the stripped back vocals of Justin Vernon, before regal horns blast in the second half of the song, a strong start. (Sidenote, these song titles are soooo much easier to type out compared to 22, A Million, something I'm quite thankful for). The record still contains plenty of vocal and digital experimentalism, like on Holyfields and Jelmore, as Vernon oscillates in and out of autotune. The singles from this record are some of its finest work. "Hey Ma" is this super sweet, soaring track whose lyrics still remain a bit unclear to me (though it's never a bad sentiment to call your Ma every once in a while). "Faith" serves as an emotional peak for the album, where all of the instruments peak on the second verse. The way the instruments and vocal harmonies swell on the track are enough to give anyone chills and is Justin Vernon at his absolute best. My only complaint is I wish the song was a just a little bit longer so we can sit in the beautiful just a bit more. "Sh'Diah" is just breathtaking, with Vernon's vocals at the top of his falsetto as trumpets and saxophones accompany him. This is less of a song and more of an atmosphere and I just think it works so well on this record. "RABi" is a great way to bring the record home, a more straighforward song just a touch of electric guitar and a more streamlined song structure to ease you out of the album. Much like the Wilco record, I highly recommend listening to this record with headphones to capture all of the complex layers of each track. I think this probably Bon Iver's weakest record, but man if this is as bad as it's going to get, Justin Vernon is a generational songwriter (which is probably the case anyway).
+
+(these track names are so much easier to write compared to 22, A M
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/54DU59anGQsdrFP7utpshG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -256,7 +231,7 @@ What more can be said about the generational talent that is Brittany Howard.
 
 ## 3. Big Thief: U.F.O.F.
 
-![](images/BigThief_UFOF.webp){width="445"}
+The first release that
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5X0bIKvPtSDo4NpXqgrB6p?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -264,8 +239,6 @@ What more can be said about the generational talent that is Brittany Howard.
 **Key Tracks**: Century, U.FO.F, Contact, Cattails
 
 ## 2. Alex G: House of Sugar
-
-![](images/alexg_houseofsugar.webp){width="455"}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2kCDZ3gCr5hXFgbFsPMcxP?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -275,8 +248,6 @@ What more can be said about the generational talent that is Brittany Howard.
 ## 1. Angel Olsen: All Mirrors
 
 This album is an absolute trimuph. I always love it when an artist just swings for the fences and pulls it off. Angel Olsen set out to make
-
-![](images/angelolsen_allmirrors.webp){width="497"}
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0RedX0LZkGUFoRwFntAaI0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

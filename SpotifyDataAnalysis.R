@@ -9,9 +9,8 @@ library(VGAM)
 library(stringr)
 
 Sys.setenv(SPOTIFY_CLIENT_ID = 'bf03179b875d4cfeaee4754331640464')
-Sys.setenv(SPOTIFY_CLIENT_SECRET = '693bd8637b45414599a35bb722b51e94')
+Sys.setenv(SPOTIFY_CLIENT_SECRET = '1803be8e35ab41de86cf93e0d5afc5f6')
 access_token <- get_spotify_access_token()
-
 
 
 AlbumList<-read_csv('TopAlbumsDataBase.csv')
