@@ -9,30 +9,30 @@ website:
   title: "Larry Loves Music"
   navbar:
     left:
-      - href: index.qmd
+      - file: index.qmd
         text: Home
-      - href: about.qmd
+      - file: about.qmd
         text: About
-      - href: playlists.qmd
+      - file: playlists.qmd
         text: Top Songs Playlists
       - text: Top Albums Lists
         menu: 
-          - href: ./lists/2022_List.qmd
+          - file: ./lists/2022_List.qmd
             text: "2022"
-          - href: ./lists/2021_List.qmd
+          - file: ./lists/2021_List.qmd
             text: "2021"
-          - href: ./lists/2020_List.qmd
+          - file: ./lists/2020_List.qmd
             text: "2020"
-          - href: ./lists/2019_List.qmd
+          - file: ./lists/2019_List.qmd
             text: "2019"
-          - href: ./lists/2018_List.qmd
+          - file: ./lists/2018_List.qmd
             text: "2018"
-          - href: ./lists/2017_List.qmd
+          - file: ./lists/2017_List.qmd
             text: '2017'
-          - href: ./lists/2016_List.qmd
+          - file: ./lists/2016_List.qmd
             text: '2016'
       
-      - href: ListofBlogs.qmd
+      - file: ListofBlogs.qmd
         text: Music Discovery
     right: 
       - icon: envelope
