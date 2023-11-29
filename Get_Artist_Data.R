@@ -3,8 +3,8 @@ library(tidyverse)
 library(kableExtra)
 
 
-Sys.setenv(SPOTIFY_CLIENT_ID = 'bf03179b875d4cfeaee4754331640464')
-Sys.setenv(SPOTIFY_CLIENT_SECRET = '1803be8e35ab41de86cf93e0d5afc5f6')
+#Sys.setenv(SPOTIFY_CLIENT_ID)
+#Sys.setenv(SPOTIFY_CLIENT_SECRET)
 access_token <- get_spotify_access_token()
 
 source("AlternateAudioArtists.R")
