@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.329">
+<meta name="generator" content="quarto-1.3.433">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,7 +55,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -74,75 +75,83 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Larry Loves Music</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../about.html">
+    <a class="nav-link" href="../about.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../playlists.html">
+    <a class="nav-link" href="../playlists.html" rel="" target="">
  <span class="menu-text">Top Songs Playlists</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-top-albums-lists" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-top-albums-lists" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
  <span class="menu-text">Top Albums Lists</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-top-albums-lists">    
         <li>
-    <a class="dropdown-item" href="../lists/2022_List.html">
+    <a class="dropdown-item" href="../lists/2022_List.html" rel="" target="">
  <span class="dropdown-text">2022</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lists/2021_List.html">
+    <a class="dropdown-item" href="../lists/2021_List.html" rel="" target="">
  <span class="dropdown-text">2021</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lists/2020_List.html">
+    <a class="dropdown-item" href="../lists/2020_List.html" rel="" target="">
  <span class="dropdown-text">2020</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lists/2017_List.html">
+    <a class="dropdown-item" href="../lists/2019_List.html" rel="" target="">
+ <span class="dropdown-text">2019</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../lists/2018_List.html" rel="" target="">
+ <span class="dropdown-text">2018</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../lists/2017_List.html" rel="" target="">
  <span class="dropdown-text">2017</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../lists/2016_List.html">
+    <a class="dropdown-item" href="../lists/2016_List.html" rel="" target="">
  <span class="dropdown-text">2016</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../ListofBlogs.html">
+    <a class="nav-link" href="../ListofBlogs.html" rel="" target="">
  <span class="menu-text">Music Discovery</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="mailto:larrylovesmusic@gmail.com"><i class="bi bi-envelope" role="img">
+    <a class="nav-link" href="mailto:larrylovesmusic@gmail.com" rel="" target=""><i class="bi bi-envelope" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://open.spotify.com/user/1213285150?si=f5db32d6bd624952"><i class="bi bi-spotify" role="img">
+    <a class="nav-link" href="https://open.spotify.com/user/1213285150?si=f5db32d6bd624952" rel="" target=""><i class="bi bi-spotify" role="img">
 </i> 
  <span class="menu-text"></span></a>
   </li>  
 </ul>
-              <div class="quarto-toggle-container">
-                  <a href="" class="quarto-reader-toggle nav-link" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
-              </div>
-              <div id="quarto-search" class="" title="Search"></div>
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -208,8 +217,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>I gotta admit, 2022 was pretty darn good to me. I began the year by successfully passing my oral exam, which is the final step before I defend my dissertation and (hopefully) receive my PhD (hoping to be done in 2024, which isn’t far away….). I also met my lovely girlfriend Karen, which has been a wonderful addition in my life. World events have been somewhat positive as well. The war in Ukraine has been going considerably better than anyone (besides Ukraine) could have imagined. COVID is starting to become a more mildly and losing it’s ability to collapse the health care system. Perhaps the biggest develop in my field was the passage of the inflation reduction act, which is mostly a giant climate bill throw $350+ billion dollars in various ways at tackling greenhouse gas emissions in various ways, which has given me more hope that U.S. is actually going to do something about climate change.</p>
-<p>On top of all of the relatively positive news this year, 2022 was a truly incredible year of music. I have never had so much trouble deciding on my list this year, with 11 albums that probably would have made the top 25 albums any other year that didn’t make this year. Artists I had to leave off have made other lists in the past including Wilco, Nick Hakim, Andrew Bird and Alt-J. The top 10 is arguably the strongest I’ve made, with the final positions of albums really unclear to me until a week or so to making my list. Lastly, my favorite album from this year is the front runner for album of the decade and one I come back to constantly. All in all, it’s been a pretty good year for me.</p>
+<p>I gotta admit, 2022 was pretty darn good to me. I began the year by successfully passing my oral exam, which is the final step before I defend my dissertation and (hopefully) receive my PhD (hoping to be done in 2024, which isn’t far away….). I also met my lovely girlfriend Karen, who has been a wonderful addition to my life. World events have been somewhat positive as well. The war in Ukraine has been going considerably better than anyone (besides Ukraine) could have imagined. COVID is starting to become a more mild and losing it’s ability to collapse the health care system. Perhaps the biggest develop in my field was the passage of the inflation reduction act, which is mostly a giant climate bill throw $350+ billion dollars in various ways at tackling greenhouse gas emissions in various ways, which has given me more hope that U.S. is actually going to do something about climate change.</p>
+<p>On top of all of the relatively positive news this year, 2022 was a truly incredible year of music. I have never had so much trouble deciding on my list this year, with 11 albums that probably would have made the top 25 albums any other year that didn’t make this year. Artists I had to leave off have made other lists in the past including Wilco, Nick Hakim, Andrew Bird and Alt-J. The top 10 is arguably the strongest I’ve made, with the top 4 positions only being decided a week or so before posted my list. Lastly, my favorite album from this year is the front runner for album of the decade and one I come back to constantly. All in all, it’s been a pretty good year for me.</p>
 <section id="my-favorite-songs-of-2022" class="level2">
 <h2 class="anchored" data-anchor-id="my-favorite-songs-of-2022">My Favorite Songs of 2022</h2>
 <ol type="1">
@@ -228,25 +237,25 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="honorable-mention-voice-actor-sent-from-my-telephone" class="level2">
 <h2 class="anchored" data-anchor-id="honorable-mention-voice-actor-sent-from-my-telephone">Honorable Mention: Voice Actor: Sent from My Telephone</h2>
-<p>Before I get into that ranked list, I wanted to highlight the craziest album that I found this year, the experimental electronic piece “Sent From My Telephone”. This album contains a whopping <strong>109!</strong> tracks and a run time of 3.5 hours. It’s a collection of spoken word, ambient music, industrial music, and occasionally singer songwriter. This album is pure chaos, with little structure or consideration for the next song. In fact, the tracklist is in alphabetical order, implying that the artist is fine with people putting the album on shuffle. I highly recommend doing this as it gives you a unique listening experience each time. I’m still trying to fully wrap my head around this album, but I’ve fallen in love with it and will be on the look out for albums like in for next year. The reason I put this as an honorable mention, as it really doesn’t feel like an album that I can compare to others, but I wanted to point it out at the same time. It’s a pretty daugting task, looking at 3.5 hour album, so some tracks to try first probably would include “Carefully”, “Battling Dust” and “Badman”. I suspect most people won’t be into this, but I still hope you’ll give it a try, as it’s the craziest thing album I’ve added to a end of year list.</p>
+<p>Before I get into that ranked list, I wanted to highlight the craziest album that I found this year, the experimental electronic piece “Sent From My Telephone”. This album contains a whopping <strong>109!</strong> tracks and a run time of 3.5 hours. It’s a collection of spoken word, ambient music, industrial music, and occasionally singer songwriter and folk compositions. This album is pure chaos, with little structure track to track. In fact, the tracklist is in alphabetical order, implying that the artist is fine with people putting the album on shuffle. I highly recommend doing this as it gives you a unique listening experience each time. I’m still trying to fully wrap my head around this album, but I’ve fallen in love with it and will be on the look out for albums like in for next year. The reason I put this as an honorable mention, as it really doesn’t feel like an album that I can compare to others, but I wanted to point it out at the same time. It’s a pretty daugting task, approaching a 3.5 hour album, so some tracks to try first probably would include “Carefully”, “Battling Dust” and “Badman”. I suspect most people won’t be into this, but I still hope you’ll give it a try, as it’s the craziest thing album I’ve added to a end of year list.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4h9EUsDMvwsUdmXEvK449j?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Carefully, Battling Dust, Hide, Office, Badman, and many more</p>
 </section>
 <section id="pinegrove-1111" class="level2">
 <h2 class="anchored" data-anchor-id="pinegrove-1111">25. Pinegrove: 11:11</h2>
-<p>Jussssst sneaking into the top 25 list is my beloved Pinegrove. Pinegrove in recent years have become very environmentally conscience and decided to make an album dealing with anxieties over climate change and environmentalism. Here, they settle for simpler arrangements to allow Evan Stephens lyrics to be front and center. The album opens with the best track “Habitat” bursting with loud guitars, before the song deconstructs into the beautiful acoustic section complete with natural ambiance. Quickly things transition into the urgent “Alaska” with a great vocal performance from Stephens. “Orange”, a song that placed very high on my top songs of 2021, returns for 11:11 and remains as necessary as ever. My only minor gripe with this album is the simplicity of the arrangements prevents showcasing the rest of a really talented band (see <a href="https://www.youtube.com/watch?v=wdvCd88vjw8">Amperland, NY</a>, please it’s so good). Still, Pinegrove have made yet another terrific record, adding to a pretty consistent catalog.</p>
+<p>Jussssst sneaking into the top 25 list is my beloved Pinegrove. Pinegrove in recent years have become very environmentally conscience and wanted to make an album dealing with the anxieties of catostrophic climate change. Here, they settle for simpler arrangements to allow Evan Stephens lyrics to be front and center. The album opens with the best track “Habitat” starting with loud guitars, before the song deconstructs into the beautiful acoustic section complete with nature sounds in the background, before transitioning in the urgent “Alaska”. “Orange”, a song the placed very high on my top songs of 2021, returns for 11:11 and remains as necessary as ever. My only minor gripe with this album is how little of the rest of the very talented band we get to see on this record. Still, Pinegrove have made yet another terrific record and a solid addition tho their catalog.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6sOmBkyGWJpzR04C7U7BZE?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Habitat, Alaska</p>
 </section>
 <section id="danger-mouse-and-black-thought---cheat-codes" class="level2">
 <h2 class="anchored" data-anchor-id="danger-mouse-and-black-thought---cheat-codes">24. Danger Mouse and Black Thought - Cheat Codes</h2>
-<p>The only hip hop album to make the top 25 (something I need to remdey), is the MC Black Thought teaming up with the legendary producer, Danger Mouse. Together, they create a tight collection of soul and jazz rap tracks with tons of fun features across the record (including a posthumous feature from MF DOOM). I love the piano ch that opens “The Darkest Part” before the beat comes in full force, with Black Thought and Raekwon as they paint a bleak picture of the current state of music and how its affecting artists. “Because” has great features from Joey Bada$$, Russ, and Dylan Cartridge, as they discuss the horrible state of poverty in the U.S. Tons of incredibly lyrical work throughout, backed up by top notch production from a legend.</p>
+<p>The only hip hop album to make the top 25, is the MC Black Thought teaming up with the legendary producer, Danger Mouse. Together, they create this tapestry of soul and jazz rap tracks with tons of fun features across the record (including a posthumous feature from MF DOOM). I love the piano part that opens “The Darkest Part” before the beat comes in full force, with Black Thought and Raekwon as they paint a bleak picture of the current state of music and how its affecting artists. “Because” has great features from Joey Bada$$, Russ, and Dylan Cartridge, as the discuss the horrible state of poverty in the U.S. Tons of incredibly lyrical work throughout, backed up by top notch production from a legend.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0rEbmIQjHTKzKraH4UqiDy?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Because<strong>,</strong>The Darkest Part</p>
 </section>
 <section id="bonny-light-horseman-rolling-golden-holy" class="level2">
 <h2 class="anchored" data-anchor-id="bonny-light-horseman-rolling-golden-holy">23. Bonny Light Horseman: Rolling Golden Holy</h2>
-<p>It’s fun to see a super group return with a follow-up record. Bonny Light Horseman have a great ability to make these cozy indie-folk songs that bring so much comfort. “Exile” starts the album beautifully with a acoustic guitar and banjo as Eric D. Johnson, and Anais Mitchell intertwine their voices. But the real highlight is the remarkable “Summer Dream”. The hollow bodied guitar and Anais’s peaceful vocals just lull me into a dream like state. This album is a perfect companion for those cold fall or winter days where you dress up in your warmest clothes and sip on something warm.</p>
+<p>It’s fun to see a super group return with a follow-up record. Bonny Light Horseman have a great ability to make these cozy indie-folk songs that bring so much comfort. “Exile” starts the album beautifully with a acoustic guitar and banjo as Eric D. Johnson, and Anais Mitchell intertwine their voices. But the real highlight is the remarkable “Summer Dream”. The hollow bodies guitar and Anais’s peaceful vocals just just lull me into a dream like state. This album is a perfect companion for those cold fall or winter days where you dress up in your warmest clothes.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/43mr98g3RoWlC3jyxAKf5I?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Summer Dream, Exile</p>
 </section>
@@ -258,31 +267,31 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="spoon-lucifer-on-the-sofa" class="level2">
 <h2 class="anchored" data-anchor-id="spoon-lucifer-on-the-sofa">21. Spoon: Lucifer on the Sofa</h2>
-<p>It’s super cool that Spoon is still able to put out damn good music in 2022 while largely sticking to their traditional sound. The crunchy guitars throughout this record is a real highlight for me,driving the songs forward. “Held” is a fantastic opening track, that has this super cool bassline that starts with this frantically played string before stumbling into formation with the rest of the song. “The Hardest Cut” is certainly the best song on the album, with a busy little guitar riff and handclaps before the explosive chorus sung by the raspy Britt Daniel. They describe the album as “the sound of classic rock as written by a guy who never did get Eric Clapton” and I’m not sure I can write anything better than that.</p>
+<p>It’s super cool that Spoon is still able to put out damn good music in 2022 while largely sticking to their traditional sound. The crunchy guitars throughout this record is a real highlight for me,driving the songs forward. “Held” is a fantastic opening track, that has this super cool bassline that starts as frantically playing one note before stumbling into formation for the song. “The Hardest Cut” is certainly the best song on the album, with a busy little guitar riff and handclaps before the explosive chorus sung by raspy Britt Daniel. They describe the album as “the sound of classic rock as written by a guy who never did get Eric Clapton” and I’m not sure I can write anything better than that.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1szMY4QqnQZgNuyLBC4jUQ?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> The Hardest Cut, Held</p>
 </section>
 <section id="harry-styles-harrys-house" class="level2">
 <h2 class="anchored" data-anchor-id="harry-styles-harrys-house">20 Harry Styles: Harry’s House</h2>
-<p>Harry has been on my radar for a while at this point as an pop artist that’s more than just being from a boy band, and he absolutely delivers here. This album just contains so many alt-pop gems that are fit for any summer soundtrack. Like other pop artists I’m loving in this day in age, there is a subtlety to the way he approaches his songs both in writing and vocal performances. “Grapejuice” creates this relaxed energy through the bright guitar on top of Style’s reverbed vocals and piano chords banging in the background. “Keep Driving” has this great dreamy aesthetic to it that makes you want to get lost on a road trip with someone you love. Finally, the lovely “Matilida” contains a brilliant acoustic guitar part that to this day still eludes me, despite my best efforts to learn it. This is further evidence to me that pop music is in a really great place.</p>
+<p>Harry had been on my radar for a while at this point as an pop artist with more substance than just being from a boy band, and he absolutely delivers here. This album just contains so many alt-pop gems that are fit for any summer soundtrack. Like other pop artists I’m loving in this day in age, there is a subtlety to the way he approaches his songs both in writing and vocal performances. “Grapejuice” has this great ringing guitar note throughout the track combined with banging piano chords that pair perfectly with his revered vocals that create a relaxed vibe. “Keep Driving” has this great dreamy aesthetic to it that makes you want to get lost on a road trip with someone you love. Finally, Matilida has this amazing acoustic guitar part that to this day still eludes me, despite my best efforts to learn it. This is furhter evidence to me that pop music is in a really great place.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5r36AJ6VOJtp00oxSkBZ5h?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Grapejuice, Matilda</p>
 </section>
 <section id="sweet-pill-where-the-heart-is" class="level2">
 <h2 class="anchored" data-anchor-id="sweet-pill-where-the-heart-is">19. Sweet Pill: Where the Heart Is</h2>
-<p>The best emo rock album you’ll find in 2022. This is just a really tight and talented band capable of making these really catchy and emotional tracks. The title track is a perfect way to start the album, with the lead guitarist dancing all over the neck of the guitar with and incredibly busy drum line. But the real standout is the lead vocalist, Zayna Youssef, who is the absolute perfect frontwoman for this band. She brings so much charisma to each every song. In particular, her vocals on “High Hopes” is extraordinary, brimming personality and swagger. Hands down my favorite vocal performance of the year, and just missed out on being my favorite song. Looking forward to more from the really talented band.</p>
+<p>The best emo rock album you’ll find in 2022, and probably in a while. This is just a really tight and talented band capable of making these really catchy and emotional tracks. The title track is a perfect way to start the album, with the lead guitarist dancing all over the neck of the guitar with and incredibly busy drum line. But the real standout is the lead vocalist, Zayna Youssef, who is the absolute perfect frontwoman for this band, bringing so much charisma to each every song. In particular, her vocals on “High Hopes” is extraordinary, brimming personality and swagger. Hands down my favorite vocal performance of the year, and just missed out on being my favorite song. Looking forward to more from the really talented band.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1SmAUgSjmVihnEuTZoALSO?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> High Hopes, Where the Heart Is</p>
 </section>
 <section id="alvvays-blue-rev" class="level2">
 <h2 class="anchored" data-anchor-id="alvvays-blue-rev">18. Alvvays: Blue Rev</h2>
-<p>The long awaited return of the beloved indie-darlings, Alvvays. On “Blue Rev”, they take a step back from their indie-pop sounds showcased on the fantastic <a href="https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s?si=qSuiNN_7SSO6rQer5czxlA">Antisocialites</a>, going for more a more shoegazzing sound. But, they keep the thing they makes them a special band; the ability to craft anthems (classics like <a href="https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU?si=abdf63a1c7a645a9">Archie, Marry Me</a> and <a href="https://open.spotify.com/track/6Px7VvXLTjMP6J2nTQ6bIh?si=d65c70b697634f32">In Undertow</a>). “Easy on Your Own” is a perfect example of this, as it builds to big emotional climax that I imagine would be amazing to see live. Most of the album contains songs with pretty quick tempos, which makes feel like its in a rush and ends before you even know it. This make it easy to listen to over and over. “Belinda Says” is my personal favorite; another anthem that has such incredible key change towards the back of the song. Truly an amazing effort from Alvvays and well worth the wait.</p>
+<p>The long awaited return of the beloved indie-darlings, Alvvays. On “Blue Rev”, they take a step back from their indie-pop sounds showcased on the fantastic <a href="https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s?si=qSuiNN_7SSO6rQer5czxlA">Antisocialites</a>, going for more a more shoegazzing, noise rock kind of sound. But, they keep the thing they makes them a special band; the ability to craft anthems (classics like <a href="https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU?si=abdf63a1c7a645a9">Archie, Marry Me</a> and <a href="https://open.spotify.com/track/6Px7VvXLTjMP6J2nTQ6bIh?si=d65c70b697634f32">In Undertow</a>). “Easy on Your Own” is a perfect example of this, as it builds to big emotional climax that I imagine would be amazing to see live. Most of the album contains songs with pretty quick tempos, which makes feel like its in a rush and ends before know it. This make it easy to listen to over and over. “Belinda Says” is my personal favorite; another anthem that has such incredible key change towards the back of the song. Truly an amazing effort from Alvvays and well worth the wait.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1dShPPoxXfzbjFO1jIHJZz?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Belinda Says, Easy On Your Own?</p>
 </section>
 <section id="toro-y-moi-mahal" class="level2">
 <h2 class="anchored" data-anchor-id="toro-y-moi-mahal">17. Toro y Moi: MAHAL</h2>
-<p>I’m not sure there is an album with better vibes than Toro Y Moi’s most recent record. I have been a fan of his for many years at this point, but never found more than one or two songs from his records that I liked. MAHAL has broken that trend and then some. This album is just filled with psychedelic rock and r&amp;b tracks that bleed into each other wonderfully. The album starts off boldly, with a guitar features from the super talented Unknown Mortal Orchestra on “The Medium” before going into the saxophone ladened “Goes By So Fast”. “The Loop” is a song I dare anyone not to bop their head to, as laments getting stuck in a boring routine that is making time pass too fast. The album closes strongly with “Day’s in Love” that almost feels like something out a 70s rock. Far and away my favorite project from Toro y Moi.</p>
+<p>I’m not sure there is an album with better vibes than Toro Y Moi’s most recent record. I have been a fan of his for many years at this point, but never found more than one or two songs from his records that I liked. MAHAL has broken that trend and then some. This album is just filled with psychedelic rock and r&amp;b tracks that bleed into each other wondefully. The album starts off boldly, with a guitar features from the super talented Unknown Mortal Orchestra on “The Medium” before going into the saxophone ladened “Goes By So Fast”. “The Loop” is a song I dare anyone not to bop their head to, as laments getting stuck in a boring routine that is making time pass too fast. The album closes strongly with “Day’s in Love” that almost feels like something out a 70s rock. Far and away my favorite project from Toro y Moi.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/16AQyjz1z9rOsTm6iVrBUR?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> The Loop, Days in Love</p>
 </section>
@@ -294,7 +303,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="soccer-mommy-sometimes-forever" class="level2">
 <h2 class="anchored" data-anchor-id="soccer-mommy-sometimes-forever">15. Soccer Mommy: Sometimes, Forever</h2>
-<p>Soccer Mommy has been a really good songwriter for a long time now, finding ways to modernize the angsty-rock nostalgia of the early 2000s. On Sometimes, Forever, she takes a huge leap forward creatively, keeping the bones of those 2000s-eqsue songs but adding grudge and underground music experimentation. The album opens with “Bones”, which is not wildly distinct from her previous work before it transitions into the grunge heavy”With U”, with thick distorted guitars and muted verses. The lead single “Shotgun” is probably the best track on the record, finding the perfect balance between her ear-wormy songwriting style and this new found grudge style. She closes with “Still”, another track reminiscent of her older work that just feels so fitting to end the album with. It’s always great to seen an artist pull off a new sound, and Soccer Mommy has done just that.</p>
+<p>Soccer Mommy has been a really good songwriter for a long time now, finding ways to modernize the angsty-rock nostalgia of the early 2000s. On “Sometimes, Forever”, she takes a huge leap forward creatively, keeping the bones of those 2000s-eqsue songs but adding grudge and underground music experimentation. The album opens with “Bones”, which is not wildly distinct from her previous work before it transitions into the grunge heavy”With U”, with thick distorted guitars and muted verses. The lead single “Shotgun” is probably the best track on the record, finding the perfect balance between her ear-wormy songwriting style and this new found grudge style. She closes with “Still”, another track reminiscent of her older work that just feels so fitting to end the album with. It’s always great to seen an artist pull off a new sound, and Soccer Mommy has done just that.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3VXLdJpzeaAyX9Tbm0i0zn?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Shotgun, With U</p>
 </section>
@@ -306,7 +315,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="pup-the-unraveling-of-puptheband" class="level2">
 <h2 class="anchored" data-anchor-id="pup-the-unraveling-of-puptheband">13. PUP: The Unraveling of PUPTHEBAND</h2>
-<p>PUP continues their reign as the best pop punk band in music right now (sorry Paramore…). Compared to their instant classic “<a href="https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV?si=lBxuDr50RkihtYeM-v0rqw">Morbid Stuff</a>”, which contained straight ahead pop-punk and emo-rock sounds, PUPTHEBAND goes for a nosier, less polished sound, particularly towards the back of the album. As the album evolves, the tracks become less melodic and become more chaotic, more than likely symbolizing the bands inevitable unraveling. I find the piano skits/interludes endlessly entertaining, as the band is running out of money trying to finish a record and fighting. “Totally Fine” is such a great way to start the record, starting off chaotic before settling back into the familiar melodic choruses of their previous work. “Matilda” is another highlight of the record, containing the perfect chorus to scream-sing to (and which I did in person in the at a show in the summer of 2022). As someone who grew up on Green Day, pop-punk is always going to have a special place in my heart. PUP is doing it the best right now, so I guess the take the most up the most room.</p>
+<p>PUP continues their reign as the best pop punk band in music right now (sorry Paramore…). Compared to their instant classic “<a href="https://open.spotify.com/album/504XSXhUJlzztcMV4YMaDV?si=lBxuDr50RkihtYeM-v0rqw">Morbid Stuff</a>”, which contained straight ahead pop-punk and emo-rock sounds, PUPTHEBAND goes for a nosier, less polished sound, particularly towards the back of the album. As the album evolves, the tracks become less melodic and become more chaotic, more than likely symbolizing the bands inevitable unraveling. I find the piano skits/interludes endlessly entertaining, as the band is running out of money trying to finish a record and fighting. “Totally Fine” is such a great way to start the record, starting off chaotic before settling back into the farmilar melodic choruses of their previous work. “Matilda” is another highlight of the record, containing the perfect chorus to scream-sing to (and which I did in person in the at a show in the summer of 2022). As someone who grew up on Green Day, pop-punk is always going to have a special place in my heart. PUP is doing it the best right now, so I guess the take the most up the most room.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2bRpK0BpzYUQZYIzri35n6?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Totally Fine, Matilda</p>
 </section>
@@ -354,7 +363,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="angel-olsen-big-time" class="level2">
 <h2 class="anchored" data-anchor-id="angel-olsen-big-time">5. Angel Olsen: Big Time</h2>
-<p>It’s becoming kind of absurd how much incredible music Angel Olsen has released, and Big Time is yet another incredible addition. The origins of the album are unfortunately tragic, as Angel had just came out gay to her parents and was greeted by love and acceptance, only for her to lose both of them suddenly a couple of weeks later. Really changes of the context of many of the songs. Angel had humorously billed this album as “not country, but it’s also not not country” which I think a perfect description. Tracks like “This is How It Works” and the title track, you can clearly hear country influences, particularly with the very prominent and well done pedal steel. Angel is still capable of creating a huge ballad with the opening track (and best track) “All the Good Times”. The line “the way that she said, as heavy as lead, you know how to get straight to my head” gives me chills on every listen. “Ghost On” is another great ballad that flows so beautifully before the great guitar solo comes in towards the end of the album. As with any Angel Olsen record, her iconic vocals shine through on just about every track, which elevates already great songwriting to another level. The final track “Chasing the Sun” is an emotional finale to the album as Angel surrenders to the love she has found. I’m getting to the point of running out of superlatives for Angel. All I can say is give this record many listens.</p>
+<p>It’s becoming kind of absurd how much incredible music Angel Olsen has released, and Big Time is yet another incredible addition. The origins of the album are unfortunately tragic, as Angel had just came out gay to her parents and was greeted by love and acceptance, only for her to lose both of them suddenly a couple of weeks later. Really changes of the context of many of the songs. Angel had humorously billed this album as “not country, but it’s also not not country” which I think a perfect description. Tracks like “This is How It Works” and the title track, you can clearly hear country influences, particularly with the very prominent and well done pedal steel. Angel is still capable of creating a huge ballad with the opening track (and best track) “All the Good Times”. The line “the way that she said, as heavy as led, you know how to get straight to my head” gives me chills on every listen. “Ghost On” is another great ballad that flows so beautifully before the great guitar solo comes in towards the end of the album. As with any Angel Olsen record, her iconic vocals shine through on just about every track, which elevates already great songwriting to another level. The final track “Chasing the Sun” is an emotional ending to the album as Angel surrenders to the love she has found. I’m getting to the point of running out of superlatives for Angel. All I can say is give this record many listens.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/02R7PREL8nCr02CEYLy7YH?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> All The Good Times, Big Time, Ghost On</p>
 </section>
@@ -372,13 +381,13 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="big-thief-dragon-new-warm-mountain-i-believe-you" class="level2">
 <h2 class="anchored" data-anchor-id="big-thief-dragon-new-warm-mountain-i-believe-you">2. Big Thief: Dragon New Warm Mountain I Believe You</h2>
-<p>This is probably a good album to listen to after the Ethel Cain record….. I’m running out of words to describe what an amazing band Big Thief is. They just continue to release incredible record after incredible record. I’ve heard a lot people get excited that Big Thief released a country album, but honestly does this is a disservice. They cover all kinds of ground in the indie-folk and singer songwriter realm, from traditional Americana, to more experimental indie-folk, blue grass and more. I think the best comparison is maybe The Beatles’s “<a href="https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL?si=cxACRYzCRHeqj-8dOilWLg">The White Album</a>”, but only in the sense of the long tracklist with its sprawling sounds. The album opens sweetly, with the simple indie-folk song “Change” that has this delightful guitar solo from their lead guitarist, Buck Meek. In then transitions into the frantic “Time Escaping”, with a cacophony of sounds. “Spud Infinity” is this great blue grass song, complete a jaw harp (which required a very silly google search to figure out what the hell it was called). The album then goes into my favorite on the album “Certainty”. Its such a simple little song, but its so playful, and I just adore Adrianne Lenker’s vocal performance on it and the lose harmonies from Buck. Big Thief produce such a crazy sound on “Little Things” with echo acoustic guitars layered by one of my favorite ever guitar performances from Buck. There doesn’t seem to be a ton of song structure to it, but it just works so well. It then transitions perfectly into the criminally brief “Heavy Bend”, with it’s plucky guitar and crisp drumbeat. I’ve talked about a lot of songs already and I’m not even halfway through the tracklist which just shows how much incredibly good music is on this album. The second half opens with amazing bluegrass tune “Red Moon” where Adrianne really leans into the twang in her vocal delivery. “No Reason” is another favorite of my, with the stunning flute solo on the bridge of the song and the lovely camrodory of the band as they together sing “come together”. “12,000” lines is a peaceful folk tune with fantastic vocal performance from Adrianne. Then there is “Simulation Swarm”, a catchy indie-folk tune that has this intrigue and mystery to it, as crescendos and backs off throughout the song, and feels like its destined to become a fan favorite. The album closes with one more country track, “Blue Lightning” with great messy lead guitars from Buck again, acting a perfect way to bring all of this together. This record has 20 songs and runs from 1 hour and 20 minutes. And yet, it doesn’t drag even a little bit. There is such comfort to how Big Thief approach this work. Its peaceful, playful, friendly, and above all, amazing executed. I dare say this is their best work yet and album that I will come back to time and time again.</p>
+<p>This is probably a good album to listen to after the Ethel Cain record….. I’m running out of words to describe what an amazing band Big Thief is. They just continue to release incredible record after incredible record. I’ve heard a lot people get excited that Big Thief released a country album, but honestly does this is a disservice. They cover all kinds of ground in the indie-folk and singer songwriter realm, from traditional Americana, to more experimental indie-folk, blue grass and more. I think the best comparison is maybe The Beatles’s “<a href="https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL?si=cxACRYzCRHeqj-8dOilWLg">The White Album</a>”, but only in the sense of the long tracklist with its sprawling sounds. The album opens sweetly, with the simple indie-folk song “Change” that has this delightful guitar solo from their lead guitarist, Buck Meek. In then transitions into the frantic “Time Escaping”, with a cacophony of sounds. “Spud Infinity” is this great blue grass song, complete a jaw harp (which required the funniest google search to figure out what the hell it was called). The album then goes into my favorite on the album “Certainty”. Its such a simple little song, but its so playful, and I just adore Adrianne Lenker’ss vocal performance on it and the lose harmonies from Buck. Big Thief produce such a crazy sound on “Little Things” with echo acoustic guitars layered by one of my favorite ever guitar performances from Buck. There doesn’t seem to be a ton of song structure to it, but it just works so well. It then transitions perfectly into the criminally brief “Heavy Bend”, with it’s plucky guitar and crisp drumbeat. I’ve talked about a lot of songs already and I’m not even halfway through the tracklist which just shows how much incredibly good music is on this album. The second half opens with amazing bluegrass tune “Red Moon” where Adrianne really leans into the twang in her vocal delivery. “No Reason” is another favorite of my, with the stunning flute solo on the bridge of the song and the lovely camrodory of the band as they together sing “come together”. “12,000” lines isa peaceful folk tune with fantastic vocal performance from Adrianne. Then there is “Simulation Swarm”, a catchy indie-folk tune that has this intrigue and mystery to it, as crescendos and backs off throughout the song, and feels like its destined to become a fan favorite. The album closes with one more country track, “Blue Lightning” with great messy lead guitars from Buck again, acting a perfect way to bring all of this together. This record has 20 songs and runs from 1 hour and 20 minutes. And yet, it doesn’t drag even a little bit. There is such comfort to how Big Thief approach this work. Its peaceful, playful, friendly, and above all, amazing executed. I dare say this is their best work yet and album that I will come back to time and time again.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7Ln81p86r5cCsesd3KBWIY?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> Certainty, Reasons, Simulation Swarm, Little Things</p>
 </section>
 <section id="black-country-new-road-ants-from-up-there" class="level2">
 <h2 class="anchored" data-anchor-id="black-country-new-road-ants-from-up-there">1. Black Country New Road: Ants from Up There</h2>
-<p>It was going to take something pretty damn special to beat Big Thief’s latest release; Black Country, New Road have done just that. It’s honestly pretty hard to describe how much I love this record. I’ve just listened to some many times this year. It’s a pretty substantial departure from the post-punk approach they took on their terrific debut “<a href="https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX?si=Pn-Rz5lPTm-_MBtA445BhQ">For the first time</a>”, opting for a chamber pop type sound instead. This allows for each of the instruments to have more profound role on the record and they put that to good use. The “Intro” starts like their first album, a fun instrumental but rather than a jam, serves a introduction to the album’s sound instead. It transitions into the almost silly “Chaos Space Marines” with dramatic piano and saxophones blasting as the song drives forward. It just sounds like the band is having such fun with this track. It then goes into the amazing “Concorde”, containing the understated iconic vocals from Isaac Wood. I just love how the saxophone and keyboard harmonizes on the second half of the song before it builds an emotional climax. “Bread Song” contains more rising saxophones and simple drums and guitar strums. A big highlight of the record falls on “Good Will Hunting”, with a pound of synth keys bringing you into the song. The way Issace sing “she has Billie Ellish style, moving to Berlin for a little while” just sounds so cool in his baritone voice. The front half of the album contains the shorter, more single type songs, but the real magic is on the back half. The B-side starts with the truly remarkable “The Place Where He Inserted the Blade”, my favorite song of 2022. It opens with somber piano chords and a breathtaking flute before Issac opens with the lines “your scared of the world where you’re needed”. Issac then belts the lines that I just love to sing along to “How come every time I try to make lunch for anyone else in my head, I get lost dreaming of you, and you come to me”. It’s just a line that gets stuck in your head. On the first chorus, the flute remains present, but is then replaced by a saxophone on the second first, giving the song more power. After the second verse, the whole band comes in seeing along to the melody, a moment that always overwhelms me emotionally. We then go into the 9 minute “Snow Globe”, a slow burn song with motif guitar lines and a swelling violin part. There is some pretty incredible percussion on the back half of the track that really show case that the talent of the drummer/percussionist. Finally we get to the epic finale that is “Basketball Shoes”, the only song fitting to end this masterpiece. This 12 minute journey begins with instruments entering the song one by one, with a gorgeous harmonies between the saxophone and violinist. Issac the comes with hushed vocals to accompany the beautiful instrumentation surrounding him. The song the quickly transitions to post-punk sound familiar on their first album, but only for brief moment. Each instrument the plays a singular note in order before erupting together playing the same melody. The song then builds tension for the big finale, with echoing drums and Isacc lamenting “in my bedsheets are now wet, with Charlie I pray to forget”. The band then just unleashes, giving everything they got as they sing together one last time. Its such a perfect end to a perfect album. This album hits me quite a bit harder following the news that Issac Woods left the band to tend to his mental health. This album almost feels like a goodbye in many ways. Still, I hope Issac receives the help he needs and can live a happy life. It goes without saying that this album is my front runner for not just album of the year, but album of the decade. It’s been a lot time since a piece of music has resonated with me as much as the work did. It’s something truly special.</p>
+<p>It was going to take something pretty damn special to beat Big Thief’s latest release; Black Country, New Road have done just that. It’s honestly pretty hard to describe how much I love this record. I’ve just listened to some many times this year. It’s a pretty substantial departure from the post-punk approach they took on their terrific debut “<a href="https://open.spotify.com/album/2PfgptDcfJTFtoZIS3AukX?si=Pn-Rz5lPTm-_MBtA445BhQ">For the first time</a>”, opting for a chamber pop type sound instead. This allows for each of the instruments to have more profound role on the record and they put that to good use. The “Intro” starts like their first album, a fun instrumental but rather than a jam, serves a introduction to the album’s sound instead. It transitions into the almost silly “Chaos Space Marines” with dramatic piano and saxophones blasting as the song drives forward. It just sounds like the band is having such fun with this track. It then goes into the amazing “Concorde”, containing the understated iconic vocals from Isaac Wood. I just love how the saxophone and keyboard harmonizes on the second half of the song before it builds an emotional climax. “Bread Song” contains more rising saxophones and simple drums and guitar strums. A big highlight of the record falls on “Good Will Hunting”, with a pound of synth keys bringing you into the song. The way Issace sing “she has Billie Ellish style, moving to Berlin for a little while” just sounds so cool in his baritone voice. The front half of the album contains the shorter, more single type songs, but the real magic is on the back half. The B-side starts with the truly remarkable “The Place Where He Inserted the Blade”, my favorite song of 2022. It opens with somber piano chords and a breathtaking flute before Issac opens with the lines “your scared of the world where you’re needed”. Issac then belts the lines that I just love to sing along to “How come every time I try to make lunch for anyone else in my head, I get lost dreaming of you, and you come to me”. It’s just a line that gets stuck in your head. On the first chorus, the flute remains present, but is then replaced by a saxophone on the second first, giving the song more power. After the second verse, the whole band comes in seeing along to the melody, a moment that always overwhelms me emotionally. We then go into the 9 minute “Snow Globe”, a slow burn song with motif-esque guitar lines and a swelling violin part. There is some pretty incredible percussion on the back half of the track that really show case that the talent of the drummer/percussionist. Finally we get to the epic finale that is “Basketball Shoes”, the only song fitting to end this masterpiece. This 12 minute journey begins with instruments entering the song one by one, with a gorgeous harmonies between the saxophone and violinist. Issac the comes with hushed vocals to accompany the beautiful instrumentation surrounding him. The song the quickly transitions to post-punk sound familar on their first album, but only for brief moment. Each instrument the plays a singular note in order before erupting together playing the same melody. The song then builds tension for the big finale, with echoing drums and Isacc lamenting “in my bedsheets are now wet, with Charlie I pray to forget”. The band then just unleashes, giving everything they got as they sing together one last time. Its such a perfect end to a perfect album. This album hits me quite a bit harder following the news that Issac Woods left the band to tend to his mental health. This album almost feels like a goodbye in many ways. Still, I hope Issac receives the help he needs and can live a happy life. It goes without saying that this album is my front runner for not just album of the year, but album of the decade. It’s been a lot time since a piece of music has resonated with me as much as the work did. It’s something truly special.</p>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/21xp7NdU1ajmO1CX0w2Egd?utm_source=generator" width="100%" height="380" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p><strong>Key Tracks:</strong> The Place Where He Inserted the Blade, Basketball Shoes, Good Will Hunting, Concorde, basically the whole album</p>
 
@@ -413,9 +422,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -480,6 +503,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
