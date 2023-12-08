@@ -1,0 +1,142 @@
+---
+title: "Top 25 Albums of 2023"
+format:
+  html:
+    code-fold: true
+    toc: true
+title-block-banner: true
+---
+
+I must say, this has been one of the strangest lists I've ever put together. This first half of the year for me, I was just having a really difficult time finding music that was resonating with me, with a few notable exceptions. It;s possible that after creating what is probably my favorite list the previous year, that I was dealing with a bit of a musical hangover. Still, I was finding throughout my typical musical sources/blogs that there was somewhat of a consensus that 2023 was just a weaker year of music. But now that I have made my list, I'm actually incredibly happy with how things came out. The second half of the year was jam packed with fantastic releases that really filled out the list. Additionally, years in which I'm having a more difficult time finding music tend to lead to me branching out a bit more into other genres, which make for more interesting lists (at least in my opinion). For the first time, I have two hip hop records in my top 10, which is a genre I've been trying to spend more time it.
+
+I don't think it helped that I was on the go a ton this year, traveling back and forth from New York City a lot this year, traveling to Aruba for a vacation that I was incredibly (so incredibly) fortunate to join my girlfriend's family on, another summer of field work at Whiteface Mountain, and yet another extended trip to Colorado. This year is also setting up the end of my PhD, with my hopes of finishing up in August 2024, and permanently moving to New York. Seems anxieties of producing high quality work, whether it was my PhD or this list was somewhat of a theme this year. I'm very happy with how this list ended up and maybe it's a sign for things to come.
+
+## My Favorite Songs of 2023
+
+1.  Blomi - Susanne Sunfor
+2.  The Clutch - Palehound
+3.  Bull Believer - Wednesday
+4.  Swing (In A Dream) - Squid
+5.  Soft Landing - Billy Woods and Kenny Segal
+6.  Fire the Editor - James Blake
+7.  kisses - Slowdive
+8.  2000 Miles - Jolie Holland
+9.  Mitski - I Don't Like My Mind
+10. Garbage Pale Kids - JPEGMAFIA and Danny Brown
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0PywVGo37UYQqobfGUsHJ9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+## 25. Jessie Ware: That! Feels Good! 
+
+Sneaking into the list this year is the insanely fun disco/funk record from Jessie Ware. Jessie Ware really blew up in 2020 with a similar genre of dance music in 2020 with [What's You Pleasure](https://open.spotify.com/album/1CTm3ARqDETSm7GfvNYNJp?si=qum3K8NQQ7iY56cnNfGEAQ), but for whatever reason I never really could get into it. On That! Feels Good!, she won me over with just the unadulterated joy found throughout the record. "Begin Again", a favorite of the year for me is just fantastically put together song with the jangly guitars, piano lines matching the melody, and the prominent horns. Incredibly fun record.
+
+**Key Tracks:** Begin Again, Free Yourself
+
+## 24. Earl Sweatshirt and The Alchemist: Voir Dire
+
+Earl Sweatshirt is back with another fantastic project, teaming up with the Alchemist to produce a slow pace, yet often bright sounding record. I really like Earl's flow on this record, the down tempo-ed approach is a nice contrast to the bright pianos on the track "Mancala". "Vin Skully's" beat is such an earmworm, with the simple blues guitar riff, before a super cool transition into "Sentry". The track list coming in at 26 minutes, there is no excuse not to give this record a try.
+
+**Key Tracks:** Vin Skully, Mancala
+
+## 23. Bully: Lucky for You
+
+I'm such a sucker for loud, powerchord driven indie-rock, so there was never going to be a world where I didn't like this album. What stands out on this record is the fantastic lead vocals from Alicia Bognanno and the slight feedback from the guitars combined with synth lines to give each track more power. "A Wonderful Life" is a perfect example where the guitars are turned up to 11. We then transition into the best track on the album, "Hard To Love", containing a ton of fuzzy guitars and feedback that just make this so badass. This is indie rock at its best.
+
+**Key Tracks:** Hard to Love, A Wonderful Life
+
+## 22. Sufjan Stevens: Javelin
+
+Sufjan Stevens finally got me to like a whole album. For whatever reason, I have never quite gotten why so many people are so enamored with Sufjan Stevens, even understanding some of the incredibly personal and heavy topics is previous works have discussed. But on "Javelin", I might be starting to get it. There are just some many beautiful moments throughout the record, whether its the children choir coming in towards the end of "Will Anybody Love Me" or the delicate approach to So You Are Tired; a song so delicate it might fall apart at the slightest touch. When the album released, Steven's announced to the world the album was dedicated to his life partner who had recently passed away which just adds to the soul crushing nature to this album. A true work of art no one should miss out on.
+
+**Key Tracks:** Will Anybody Love Me, So You Are Tired
+
+## 21. Yeule: softscars
+
+Perhaps one of the most unique albums I've heard this year comes from yeule, combining elements of rock and metal with glitch pop. I can help but get this idea in my head that this is "zoomer" music, music for gen z. But that probably makes me seem like an old man. The opening track "x w x" sets the stage perfectly for the rest of the record, with heavy guitars and a pretty amazing screamo-esque belt that fits just perfectly. "softscars" has this groovy beat and ringing digital soundscape to it that always has my head bopping along. This is a super unique listen and perhaps points to a sound we could hear more of in the future.
+
+**Key Tracks:** x w x, softscars
+
+## 20. Boygenius: The Record
+
+The famed sad-girl trio is back! Unfortunately, this album at times feels like a collection of B-Sides or spare songs from their respective solo careers. The good news? Terms out that the B-Sides of these stupendously talented songwriters still makes for a really good album. Interestingly, I find that Julien Baker really stands out on the record, the member I listen to least to. For instance "\$20" kicks butt, with scratchy guitars and a powerful vocal delivery from Baker. There are some truly fantastic singles on this record, like the undeniable "Not Strong Enough", whose chorus is just so amazingly catchy (especially when Bridgers and Baker go into their falsettos). I really like sincerity of "Cool About It", as friends are unable to discuss an undisclosed problem/fight. Tons of great stuff here and it certainly will tide me over until the next project of one of these three.
+
+**Key Tracks:** Not Strong Enough, \$20
+
+## 19. Jules Olson: Heavy Hitter
+
+So this is the first time I'm actually getting the chance to review the album of a friend, which I think is pretty cool (hi Jules!). In her debut full length record, Jules skillfully combines soul, singer-songwriter, and folk that showcase some of her biggest musical influences including Pinegrove, John Mayer, and Allen Stone. "Solid Ground" has such a terrific instrumentation to that serves as a perfect pairing to a damn good vocal performance from Jules (the pedal steel in particular just works so well here). "Cold" is an instant classic, with a breezy vibe perfect for road trips in your car with nowhere in particular to be. There are some lovely acoustic tracks like "Good Thing" to give the album a melancholy yet cozy feeling to the album. Fantastic debut from Jules; give it a listen!
+
+**Key Tracks:** Solid Ground, Cold
+
+## 18. Jeff Rosenstock: Hellmode
+
+**Key Tracks:** Will U, Head
+
+## 17. James Blake: Playing Robots Into Heaven
+
+**Key Track:** Fire the Editor, Asking to Break
+
+## 16. Say She She: Silver
+
+**Key Tracks:** Astral Plane, Think About It
+
+## 15. Jungle: Volcano
+
+**Key Tracks:** Dominoes, Back on 74
+
+## 14. Wilco: Cousin
+
+**Key Tracks:** Pittsburgh, Cousin
+
+## 13. Geese: 3D Country
+
+**Key Tracks:** 2122, Cowboy Nudes
+
+## 12. Shame: Food for Worms
+
+**Key Tracks:** Orchid, Fingers of Steel
+
+## 11. Blonde Redhead: Sit Down for Dinner
+
+**Key Tracks:** Not For Me, Melody Experiment
+
+## 10. Jolie Holland: Haunted Mountain
+
+**Key Tracks:** 2000 Miles, Haunted Mountain, Highway 72
+
+## 9. Andy Shauf: Norm
+
+**Key Tracks:** Sunset, Wasted on You, alife
+
+## 8. Wednesday: Rat Saw God
+
+**Key Tracks:** Bull Believer, Chosen to Believe, Bath Country
+
+## 7.  Everything is Alive: Slowdive
+
+**Key Tracks:** kisses, skin in the game
+
+## 6. Billy Woods & Kenny Segal: Maps
+
+**Key Tracks:** Soft Landing, Babylon by Bus, Facetime
+
+## 5. Mitski: The Land is Inhospitable and So Are We
+
+**Key Tracks:** I Don't Like My Mind, I Love Me After You, Heaven
+
+## 4. Reverand Kristin Michael Hayter - SAVED!
+
+**Key Tracks:** HOW CAN I KEEP FROM SINGING, I"M GETTING OUT WHILE I CAN, ALL OF MY FRIENDS ARE GOING TO HELL
+
+## 3. JPEGMAFIA & Danny Brown: Scaring the Hoes
+
+**Key Tracks:** Garbage Pale Kids, Steppa Pig, God Loves You, Kingdom Hearts
+
+## 2. Susanne Sundfør: blómi
+
+**Key Tracks:** blómi, leikara ljóð, fare thee well, náttsǫngr
+
+## 1. Squid: O Monolith
+
+**Key Tracks:** Swing (In A Dream), The Blades, Overgrowth, Green Light
