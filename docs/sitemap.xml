@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://larrysfavoritemusic.github.io/Blog/index.html</loc>
-    <lastmod>2023-11-30T02:03:54.739Z</lastmod>
+    <lastmod>2023-12-16T01:17:37.713Z</lastmod>
   </url>
   <url>
     <loc>https://larrysfavoritemusic.github.io/Blog/lists/2021_List.html</loc>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://larrysfavoritemusic.github.io/Blog/playlists.html</loc>
-    <lastmod>2022-12-18T20:42:12.561Z</lastmod>
+    <lastmod>2023-12-16T01:17:41.262Z</lastmod>
   </url>
   <url>
     <loc>https://larrysfavoritemusic.github.io/Blog/about.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://larrysfavoritemusic.github.io/Blog/lists/2020_List.html</loc>
-    <lastmod>2023-11-30T02:04:19.959Z</lastmod>
+    <lastmod>2023-12-16T01:19:34.725Z</lastmod>
   </url>
   <url>
     <loc>https://larrysfavoritemusic.github.io/Blog/lists/2018_List.html</loc>
@@ -55,5 +55,9 @@
   <url>
     <loc>https://larrysfavoritemusic.github.io/Blog/TestHmtl.html</loc>
     <lastmod>2023-03-10T05:06:59.463Z</lastmod>
+  </url>
+  <url>
+    <loc>https://larrysfavoritemusic.github.io/Blog/lists/2023_List.html</loc>
+    <lastmod>2023-12-16T01:17:45.686Z</lastmod>
   </url>
 </urlset>
