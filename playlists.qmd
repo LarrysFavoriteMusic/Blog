@@ -13,6 +13,22 @@ Additionally, for 2016, I did not make a top songs playlist as it was my first e
 However, for both 2016 and 2018, I made 25 song playlist to showcase some of my favorite songs from those years.
 Lastly, I also made a playlist for my favorite song of the 2010s.
 
+# 2023
+
+1.  Blomi - Susanne Sunfor
+2.  The Clutch - Palehound
+3.  Bull Believer - Wednesday
+4.  Swing (In A Dream) - Squid
+5.  Soft Landing - Billy Woods and Kenny Segal
+6.  Fire the Editor - James Blake
+7.  kisses - Slowdive
+8.  2000 Miles - Jolie Holland
+9.  Mitski - I Don't Like My Mind
+10. Garbage Pale Kids - JPEGMAFIA and Danny Brown
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0PywVGo37UYQqobfGUsHJ9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
 # 2022
 
 1.  The Place Where He Inserted the Blade - Black Country, New Road

@@ -11,9 +11,16 @@ website:
     openSidebar: false
 ---
 
-2021 represented a year of both healing and pain. A good end of things, a new president was elected, vaccines for COVID-19 were distributed and the world began opening up again. But the all too real problems surrounding climate change were present particularly in the summer as much of North America was engulfed in smoke. I spent much of my summer at the summit of Whiteface Mountain, collecting cloud water and aerosol data for my eventual dissertation and was truly horrified by how hazy so many of the days were, despite being 100s-1000s of miles away from the actual fires. During the fall, I had the great pleasure of moving to Boulder, Colorado, for a few months, which was a welcome change from being stranded in my apartment.
+2021 represented a year of both healing and pain.
+A good end of things, a new president was elected, vaccines for COVID-19 were distributed and the world began opening up again.
+But the all too real problems surrounding climate change were present particularly in the summer as much of North America was engulfed in smoke.
+I spent much of my summer at the summit of Whiteface Mountain, collecting cloud water and aerosol data for my eventual dissertation and was truly horrified by how hazy so many of the days were, despite being 100s-1000s of miles away from the actual fires.
+During the fall, I had the great pleasure of moving to Boulder, Colorado, for a few months, which was a welcome change from being stranded in my apartment.
 
-This list really highlights how much women kicked ass in the music industry in 2021, with 9 out of the top 10 albums and 18 of the top 25 albums were from female artists or female led bands. It was also a list that was considerably cheery than its 2020 counterpart which has to be tied to my improved mood throughout 2021. The only critique of this list I probably would have is a general lack of folk/acoustic/singer songwriter and more experiemental type music. Even so, this album was a perfect companion for a year that represented both healing and tragedy.
+This list really highlights how much women kicked ass in the music industry in 2021, with 9 out of the top 10 albums and 18 of the top 25 albums were from female artists or female led bands.
+It was also a list that was considerably cheery than its 2020 counterpart which has to be tied to my improved mood throughout 2021.
+The only critique of this list I probably would have is a general lack of folk/acoustic/singer songwriter and more experiemental type music.
+Even so, this album was a perfect companion for a year that represented both healing and tragedy.
 
 ## My Favorite Songs of 2021
 
@@ -33,7 +40,10 @@ This list really highlights how much women kicked ass in the music industry in 2
 ```
 ## 25. Hiatus Kaiyote: Mood Valiant
 
-Jazz/Funk/R&B fusion (or some combination of those genres) is back after the cult classic "Choose Your Weapon". In all honesty, "Choose Your Weapon" was an album that I really wanted to like but could really nice grab on to, so admittedly I wasn't sure what to expect with this record. With Mood Valiant, Hiatus Kaiyote delivers finding the perfect sweet spot between intricate arrangements and catchy songwriting. "Red Room" is such an ear worm, with such unassuming instrumentation and subtle vocals.
+Jazz/Funk/R&B fusion (or some combination of those genres) is back after the cult classic "Choose Your Weapon".
+In all honesty, "Choose Your Weapon" was an album that I really wanted to like but could really nice grab on to, so admittedly I wasn't sure what to expect with this record.
+With Mood Valiant, Hiatus Kaiyote delivers finding the perfect sweet spot between intricate arrangements and catchy songwriting.
+"Red Room" is such an ear worm, with such unassuming instrumentation and subtle vocals.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/456WeVeZk38VJuqg2sL7QG?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -42,7 +52,10 @@ Jazz/Funk/R&B fusion (or some combination of those genres) is back after the cul
 
 ## 24. W.H. Lung: Vanities
 
-There is a shroud of mystique and erieness that surrounds this record. Each electropop track contains a heart pumping beat that drives each song forward that will inevitably have you bopping your head along. On tracks like "Gd Tym" (which I think is pronounced "good time"), I get this sense of urgency within the vocal performances, that give provide so much energy. This was album I can back to often whenever I needed a pickme up in my energy levels.
+There is a shroud of mystique and erieness that surrounds this record.
+Each electropop track contains a heart pumping beat that drives each song forward that will inevitably have you bopping your head along.
+On tracks like "Gd Tym" (which I think is pronounced "good time"), I get this sense of urgency within the vocal performances, that give provide so much energy.
+This was album I can back to often whenever I needed a pickme up in my energy levels.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3ibpHV6iYgRzBVMOuqBCwn?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -51,7 +64,11 @@ There is a shroud of mystique and erieness that surrounds this record. Each elec
 
 ## 23. Fruit Bats: The Pet Parade
 
-At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. Johnson seems to be on a role, with three terrific album releases in row. On The Pet Parade, Fruit Bats do what they do best, creating a wonderful collection of indie-folk tracks. "Pet Parade" has this wonderful soaring chorus surrounded by big acoustic guitars and fiddles. "Holy Rose" confronts the very real challenges of balancing your personal life with the unsettling realities of climate change. For any indie-folk fan, this an album worth spending time with.
+At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. Johnson seems to be on a role, with three terrific album releases in row.
+On The Pet Parade, Fruit Bats do what they do best, creating a wonderful collection of indie-folk tracks.
+"Pet Parade" has this wonderful soaring chorus surrounded by big acoustic guitars and fiddles.
+"Holy Rose" confronts the very real challenges of balancing your personal life with the unsettling realities of climate change.
+For any indie-folk fan, this an album worth spending time with.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4fyZyhtsOevsFYLbLitaHZ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -60,7 +77,11 @@ At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. John
 
 ## 22. Black Country, New Road: For the first time
 
-2021 seemed to be a pretty darn good year for British post-punk bands. This is the first of 2 of this category on this list, with really promising debut from Black Country, New Road. The album starts energetically with the aptly named "Instrumental" led by a dueling keyboard and saxophone. "Athens, France" is a true highlight, consistently changing its mind between scratchy guitars and beautiful jazz interludes. An truly exciting debut for this young band.
+2021 seemed to be a pretty darn good year for British post-punk bands.
+This is the first of 2 of this category on this list, with really promising debut from Black Country, New Road.
+The album starts energetically with the aptly named "Instrumental" led by a dueling keyboard and saxophone.
+"Athens, France" is a true highlight, consistently changing its mind between scratchy guitars and beautiful jazz interludes.
+An truly exciting debut for this young band.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2PfgptDcfJTFtoZIS3AukX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -69,7 +90,12 @@ At the current moment, between Bonny Light Horseman and Fruit Bats, Eric D. John
 
 ## 21. Alice Phoebe Lou: Glow
 
-Alice Phoebe Lou has managed to make a wonderful collection of dreamy R&B songs on her record "Glow". Throughout the record, Alice explores falling into and then out of love. I really enjoy the vocal effects added to her vocals that make her almost sound like she's underwater. For whatever reason, it adds warmth to the songwriting. "Lovesick" is great way to close the record, full of energy and brightness, and a great drum line. Just a lovely collection of soul and R&B songs.
+Alice Phoebe Lou has managed to make a wonderful collection of dreamy R&B songs on her record "Glow".
+Throughout the record, Alice explores falling into and then out of love.
+I really enjoy the vocal effects added to her vocals that make her almost sound like she's underwater.
+For whatever reason, it adds warmth to the songwriting.
+"Lovesick" is great way to close the record, full of energy and brightness, and a great drum line.
+Just a lovely collection of soul and R&B songs.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/17bMGqdO2UxbHHgiE9mX6X?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -78,7 +104,13 @@ Alice Phoebe Lou has managed to make a wonderful collection of dreamy R&B songs 
 
 ## 20. Tyler, The Creator: CALL ME IF YOU GET LOST
 
-At this point, Tyler is an undeniable talent. However (and don't crucify me for this), I didn't quite get the hype around "Igor", whose sound I couldn't quite get behind. With "CALL ME IF YOU GET LOST", I fully on board and is my new favorite Tyler record. There is just so much great production and instrumentation throughout the record and Tyler's vocal performances. "WUSYANAME" is an undeniable banger. I also love HOT WIND BLOWS, which has the great jazz flute and piano driving the song forward and a truly fantastic Lil Wayne feature. My definite favorite from Tyler's catalog.
+At this point, Tyler is an undeniable talent.
+However (and don't crucify me for this), I didn't quite get the hype around "Igor", whose sound I couldn't quite get behind.
+With "CALL ME IF YOU GET LOST", I fully on board and is my new favorite Tyler record.
+There is just so much great production and instrumentation throughout the record and Tyler's vocal performances.
+"WUSYANAME" is an undeniable banger.
+I also love HOT WIND BLOWS, which has the great jazz flute and piano driving the song forward and a truly fantastic Lil Wayne feature.
+My definite favorite from Tyler's catalog.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/45ba6QAtNrdv6Ke4MFOKk9?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -87,7 +119,12 @@ At this point, Tyler is an undeniable talent. However (and don't crucify me for 
 
 ## 19. Jungle: Loving in Stereo
 
-God this album is so fun. Jungle has this great ability to create this optimistic and energetic funk, disco, and soul tracks. The album opens with the optimistic "Keep Moving", a perfect track to represent the whole of the record. I became absolutely obsessed with the song "Romeo", which has this unbelievably catchy hook and great flow on the feature from Bas. The synths and guitar on "No Rules" are another great stand out that just make my bob every time. A really fun record.
+God this album is so fun.
+Jungle has this great ability to create this optimistic and energetic funk, disco, and soul tracks.
+The album opens with the optimistic "Keep Moving", a perfect track to represent the whole of the record.
+I became absolutely obsessed with the song "Romeo", which has this unbelievably catchy hook and great flow on the feature from Bas.
+The synths and guitar on "No Rules" are another great stand out that just make my bob every time.
+A really fun record.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1hykVcbmenjAoG7wwoXmCV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -96,7 +133,12 @@ God this album is so fun. Jungle has this great ability to create this optimisti
 
 ## 18. Little Simz: Sometimes I Might Be Introvert
 
-It's been really cool to watch Little Simz reach the mainstream cause she is just wonderfully talented and clearly ambitious with her music. I really enjoyed her previous work on "GREY Area" which contained a ton of hooky beats and flows. On "Somtimes I Might Be Introvert", she swings for the fences and it pulls it off. The album opens with a statement; the 6 minute track "Introvert", containing big horns as if to introduce royalty. There are tons of really cool interludes that act as conversations to Little Simz. The album closes with the simple "Miss Understood" at track that almost feels like it's to recenter Little Simz after leaving it all on the field.
+It's been really cool to watch Little Simz reach the mainstream cause she is just wonderfully talented and clearly ambitious with her music.
+I really enjoyed her previous work on "GREY Area" which contained a ton of hooky beats and flows.
+On "Somtimes I Might Be Introvert", she swings for the fences and it pulls it off.
+The album opens with a statement; the 6 minute track "Introvert", containing big horns as if to introduce royalty.
+There are tons of really cool interludes that act as conversations to Little Simz.
+The album closes with the simple "Miss Understood" at track that almost feels like it's to recenter Little Simz after leaving it all on the field.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0DBoWQ52XUHtrZQdfAqOVj?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -105,7 +147,13 @@ It's been really cool to watch Little Simz reach the mainstream cause she is jus
 
 ## 17. Snail Mail: Valentine
 
-Lindsay Jordan's project Snail Main broke out onto the indie scene at the young age of 16, largely by her really great hit single "[Thinning](https://open.spotify.com/track/2KRxJ2TgYjlf5WaltolK5C?si=219cece1d0374dce)" before releasing a well received full length debut "[Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP?si=v1HeakaFSfmTA35cmTHzxw)". On "Valentine", she as a bit older now, which really seems to help developed a more mature and larger sound. The self-titled track is reminiscent of her older work, with a anthemic chorus where she belts "why do you want to erase me". "Sailing" is probably my favorite vocal performance not only on the record but her entire catelog. It's hard not to notice how raspy Lindsay's voice, which add a cool texture throughout the record, but at a cost. Lindsay underwent vocal chord surgery in 2022, which you have to think is from her grueling touring schedule at such a young age. Once Lindsay is ready, she's got a damn good album to tour on.
+Lindsay Jordan's project Snail Main broke out onto the indie scene at the young age of 16, largely by her really great hit single "[Thinning](https://open.spotify.com/track/2KRxJ2TgYjlf5WaltolK5C?si=219cece1d0374dce)" before releasing a well received full length debut "[Lush](https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP?si=v1HeakaFSfmTA35cmTHzxw)".
+On "Valentine", she as a bit older now, which really seems to help developed a more mature and larger sound.
+The self-titled track is reminiscent of her older work, with a anthemic chorus where she belts "why do you want to erase me".
+"Sailing" is probably my favorite vocal performance not only on the record but her entire catelog.
+It's hard not to notice how raspy Lindsay's voice, which add a cool texture throughout the record, but at a cost.
+Lindsay underwent vocal chord surgery in 2022, which you have to think is from her grueling touring schedule at such a young age.
+Once Lindsay is ready, she's got a damn good album to tour on.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0zNWhYDalgisc4uweLIGZJ?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -114,7 +162,11 @@ Lindsay Jordan's project Snail Main broke out onto the indie scene at the young 
 
 ## 16. Courtney Barnett: Things Take Time, Take Time
 
-Courtney Barnett has always be an introspective songwriter, so it doesn't surprise me so much that she went for a smaller sound on her latest record to match the tedium of lockdown life. "Rae Street" is Courtney at her best, observing the mundane throughout an incredibly relatable lens, combined with a great chorus. "Before You Gotta Go" has this great little guitar part the matches Courtney's vocals that just fit so well. The standout track is on "Write A List of Things To Look Forward To", with yet another catchy riff, and some of Courtney's best lyrical work in my opinion like "Sit Beside me, watch the world burn. We'll never learn we don't deserve nice things. And we'll scream self-righteously. We did our best, but what does that really mean?". A truly great, subtle effort from the already accomplished songwriter.
+Courtney Barnett has always be an introspective songwriter, so it doesn't surprise me so much that she went for a smaller sound on her latest record to match the tedium of lockdown life.
+"Rae Street" is Courtney at her best, observing the mundane throughout an incredibly relatable lens, combined with a great chorus.
+"Before You Gotta Go" has this great little guitar part the matches Courtney's vocals that just fit so well.
+The standout track is on "Write A List of Things To Look Forward To", with yet another catchy riff, and some of Courtney's best lyrical work in my opinion like "Sit Beside me, watch the world burn. We'll never learn we don't deserve nice things. And we'll scream self-righteously. We did our best, but what does that really mean?".
+A truly great, subtle effort from the already accomplished songwriter.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3InSvUCYvJ5XWg6PegGNCv?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -123,7 +175,14 @@ Courtney Barnett has always be an introspective songwriter, so it doesn't surpri
 
 ## 15. Bo Burnham: INSIDE
 
-A first for me, putting a Netflix special soundtrack onto a best albums list, but oh man does this music deserve this. Bo Burnham already had a great history of comedy songwriting, but he's just on another level here. The opening track "Content" is just a perfect way to start the special, with simple drum kit and great little synth lines. The special starts off reasonably bright, with razor sharp commentary, but devolved pretty quickly as Bo's mental health clearly deteriorates right before your eyes. Frankly, there are times that this special is pretty hard to watch (the scene where he's trying to film a scene and keeps messing the lines up and freaking out makes my stomach turn every time). "That Funny Feeling" is truly a masterpiece that contains raw emotion that artists not trying to be funny could only dream of. But my favorite is the perhaps the silliest, "Bezos I", which contains a synth part that has absolutely no right to go as hard as it does. Bo Burnham has become not only a great comedian, but a truly amazing songwriter.
+A first for me, putting a Netflix special soundtrack onto a best albums list, but oh man does this music deserve this.
+Bo Burnham already had a great history of comedy songwriting, but he's just on another level here.
+The opening track "Content" is just a perfect way to start the special, with simple drum kit and great little synth lines.
+The special starts off reasonably bright, with razor sharp commentary, but devolved pretty quickly as Bo's mental health clearly deteriorates right before your eyes.
+Frankly, there are times that this special is pretty hard to watch (the scene where he's trying to film a scene and keeps messing the lines up and freaking out makes my stomach turn every time).
+"That Funny Feeling" is truly a masterpiece that contains raw emotion that artists not trying to be funny could only dream of.
+But my favorite is the perhaps the silliest, "Bezos I", which contains a synth part that has absolutely no right to go as hard as it does.
+Bo Burnham has become not only a great comedian, but a truly amazing songwriter.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/35qVMfUfBN6q2xzm9rZn5a?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -132,7 +191,16 @@ A first for me, putting a Netflix special soundtrack onto a best albums list, bu
 
 ## 14. Billie Eilish: Happier Than Ever
 
-I was really impressed with Billie's debut record which has gave me a pretty optimistic outlook on the future of pop music that has really only been strengthened. This album shows so much growth from her and her brother. This duo just approaches music with a subtlety I wish more artists possessed. The real standout on the record however, is Billie's just truly remarkable vocal performances. Billie has never really been an artist to belt. But on this album, there is just so much confidence and poise that she approaches on every track, like funky "Lost Cause" where she almost whispers at times. "Billie Boss Nova" contains some really great production and rhythm guitar that give the song a lot of personality. Despite all my love for her subtle approach to this record, she gives the album a perfect emotional climax with the iconic title track. I also really enjoyed how Billie spoke back towards the criticisms she was facing throughout the media for things like the double standard of wearing baggy clothes making her not a woman, but losing the layers making her a slut. This is such an exciting follow up from her debut and I await eagerly for what comes next.
+I was really impressed with Billie's debut record which has gave me a pretty optimistic outlook on the future of pop music that has really only been strengthened.
+This album shows so much growth from her and her brother.
+This duo just approaches music with a subtlety I wish more artists possessed.
+The real standout on the record however, is Billie's just truly remarkable vocal performances.
+Billie has never really been an artist to belt.
+But on this album, there is just so much confidence and poise that she approaches on every track, like funky "Lost Cause" where she almost whispers at times.
+"Billie Boss Nova" contains some really great production and rhythm guitar that give the song a lot of personality.
+Despite all my love for her subtle approach to this record, she gives the album a perfect emotional climax with the iconic title track.
+I also really enjoyed how Billie spoke back towards the criticisms she was facing throughout the media for things like the double standard of wearing baggy clothes making her not a woman, but losing the layers making her a slut.
+This is such an exciting follow up from her debut and I await eagerly for what comes next.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0JGOiO34nwfUdDrD612dOp?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -141,7 +209,19 @@ I was really impressed with Billie's debut record which has gave me a pretty opt
 
 ## 13. Silk Sonic: An Evening With Silk Sonic
 
-The biggest pop super group of 2021 deliver one of the most fun records of the year. I have loved Anderson Paak for quite some time now and always had a admiration for Bruno Mar's talent, and together they don't disappoint. The opening track "Leave the Door Open" suit Bruno perfectly, akin to love ballads of his early career like "Just the Way You Are" (which is a banger and you're wrong if you disagree"). There is just so much fun disco and soul throughout the record, where Anderson and Bruno just play off each other so well. The in studio chemistry is just so clearly obvious. "Smoking Out The Window" is song that gets stuck in my head all the time. I just can't help but sing along to the harmonies on the line "and I was wronnnggg, and she wass gonnnne". Just a really cool music moment. The album also doesn't overstay its welcome, only running at about 36 minutes, as this project could have easily become overbloated. "Blast Off" is great way to close the album, feeling like a great summary for the project as a whole. Oh and how can I forget the Thundercat cameos throughout the record that are just so damn funny. I guess I shouldn't be surprised that two hit machines were able to make an album full of hits. But there something more here; the project of Silk Sonic is distinct from either of their previous work and seems to have brought the best out of both artists.
+The biggest pop super group of 2021 deliver one of the most fun records of the year.
+I have loved Anderson Paak for quite some time now and always had a admiration for Bruno Mar's talent, and together they don't disappoint.
+The opening track "Leave the Door Open" suit Bruno perfectly, akin to love ballads of his early career like "Just the Way You Are" (which is a banger and you're wrong if you disagree").
+There is just so much fun disco and soul throughout the record, where Anderson and Bruno just play off each other so well.
+The in studio chemistry is just so clearly obvious.
+"Smoking Out The Window" is song that gets stuck in my head all the time.
+I just can't help but sing along to the harmonies on the line "and I was wronnnggg, and she wass gonnnne".
+Just a really cool music moment.
+The album also doesn't overstay its welcome, only running at about 36 minutes, as this project could have easily become overbloated.
+"Blast Off" is great way to close the album, feeling like a great summary for the project as a whole.
+Oh and how can I forget the Thundercat cameos throughout the record that are just so damn funny.
+I guess I shouldn't be surprised that two hit machines were able to make an album full of hits.
+But there something more here; the project of Silk Sonic is distinct from either of their previous work and seems to have brought the best out of both artists.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0S0r2RFucaW9kVjBtcBOV1?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -150,7 +230,15 @@ The biggest pop super group of 2021 deliver one of the most fun records of the y
 
 ## 12. Crumb: Ice Melt
 
-This album intrigues me to no end. I frankly struggle to define the exact sound of this group beyond some form of indie psychedelic rock. Doesn't matter too much though, because they managed to create a really great album. Each track is shrouded in mystery, with creative production techniques and ample use of reverb. There many instances that almost feel like a jam, like on the track "BNR", the starts off slow and simple before erupting into a percussion heavy psychedelic bop. "Balloons" is so energetic, with this cascading synth line ringing throughout the track, led by almost detached vocal parts. While the production choices give this album a lot it's personality, the drummer is the major standout performer here, setting the tone and energy for each and every track. This an incredibly fun but difficult album to define. However, this undefinable quality of the record may be its greatest strength.
+This album intrigues me to no end.
+I frankly struggle to define the exact sound of this group beyond some form of indie psychedelic rock.
+Doesn't matter too much though, because they managed to create a really great album.
+Each track is shrouded in mystery, with creative production techniques and ample use of reverb.
+There many instances that almost feel like a jam, like on the track "BNR", the starts off slow and simple before erupting into a percussion heavy psychedelic bop.
+"Balloons" is so energetic, with this cascading synth line ringing throughout the track, led by almost detached vocal parts.
+While the production choices give this album a lot it's personality, the drummer is the major standout performer here, setting the tone and energy for each and every track.
+This an incredibly fun but difficult album to define.
+However, this undefinable quality of the record may be its greatest strength.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4hlZNsmD2CoVWAbr6GnEYb?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -159,7 +247,13 @@ This album intrigues me to no end. I frankly struggle to define the exact sound 
 
 ## 11. Deerhoof: Actually, You Can
 
-Deerhoof have done it again! On their previous record "[Future Teenage Cave Artists](https://open.spotify.com/album/1zbBrDVDfEYBzSwB3h6lyE?si=KUYwL_ikRoiczCdBMbBT4g)", Deerhoof created this raw noise rock album containing tons of disonate guitar work. On "Actually, You Can", they take a considerably more melodic approach, completely driving by incredibly bright guitar lines. I'm honestly blow away by some the scale runs that are done on this album like on the wonderful "Scarcity is Manufactured" (a great song title) or my personal favorite track "Be Unbarred, O Ye Gates of Hell". In addition to the amazing guitar work, I love the tone of the snare drum on many of these tracks, which has the bright pop to it that just adds so much to these track. Really not too much more you can say about this album beyond Deerhoof continues to make interesting and engaging music with stellar guitar parts. Another fantastic addition to their sizable catalog
+Deerhoof have done it again!
+On their previous record "[Future Teenage Cave Artists](https://open.spotify.com/album/1zbBrDVDfEYBzSwB3h6lyE?si=KUYwL_ikRoiczCdBMbBT4g)", Deerhoof created this raw noise rock album containing tons of disonate guitar work.
+On "Actually, You Can", they take a considerably more melodic approach, completely driving by incredibly bright guitar lines.
+I'm honestly blow away by some the scale runs that are done on this album like on the wonderful "Scarcity is Manufactured" (a great song title) or my personal favorite track "Be Unbarred, O Ye Gates of Hell".
+In addition to the amazing guitar work, I love the tone of the snare drum on many of these tracks, which has the bright pop to it that just adds so much to these track.
+Really not too much more you can say about this album beyond Deerhoof continues to make interesting and engaging music with stellar guitar parts.
+Another fantastic addition to their sizable catalog
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3WVpMRRKz9BVU4koPEFpnF?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -168,7 +262,16 @@ Deerhoof have done it again! On their previous record "[Future Teenage Cave Arti
 
 ## 10. Lucy Dacus: Home Video
 
-If Lucy Dacus's "[Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu?si=JgW_RzP3QDqhsA6sUKGnRw)" was about branching out to a bigger sound, "Home Video" was about perfecting her lyrical style. The record starts off strong with its best song "Hot & Heavy" detailing Lucy helping a love interest find themselves only for the outgrow Lucy, with lines like "You let me in your world until you had enough". The track also contains a couple of little slow downs that add a something extra to the song. This album is full of emotional gut punches and sad stories that can bring just about anybody to tears, like on the track "Thumbs", as Lucy accompanies her friend while meeting her estranged father. The line "I love your eyes, and he has them. But you have his", before imaging popping the fathers eyes right out of his head. Chilling stuff really. "Please Stay" is another heartbreaker, with Lucy begging a presumably suicidal loved one to stay around by any means necessary, whether it be quitting their job, going back to school, or even never talking to Lucy again. "Triple Dog Dare" serves a perfect finale for the record, as Lucy imagines running away with someone. Lucy has always a had great ability to write wonderful lyrics, but this her best effort yet, even if at times is a little bit difficult to get through. As someone who has listened to her since her debut record "[No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE?si=KAT7EDUgSYOXyGcS1_9P7A)", its been really amazing to see her develop into the gifted lyricist she is today.
+If Lucy Dacus's "[Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu?si=JgW_RzP3QDqhsA6sUKGnRw)" was about branching out to a bigger sound, "Home Video" was about perfecting her lyrical style.
+The record starts off strong with its best song "Hot & Heavy" detailing Lucy helping a love interest find themselves only for the outgrow Lucy, with lines like "You let me in your world until you had enough".
+The track also contains a couple of little slow downs that add a something extra to the song.
+This album is full of emotional gut punches and sad stories that can bring just about anybody to tears, like on the track "Thumbs", as Lucy accompanies her friend while meeting her estranged father.
+The line "I love your eyes, and he has them. But you have his", before imaging popping the fathers eyes right out of his head.
+Chilling stuff really.
+"Please Stay" is another heartbreaker, with Lucy begging a presumably suicidal loved one to stay around by any means necessary, whether it be quitting their job, going back to school, or even never talking to Lucy again.
+"Triple Dog Dare" serves a perfect finale for the record, as Lucy imagines running away with someone.
+Lucy has always a had great ability to write wonderful lyrics, but this her best effort yet, even if at times is a little bit difficult to get through.
+As someone who has listened to her since her debut record "[No Burden](https://open.spotify.com/album/7lQ9R31OcTvMn2MojAuKVE?si=KAT7EDUgSYOXyGcS1_9P7A)", its been really amazing to see her develop into the gifted lyricist she is today.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2nwfSapJ3YIq7Ofad4Vuh1?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -177,7 +280,17 @@ If Lucy Dacus's "[Historian](https://open.spotify.com/album/0LqhbUfmHsxovfSirhEI
 
 ## 9. Magdalena Bay: Mercurial World
 
-You'd be hard pressed to find an album that contains more bangers than "Mercurial World". To be honest, I was a little bit luke warm on this album when I first heard and really didn't understand why the online music community was losing its mind over it. But I kept coming back to it, and it got better with ever listen. I think what kept me around was "Secrets", which has this unbelievably catchy hook towards the beginning. The album is so much more than just a collection of single though, as song flow perfectly into one another. I really love the transition from "Secrets" in the the video game soundtrack-esque "You Lose". The arrangements throughout the songs are also complex as they are compelling, with intricate basslines, melodic synths and guitars, and the fun vocals from Mica Tenenbaum. The album just hits you over the head with head bopping track after track without a weak one in the bunch. If I had made my list any later in 2021, this album probably would have climbed even higher in the rankings. It's also probably the album I come back to the most from 2021. If your looking for an incredibly fun synth-pop record, look no futher.
+You'd be hard pressed to find an album that contains more bangers than "Mercurial World".
+To be honest, I was a little bit luke warm on this album when I first heard and really didn't understand why the online music community was losing its mind over it.
+But I kept coming back to it, and it got better with ever listen.
+I think what kept me around was "Secrets", which has this unbelievably catchy hook towards the beginning.
+The album is so much more than just a collection of single though, as song flow perfectly into one another.
+I really love the transition from "Secrets" in the the video game soundtrack-esque "You Lose".
+The arrangements throughout the songs are also complex as they are compelling, with intricate basslines, melodic synths and guitars, and the fun vocals from Mica Tenenbaum.
+The album just hits you over the head with head bopping track after track without a weak one in the bunch.
+If I had made my list any later in 2021, this album probably would have climbed even higher in the rankings.
+It's also probably the album I come back to the most from 2021.
+If your looking for an incredibly fun synth-pop record, look no futher.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1ERrUvG31thFCxdwWUoJrY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -186,7 +299,15 @@ You'd be hard pressed to find an album that contains more bangers than "Mercuria
 
 ## 8. Clairo: Sling
 
-As mentioned earlier, I struggled a bit in 2021 to find a lot of acoustic or singer songwriter albums that I connected with, but I managed to find one from a fairly unlikely source in Clairo. Clario broke onto the scene with bedroom pop tracks like "[Pretty Girls](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9?si=Rx_2ZUHZRie86H4hf9WaxQ)" and "[Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM?si=624b55ab410b49e3)" (which have have 300+ and 500+ million streams on Spotify, which was something I did not expect). On "Sling" she creates these really lovely soft rock and folk tracks. I really enjoy the instrumentation on the album, with a standup piano, a super smooth tone on the lead guitar, and occasional cameos from flutes and clarinets. This combination produces an incredibly warm and cozy sound. The album opens with my favorite track "Bambi", serving a perfect introduction with delicate harmonies and clarinets and flutes on full display. "Amoeba" is probably the most energetic the album becomes with a lead guitar part that absolutely love. The album even has an a great instrumental on Joanie, starting off with this cute little piano riff before evolving into a bit of a jam session. While I didn't perhaps get the quantity of acoustic albums I was looking for, this album is certainty quality.
+As mentioned earlier, I struggled a bit in 2021 to find a lot of acoustic or singer songwriter albums that I connected with, but I managed to find one from a fairly unlikely source in Clairo.
+Clario broke onto the scene with bedroom pop tracks like "[Pretty Girls](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9?si=Rx_2ZUHZRie86H4hf9WaxQ)" and "[Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM?si=624b55ab410b49e3)" (which have have 300+ and 500+ million streams on Spotify, which was something I did not expect).
+On "Sling" she creates these really lovely soft rock and folk tracks.
+I really enjoy the instrumentation on the album, with a standup piano, a super smooth tone on the lead guitar, and occasional cameos from flutes and clarinets.
+This combination produces an incredibly warm and cozy sound.
+The album opens with my favorite track "Bambi", serving a perfect introduction with delicate harmonies and clarinets and flutes on full display.
+"Amoeba" is probably the most energetic the album becomes with a lead guitar part that absolutely love.
+The album even has an a great instrumental on Joanie, starting off with this cute little piano riff before evolving into a bit of a jam session.
+While I didn't perhaps get the quantity of acoustic albums I was looking for, this album is certainty quality.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/32ium7Cxb1Xwp2MLzH2459?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -195,7 +316,14 @@ As mentioned earlier, I struggled a bit in 2021 to find a lot of acoustic or sin
 
 ## 7. Lump: Animal
 
-After producing "[Song for Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu?si=LlfRgKbbTY2dTNaDJZl3rA)", (my 4th favorite album of 2020), Laura Marling teams back up with Mike Lindsay to recreate their project "Lump". The pair manages to find this really cool balance between indietronica and indie rock. So many the tracks are littered with this electronic keyboard flourishes, driving beats, and low note guitar parts that create a really unique sound. On top of it all, is Laura's fun and playful vocal performances adding so much personality to the record. "Animal" has this great keyboard part that drives that melody that overlays a busy percussion part. There is so much urgency on the track "We Cannot Resist" that my favorite guitar work on the whole album. I love how they end the album, with Laura speaking out the credits for the album, which is something I've never head before. Laura and Mike have managed to put together one of the most unique albums of 2021 and I'm eager to hear more.
+After producing "[Song for Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu?si=LlfRgKbbTY2dTNaDJZl3rA)", (my 4th favorite album of 2020), Laura Marling teams back up with Mike Lindsay to recreate their project "Lump".
+The pair manages to find this really cool balance between indietronica and indie rock.
+So many the tracks are littered with this electronic keyboard flourishes, driving beats, and low note guitar parts that create a really unique sound.
+On top of it all, is Laura's fun and playful vocal performances adding so much personality to the record.
+"Animal" has this great keyboard part that drives that melody that overlays a busy percussion part.
+There is so much urgency on the track "We Cannot Resist" that my favorite guitar work on the whole album.
+I love how they end the album, with Laura speaking out the credits for the album, which is something I've never head before.
+Laura and Mike have managed to put together one of the most unique albums of 2021 and I'm eager to hear more.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1UiSJKr1F1Y3ZwbCw67JV2?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -204,7 +332,16 @@ After producing "[Song for Our Daughter](https://open.spotify.com/album/0ubXthGS
 
 ## 6. St. Vincent: Daddy's Home
 
-St. Vincent is a goddess at this point in the alternative scene, always finding an amazing balance between experimentation and accessibility. On "Daddy's Home" she pays homage to 70s music and is related to her father coming home from prison (though no mention of it on the album). I love the soul and funk influences that are ever-present throughout the record. One thing that I have missed on some of St Vincent's more recent work is guitar playing, as she probably one of the most talented guitarist in popular music. On "Daddy's Home", her playing plays a considerably more prominent role. "Down" is the fun little pop single with a great chorus and an absolute gem of a guitar solo on the bridge. The title track has this great little wavy sound on the guitar solo. There is also this great call and response with her backup vocalists that contribute a lot of playfulness to the tracks. I can't be surprised at this point that St. Vincent has put out yet another terrific album. However, it probably one of my favorites in her whole catalog.
+St. Vincent is a goddess at this point in the alternative scene, always finding an amazing balance between experimentation and accessibility.
+On "Daddy's Home" she pays homage to 70s music and is related to her father coming home from prison (though no mention of it on the album).
+I love the soul and funk influences that are ever-present throughout the record.
+One thing that I have missed on some of St Vincent's more recent work is guitar playing, as she probably one of the most talented guitarist in popular music.
+On "Daddy's Home", her playing plays a considerably more prominent role.
+"Down" is the fun little pop single with a great chorus and an absolute gem of a guitar solo on the bridge.
+The title track has this great little wavy sound on the guitar solo.
+There is also this great call and response with her backup vocalists that contribute a lot of playfulness to the tracks.
+I can't be surprised at this point that St. Vincent has put out yet another terrific album.
+However, it probably one of my favorites in her whole catalog.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/654KFpNOZ26Hj9luu7aKeM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -213,8 +350,15 @@ St. Vincent is a goddess at this point in the alternative scene, always finding 
 
 ## 5. Illuminati Hotties: Let Me Do One More
 
-[I guess this was the one we were waiting for](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw?si=aQyI8URlSb-27BDvrR5NEA). Illuminati Hotties is another artist who released an album 2 years in a row that made the top 10 list, after the whirlwind of her [previous record](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw?si=6zbP1hhlSHuf4xy5oZywjg) and its another indie rock gem. It does seem to be that Sarah Tudzin under happier circumstances as this album is much brighter than her last years effort, filled to the brim 90s and 2000s rock influences. For example, she opens with the sugar sweet "Pool Hopping", an energetic power pop anthem with fun lyrics that is a must for any summer playlists. Or on\
-"Knead" a garage rock banger that feels like you would hear in a soundtrack to a movie about college in the 2000s. Sarah's vocal delivery on many of the songs help to keep this loose as well, with her almost sounding bratty at times, which just works perfectly for the tracklist. However, she still shows signs of her more experimental/noise rock side with my favorite track (and I hope I spelled this correctly) "MMMOOOAAAAAYAYA", finding a perfect mix between crazy chords progressions and face melting power chords (especially towards the back of the record). In a year of really strong indie rock, this album stands out and a great reminder that there is still tons to love in the genre.
+[I guess this was the one we were waiting for](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw?si=aQyI8URlSb-27BDvrR5NEA).
+Illuminati Hotties is another artist who released an album 2 years in a row that made the top 10 list, after the whirlwind of her [previous record](https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw?si=6zbP1hhlSHuf4xy5oZywjg) and its another indie rock gem.
+It does seem to be that Sarah Tudzin under happier circumstances as this album is much brighter than her last years effort, filled to the brim 90s and 2000s rock influences.
+For example, she opens with the sugar sweet "Pool Hopping", an energetic power pop anthem with fun lyrics that is a must for any summer playlists.
+Or on\
+"Knead" a garage rock banger that feels like you would hear in a soundtrack to a movie about college in the 2000s.
+Sarah's vocal delivery on many of the songs help to keep this loose as well, with her almost sounding bratty at times, which just works perfectly for the tracklist.
+However, she still shows signs of her more experimental/noise rock side with my favorite track (and I hope I spelled this correctly) "MMMOOOAAAAAYAYA", finding a perfect mix between crazy chords progressions and face melting power chords (especially towards the back of the record).
+In a year of really strong indie rock, this album stands out and a great reminder that there is still tons to love in the genre.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5MH2ICGjLf6Lm9G72Rfx2f?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -223,7 +367,14 @@ St. Vincent is a goddess at this point in the alternative scene, always finding 
 
 ## 4. Yola: Stand For Myself
 
-Hands down the best soul record to come out of 2021 and bucked the trend of indie rock for me. This is just a wonderful collection of damn good soul songs, topped off with the just undeniable talent of Yola. The opening track "Barely Alive" is my also my favorite, showing off Yola's great ability to belt and the catchy refrain "And we try to get by, and we strive, but we're barely alive". It transitions into this almost disco like track on "Dancing Away In Tears" that makes you want to do the same. "If I Had To Do It All Again" is another highlight, starting off small, slowly building tension before she is joined by strings, backup vocals, and a great lead guitar, which is just such a cool moment. "Now You're Here" is this sweet love song that is just pure positive vibes that makes me sway every time. There isn't a particularly large variety in the sound for the whole record, but the pacing of the songs and the just incredibly strong songwriting and backing band more than makes up for it. If you're looking for an album to put you a great mood, look no further.
+Hands down the best soul record to come out of 2021 and bucked the trend of indie rock for me.
+This is just a wonderful collection of damn good soul songs, topped off with the just undeniable talent of Yola.
+The opening track "Barely Alive" is my also my favorite, showing off Yola's great ability to belt and the catchy refrain "And we try to get by, and we strive, but we're barely alive".
+It transitions into this almost disco like track on "Dancing Away In Tears" that makes you want to do the same.
+"If I Had To Do It All Again" is another highlight, starting off small, slowly building tension before she is joined by strings, backup vocals, and a great lead guitar, which is just such a cool moment.
+"Now You're Here" is this sweet love song that is just pure positive vibes that makes me sway every time.
+There isn't a particularly large variety in the sound for the whole record, but the pacing of the songs and the just incredibly strong songwriting and backing band more than makes up for it.
+If you're looking for an album to put you a great mood, look no further.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1aF9Xjtg1d1wwsE4hRAkQV?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -232,7 +383,18 @@ Hands down the best soul record to come out of 2021 and bucked the trend of indi
 
 ## 3. Squid: Bright Green Fields
 
-The second and my personal favorite of the British punk bands, Squid, is a doozy. There is so much ambition throughout the entire project and it pretty much always comes off for them. A critical component of this band (and most post-punk bands really) is the iconic vocals from Ollie Judge, which at times feel untethered. The album opens strong, with my song of the year "GSK". It baffles how much ground they are able to cover in just over 3 minutes, starting off reserved before transitioning into noise rock, and then quickly into a little jazz section driven by some tremendous trumpet. "Narrator" is an absolute ride, starting off with a lively and is somewhat reminiscent to the Talking Heads, before descending into chaos, complete with narration (maybe intentional?). "2010" is another example of this band transition back and forth between almost jazz like song structures and then noise rock. This process keeps you on the edge of your seat, as the album could go off at any point. "Global Groove" is such a cool song to me, with out in front percussion and rising horn section supporting the almost scary vocal section. The album closes strongly with "Pamphlets", serving a perfect summary of the entire album. In a year I was looking for more experimental work, this album was an absolute breath of fresh air. An essential album for any post-punk fans out there.
+The second and my personal favorite of the British punk bands, Squid, is a doozy.
+There is so much ambition throughout the entire project and it pretty much always comes off for them.
+A critical component of this band (and most post-punk bands really) is the iconic vocals from Ollie Judge, which at times feel untethered.
+The album opens strong, with my song of the year "GSK".
+It baffles how much ground they are able to cover in just over 3 minutes, starting off reserved before transitioning into noise rock, and then quickly into a little jazz section driven by some tremendous trumpet.
+"Narrator" is an absolute ride, starting off with a lively and is somewhat reminiscent to the Talking Heads, before descending into chaos, complete with narration (maybe intentional?).
+"2010" is another example of this band transition back and forth between almost jazz like song structures and then noise rock.
+This process keeps you on the edge of your seat, as the album could go off at any point.
+"Global Groove" is such a cool song to me, with out in front percussion and rising horn section supporting the almost scary vocal section.
+The album closes strongly with "Pamphlets", serving a perfect summary of the entire album.
+In a year I was looking for more experimental work, this album was an absolute breath of fresh air.
+An essential album for any post-punk fans out there.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4z44Wir05QzQYSCs0KwsKX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -241,7 +403,19 @@ The second and my personal favorite of the British punk bands, Squid, is a doozy
 
 ## 2. Jubilee: Japanese Breakfast
 
-[Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua?si=G416F5KlQQu4nSteeLVo4Q) is an album that I slept on when I was making my 2017 list. Michelle Zauner had managed to make a unique indie pop record with top-notch production (see tracks like "Road Head" or "Boyish"). She then went on to put out the amazing single [Essentially](https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s?si=eGala8YSRGSJtoEWr7CX-Q). At this point, I was pretty pumped for this album to come out, and she did not disappoint. She took all of the best parts of her previous work and built on them to make the fantastic "Jubilee". "Paprika" serves as a perfect opening track, with the best vocal performance from Michelle (which is saying something as this is a record filled with great vocal performances). The album then transitions into the catchiest pop song you'll ever hear, "Be Sweet", with jangling guitars, a groovy bass, and the best chorus you can ever have. It's not a coincidence that this track was my most played song of 2021 according to apple music. To finish off an incredibly album opening, the sweet "Kokomo, IN", an acoustic ballad with a silky smooth lead guitar (and covered by [Jeff Tweedy](https://www.youtube.com/watch?v=0R5eWDgBOlI), which is crazy for Michelle as she may be the only bigger Wilco fan in the world than me). There are just so many amazing pop tracks littered throughout this album, it's difficult to write about it concisely (including "Savage Good Boy", "Slide Tackle", "Posing in"Bondage"). She even closes the record strongly on "Posing For Cars", ending with a kick ass guitar solo. It's a such a great feeling to look forward to a new album from an an up and coming artists only for them to fully deliver. I cannot wait for the next thing Michelle releases.
+[Soft Sounds from Another Planet](https://open.spotify.com/album/6PnTp1NIlueJGURW4zSYua?si=G416F5KlQQu4nSteeLVo4Q) is an album that I slept on when I was making my 2017 list.
+Michelle Zauner had managed to make a unique indie pop record with top-notch production (see tracks like "Road Head" or "Boyish").
+She then went on to put out the amazing single [Essentially](https://open.spotify.com/album/77DrlB8DpvYIo2pSyw5z5s?si=eGala8YSRGSJtoEWr7CX-Q).
+At this point, I was pretty pumped for this album to come out, and she did not disappoint.
+She took all of the best parts of her previous work and built on them to make the fantastic "Jubilee".
+"Paprika" serves as a perfect opening track, with the best vocal performance from Michelle (which is saying something as this is a record filled with great vocal performances).
+The album then transitions into the catchiest pop song you'll ever hear, "Be Sweet", with jangling guitars, a groovy bass, and the best chorus you can ever have.
+It's not a coincidence that this track was my most played song of 2021 according to apple music.
+To finish off an incredibly album opening, the sweet "Kokomo, IN", an acoustic ballad with a silky smooth lead guitar (and covered by [Jeff Tweedy](https://www.youtube.com/watch?v=0R5eWDgBOlI), which is crazy for Michelle as she may be the only bigger Wilco fan in the world than me).
+There are just so many amazing pop tracks littered throughout this album, it's difficult to write about it concisely (including "Savage Good Boy", "Slide Tackle", "Posing in"Bondage").
+She even closes the record strongly on "Posing For Cars", ending with a kick ass guitar solo.
+It's a such a great feeling to look forward to a new album from an an up and coming artists only for them to fully deliver.
+I cannot wait for the next thing Michelle releases.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1uD1kdwTWH1DZQZqGKz6rY?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -250,7 +424,22 @@ The second and my personal favorite of the British punk bands, Squid, is a doozy
 
 ## 1. Wolf Alice: Blue Weekend
 
-If there is one word I would use to describe 2021's album of the year, it's consistent. This album, front to back is just consistently great. Coming off the great success of "Visions of Life", Wolf Alice returns with "Blue Weekend", doubling down on the almost stadium-rock influences that made Visions of Life so freaking good. Perhaps the most noticeable thing is the incredible vocals from the lead singer Ellie Rowsell. She just absolutely goes for it in so many different tracks. "Delicious Things" starts things off with a vibe that is prevalent throughout the record, with much of the patented whispered verses before erupting into the heavy guitars and harmony layered chorus that make Wolf Alice so amazing. Another such song, "Lipstick on the Glass" has this great almost marching band beat to the snare drum that I think fits so well with the track. "Smile" showcases the louder, alternative rock side of the group, filled with fuzzy guitars and big vocals. A cool departure from their typical sound is the harmony ladened acoustic ballad "Safe From Heartbreak (if you never fall in love)", which the line "you fucked with my feelings" is such amazing moment not just on the song, but for the whole record. "Play the Greatest Hits" serves as a fun noise track that breaks things up little to help with the pacing of the album. "Last Man on Earth" is the fantastic piano ballad that builds that I can only imagine must be amazing a live show. Writing about this album has me feeling the same way as when I chose it as my top album for 2021; there are just so many damn good songs on this record. Its not a large departure from the typical sound we've come to know from Wolf Alice, but they have absolutely perfected their art. In this writeup, I wrote about half the tracks on the album, which just shows how many of them I truly love. In many ways, it serves as the perfect album for my 2021 list, while maybe not the most experimental or most ambitious, but above all just sounding so good. And honestly, I'm not sure music is supposed to do anything else.
+If there is one word I would use to describe 2021's album of the year, it's consistent.
+This album, front to back is just consistently great.
+Coming off the great success of "Visions of Life", Wolf Alice returns with "Blue Weekend", doubling down on the almost stadium-rock influences that made Visions of Life so freaking good.
+Perhaps the most noticeable thing is the incredible vocals from the lead singer Ellie Rowsell.
+She just absolutely goes for it in so many different tracks.
+"Delicious Things" starts things off with a vibe that is prevalent throughout the record, with much of the patented whispered verses before erupting into the heavy guitars and harmony layered chorus that make Wolf Alice so amazing.
+Another such song, "Lipstick on the Glass" has this great almost marching band beat to the snare drum that I think fits so well with the track.
+"Smile" showcases the louder, alternative rock side of the group, filled with fuzzy guitars and big vocals.
+A cool departure from their typical sound is the harmony ladened acoustic ballad "Safe From Heartbreak (if you never fall in love)", which the line "you fucked with my feelings" is such amazing moment not just on the song, but for the whole record.
+"Play the Greatest Hits" serves as a fun noise track that breaks things up little to help with the pacing of the album.
+"Last Man on Earth" is the fantastic piano ballad that builds that I can only imagine must be amazing a live show.
+Writing about this album has me feeling the same way as when I chose it as my top album for 2021; there are just so many damn good songs on this record.
+Its not a large departure from the typical sound we've come to know from Wolf Alice, but they have absolutely perfected their art.
+In this writeup, I wrote about half the tracks on the album, which just shows how many of them I truly love.
+In many ways, it serves as the perfect album for my 2021 list, while maybe not the most experimental or most ambitious, but above all just sounding so good.
+And honestly, I'm not sure music is supposed to do anything else.
 
 ```{=html}
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1VCTWaze9kuY5IDlbtR5p0?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
