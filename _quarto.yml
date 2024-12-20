@@ -17,6 +17,8 @@ website:
         text: Top Songs Playlists
       - text: Top Albums Lists
         menu: 
+          - href: ./lists/2024_List.qmd
+            text: "2024"
           - href: ./lists/2023_List.qmd
             text: "2023"
           - href: ./lists/2022_List.qmd
