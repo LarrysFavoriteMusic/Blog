@@ -4,14 +4,36 @@ page-layout: full
 title-block-banner: true
 ---
 
-Each year, in addition to my top albums, I make a top songs playlist as well (just in case people don't want to listen to \~25 albums....).
-These playlists allow me to share songs that I love that aren't necessarily in any of the top albums or only are released as singles.
+Each year, in addition to my top albums, I make a top songs playlist as well (just in case people don't want to listen to \~25 albums....). These playlists allow me to share songs that I love that aren't necessarily in any of the top albums or only are released as singles.
 
-Typically the playlists consist of 100 songs, ranked from 1-100.
-In 2018, because I chose 40 albums rather than 10 or 25, I decided against a making top songs playlist.
-Additionally, for 2016, I did not make a top songs playlist as it was my first ever list.
-However, for both 2016 and 2018, I made 25 song playlist to showcase some of my favorite songs from those years.
-Lastly, I also made a playlist for my favorite song of the 2010s.
+Typically the playlists consist of 100 songs, ranked from 1-100. In 2018, because I chose 40 albums rather than 10 or 25, I decided against a making top songs playlist. Additionally, for 2016, I did not make a top songs playlist as it was my first ever list. However, for both 2016 and 2018, I made 25 song playlist to showcase some of my favorite songs from those years. Lastly, I also made a playlist for my favorite song of the 2010s.
+
+# 2024
+
+1.  [Kingdom Come - Cindy Lee](https://youtu.be/_LJi5na897Y?si=3xtPSZqcTsPx-2jZ&t=2165)\*\*
+
+2.  My Golden Years - The Lemon Twigs
+
+3.  Toro - Remi Wolf
+
+4.  Death & Romance - Magdalena Bay
+
+5.  Right Back to It - Waxahatchee & MJ Lenderman
+
+6.  obsessed - Olivia Rodrigo
+
+7.  Gemini - Angélica Garcia
+
+8.  Empire Never Knows - Jessica Pratt
+
+9.  The Calm That Keeps You Awake - Knocked Loose
+
+10. Rattlesnake - Rubblebucket
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1qIl4nAq5LD2Fi8U9losOs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+\*\*Kingdom Come can only be found on bandcamp or youtube.
 
 # 2023
 

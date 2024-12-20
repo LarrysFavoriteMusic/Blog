@@ -1,0 +1,289 @@
+---
+title: "Top 25 Albums of 2024"
+format:
+  html:
+    code-fold: true
+    toc: true
+title-block-banner: true
+---
+
+Cards on the table: the year of 2024 was probably the year I listened to the least amount of music in a long time. In fact, I was debating if I was even going to bother making the list this year. In my defense, a LOT happened, which led to a lot of distractions. In April, I permanently moved into an apartment in Brooklyn with my partner, Karen, after doing the long-distance thing for more than 2 years. I then spent the summer writing my PhD dissertation at the University of Albany and successfully defended it in August; officially making me Dr. Larry. Not long after I accepted a postdoctoral research scientist position at the NASA's Goddard Institute of Space Studies with Columbia University's Center for Climate Systems Research to become a climate modeler. Honestly, 2024 was shaping up to be pretty amazing. Then the election happened. I won't go into much detail on it as I doubt people care much of what I think. All I say is that I pretty worried for the next four years; things are likely to really suck for a while, especially for immigrants, trans people, Ukrainians, and Palestinians.
+
+Coming back to the music, I decided it was important to make the list, as it is something I truly enjoy doing. I want to recapture my love of music in 2025, and hopefully add more to the site (he says to himself every year...). Despite not listening to as much music as I would have liked, there was still a ton of stuff I absolutely loved! My biggest regret is that there is a ton of stuff I just didn't get around to. It was a big year for the pop girlies (ie Chappel Roan, Sabrina Carpenter, Billie Eilish, Olivia Rodrigo, and before you ask, no Chappel Roan isn't on the list, as most of her hits are from 2023), further entrenching my opinion that pop music is in a really great place musically right now. Veteran groups and artists showed they still have a lot to contribute like Vampire Weekend, St Vincent, and Godspeed You! Black Emperor.
+
+But above all, despite my dropoff in listening, I'm quite impressed with the list I put together. The ranking this year in particular was quite challenging as there were late releases this year, and albums that clicked after extra listens. As a compromise to myself, I'm keeping my top songs list to just 50 songs this year, as I feel like after song 50, the list would be mostly filler. I hope you can forgive me for the dropoff this. Here's hoping to a renewed spirit into 2025.
+
+A fun side note, Karen and I saw "Wicked" in theaters and absolutely loved it. So much so, we thought it would be fun to include our favorite songs from the movie. In the true spirit of the list, here our 3 favorites songs from Wicked! Looking forward to part 2!
+
+## Chris's Favorites Wicked Song
+
+1.  The Wizard and I
+2.  Defying Gravity
+3.  Popular
+
+## Karen's Favorite Wicked Songs
+
+1.  Defying Gravity
+2.  What is this Feeling?
+3.  Dancing Through Life
+
+## My Favorite Songs of 2024
+
+1.  [Kingdom Come - Cindy Lee](https://youtu.be/_LJi5na897Y?si=3xtPSZqcTsPx-2jZ&t=2165)\*\*
+
+2.  My Golden Years - The Lemon Twigs
+
+3.  Toro - Remi Wolf
+
+4.  Death & Romance - Magdalena Bay
+
+5.  Right Back to It - Waxahatchee & MJ Lenderman
+
+6.  obsessed - Olivia Rodrigo
+
+7.  Gemini - Angélica Garcia
+
+8.  Empire Never Knows - Jessica Pratt
+
+9.  The Calm That Keeps You Awake - Knocked Loose
+
+10. Rattlesnake - Rubblebucket
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1qIl4nAq5LD2Fi8U9losOs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+\*\*Kingdom Come can only be found on bandcamp or youtube.
+
+## No Rank. Godspeed You! Black Emperor - "NO TITLE AS OF 13 FEBRURARY 2024, 28,340 DEAD
+
+It did not feel right to include this album in a ranking system due to the records subject matter. The newest record from Godspeed You! Black Emperor is a hauntingly beautiful collection of instrumental post-rock tracks that I think capture the title of each song perfectly. It is a challenging but breath taking listen. "GREY RUBBLE, GREEN SHOOTS" is my favorite from the album, not only for its sounds, but its message; that even in all this horrific destruction, hope can still remain.
+
+At time of writing, 45,788 Palestinians have died in Gaza since October 7th, 2023. Please donate below to help provided humanitarian relief to the people in Gaza.
+
+<https://donate.unrwa.org/gaza/~my-donation?_cv=1>
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1qG30zCAZ30hsmA5wAlaQ3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe
+```
+## 24. Jack White - no name
+
+Sneaking into the list is year is the latest Jack White project. In all honesty, I have never been the biggest Jack White fan. But on this record, the raw garage rock sound he goes for on "no name" just freaking rips ([the exact thing he told fans to do with vinyls that he gifted them](https://consequence.net/2024/07/jack-white-encourages-fans-to-rip-his-new-album/)). There is no denying his incredible ability to shred, and it is on full display here. There are so many amazing scratchy and raw riffs throughout "That's How I'm Feeling". I like the sentiment "It's Rough On Rates (If You're Asking)"; like if this are this bad for us, how bad is it for the rats? If you are need of loud garage rock record, look no further than here.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4j6OkbZmVIqJYDLJbiWHbX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** It's Rough On Rats (If You're Asking), That's How I'm Feeling
+
+## 23. Angélica Garcia - Gemelo
+
+Angélica Garcia is a new artist discovery for me in 2024, with a fun and unique set of electronic tracks. This album represents the first album this artist wrote almost completely in Spanish. I love the rising vocal melody on the chorus "Color De Dolor". I have been bumping "Gemini" all year, with its amazing refrain of "I see double everywhere I go", that just sounds so cool to me. Highly recommend this album for any electronic fans out there.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/16hyi0FtwSiv2Kojazr71m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Gemini, Color De Dolor
+
+## 22. Waxahatchee - Tigers Blood
+
+Waxahatchee is back with probably my favorite collection songs from Katie Crutchfield; spanning from country and folk. The album is full of country rock tracks like "Ice Cold" that serve a perfect background at any cookout."Right Back to It" is such a fun and relaxing song that I feel like it declutters my brain, with it's swaying tempo and perfectly loose harmonies with MJ Lenderman. A great album to reach for an a relaxed day outdoors.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5O9TGAJ6Opoya7KCBKKQUA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Right Back to It, Ice Cold
+
+## 21. Iron and Wine - Light Verse
+
+I'm not sure there is another person that produces music that relaxes the soul more than Sam Beam of Iron and Wine. Here he continues his excellent catalog of indie-folk and singer-songwriter tracks that are perfect company for a rainy or lazy kind of day. There really isn't a dud in the bunch, but my favorites include the slow-burn arrangements on "You Never Know" or the amazingly gentle "Taken By Surprise".
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0dZ4tHT2Ka2kScPqLK9x1Q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** You Never Know, Taken By Surprise
+
+## 20. SPIRIT OF THE BEEHIVE - YOU'LL HAVE TO LOSE SOMETHING
+
+What a strange album this is! SPIRIT OF THE BEEHIVE are back with their most eclectic and chaotic album yet. At times, 1 song feels like 10 songs, making it sometimes challenging to even know what track you currently are on. But beyond the chaos and dissonance, there are number of quite lovely moments that reward the listener for sticking around (which is a feature of music I tend to really enjoy). "STRANGER ALIVE" is a fantastic example of this, starting with faded drums and what sound like synths, before swinging into an off-center psychedelic rock song, before moving into sweet indie rock track. This is an album that may be hard to approach at first, but it will reward you greatly for sticking with it.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0aZGq0nA2n4275MFylaTGM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Stranger Alive, 1/500
+
+## 19. Lupe Fiasco - Samurai
+
+Hip hop was a genre that I just didn't spend enough time on this year, especially as some heavy weights dropped new records, including Kendrick Lamar and Tyler the Creator. However, Lupe Fiasco's "Samurai" caught my attention. This album is loosely based on the idea of Amy Winehouse becoming a rap samurai (based on a quote from a [2015 documentary](https://www.imdb.com/title/tt2870648/)). It's such a neat and fresh idea, especially from a rapper with as many credentials as Lupe Fiasco. The title track has this instantly infectious jazz beats and great flow. I love the silly jazz trumpet impressions on "No. 1 Headband", coupled with a really sick drumbeat. This album is a super fun record, and coming in at the super approachable runtime of around 30 minutes, there is no excuse no to give this a spin.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1O6d4cNuUV78GeXv7hgr4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Samurai, No. 1 Headband
+
+## 18. Nilüfer Yanya - My Method Actor
+
+Nilüfer Yanya continues to make the amazingly interesting indie-rock/electronic music that sounds like nothing else out there. I just adore the strumming of the acoustic guitars on "Like I Say (I runaway)" before they explore into fuzzy electric guitars on the chorus. "Just A Western" is a great acoustic track with some great atmospheric production in the background to make things just a little spooky. Another fantastically unique record from Yanya.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4BBVZgRsWeNVgGmub6LY3p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Like I Say (I runaway), Just A Western
+
+## 17. Porter Robinson - SMILE! :D
+
+My favorite electronic record of the year goes to the super sweet "SMILE! :D" by Porter Robinson. I was honestly surprised at how much I enjoyed this album, as sonically, its a bit too sugar sweet. But there is sincerity in the execution that just make things work for me. I love how digital "Knock Yourself Out XD" sounds, like a anthropomorphic computer wrote the track (in fun way, not crappy AI slop). "Cheerleader" is a fantastic dance track that feels an electric version of the "[Great Escape](https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm?si=e215ad7b39c04f2d)", which gives this silly nostalgia vibe to it that I really love. This album is full of brightness and optimism, even in it's sadder and more vulnerable moments. Looking forward to hearing more from Porter!
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2iS4pBIiQf4sCTJLZ5n8dy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Cheerleader, Knock Yourself Out XD
+
+## 16. The Lemon Twigs - A Dream Is All We Know
+
+The Lemon Twigs are honestly a band that I had been sleeping on a bit. Not long after I had finished my 2023 list, I noticed that their 2023 release ["Everything Harmony"](https://open.spotify.com/album/5X0MAnUVN7eEZyO1LjprIk?si=_kQW7Yh4SwWkzJ5GMxF1Ow) was [Anthony Fantano's 10th favorite album of the year](https://youtu.be/PlloTwEBBE8?si=3DPUskVM3KtSXqq5&t=692), which surprised me so much I had to go listen and I became immediately frustrated that this album was in my blindspot. When they released their newest project "A Dream Is All We Know", I made sure to not make the same mistake, and to great benefit. The album (much like their last release) is filled with 70s soft-rock nostalgia that I feel anyone a fan of that era of music would greatly enjoy. The due fronted of brother's Brian and Michael D'Addario thread the needle of capturing the essence of their clear influences (think the Beatles, The Beach Boys) while not being a complete ripoff. This largely comes down to how excellent the arrangements, making the music feel more like an appreciation rather than a copycat. My 2nd favorite song of the year "My Golden Years" feels perfectly engineered for a road trip, with it's driving drum beat and delightfully intricate harmonies. "How Can I Love Her More" is a track that Brian Wilson himself would be proud, containing such an infectious chorus. Give this album a spin, if nothing else but improve your mood.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3ZEIxul2SC2AslVuGZGO68?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** My Golden Years, How Can I Love Her More?
+
+## 15. St. Vincent - All Born Screaming
+
+St. Vincent continues to show why she is such a big figure in the alternative-pop scene. Her work always feels so cinematic; look no further than the crazy album cover! I love the slight headfake the opening track, "Hell is Near", does to you, starting with (what sounds like) timpanies and her vocals starting low, as if to build toward something epic, before it transitions into this slow, groovy rock track. Easily my favorite song on the record. "Broken Man" has these awesome heavy guitar lines that just hit so hard on the song. I maintain that Annie Clark is at her best when she is shredding. Another fantastic record to add to her already insane catalog.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3nRlJXz5W39luXRto5hc4f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Hell is Near, Broken Man
+
+## 14. Chelsea Wolfe - She Reaches Out to She Reaches Out To She
+
+If you're looking for a moody, dark album, look no further then Chelsea Wolfe's excellent "She Reaches Out to She Reaches Out To She" (crazy album title by the way). This work is filled with synths, drum beats, and guitars that provide this aura and sense of foreboding that could soundtrack the creepiest horror film imaginable. "House of Self-Undoing" has this great driving drum line and fuzzy guitars that create this sense of tension that I just think is so cool. The closing track "Dusk" is a perfect closer, starting with this almost child-like melody to start, before closing with an enormous wall of guitars to bring things home. I've been aware of Chelsea Wolfe for a long time, but have never given her a real listen before. This album has me wanting to go back through her catalog, because if it sounds anything like this record, I'm already a fan.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4uJMF1xAEk9IgPA5UbwNA6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Dusk, House of Self-Undoing
+
+## 13. Remi Wolf - Big Ideas
+
+Remi Wolf begins a string of indie-pop groups on this list releasing a ton of incredibly fun and danceable tracks. On "Big Ideas", Wolf comes in hot with the incredibly funky track "Cinderella", with its jangly guitars, bright horn section, and the utterly infectious refrain "me and the boys in the hotel lobby". This album is just jammed backed indie-pop bangers that will just get stuck in your head. "Toro" remains one of my absolute favorite songs this year (and decade while were at it), with some pretty intricate instrumentation throughout the song. But the key moment is just how much Wolf kills the vocal line on the second verse, walking up her range until she's at fully belting, with the instrumentation catching up to match her. God what a cool moment. "Alone in Miami" is another awesome vocal performance from Wolf, with almost bratty sound that suits the song perfectly. Remi Wolf is a star in the making and hope after "Big Ideas" she gets the attention she deserves.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7HQOEMCDGKY8eJyQPdsnYH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Toro, Cinderella
+
+## 12. Clairo - Charm
+
+Caliro is back with another fantastic vibey record! I really enjoyed her previous work ([Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459?si=EVWPMBZMSGmK4a6Qn16h1w) was my 8th favorite record in 2021), which felt like a bedroom pop album recorded in a log cabin. On "Charm", she expands her to a slightly larger, almost jazz-lounge sound, filled with flutes, piano and a busier percussion. "Sexy to Someone" was a quick favorite for me, with the trilling clarinets and flutes on the verses and ringing guitar on the chorus. I particularly like how the phrase "oh I need a reason to get of the house" flows on the chorus. "Juna" is another clear standout, that is as sleepy as it is funky, with that amazing crescendo on the synth line found throughout the song. While the high points on "Sling" are bit higher for me, there is a fantastic consistency to this project, making it her most focused work to date. I'm super eager to hear how her work evolves from here!
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1KNUCVXgIxKUGiuEB8eG0i?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Sexy to Someone, Juna
+
+## 11. Rubblebucket - Year of The Banana
+
+Every since I heard the blasting of a baritone saxophone (my instrument in high school band) on ["IF U C My Enemies](https://open.spotify.com/track/0r1KWPxT8hihSCzFwHYXmo?si=376197d056184b49)", I knew I was going to love this band. And they absolutely do not disappoint on"Year of The Banana", their most fun and consistent work yet. The album is full of indie-pop gems, but contains depth lyrically, as the album is based around the end of the relationship between Kalmia Traver and Alex Toth. "Stella The Begonia" opens the album amazingly, with the saxophone front and center and a great bridge in the middle of the song. However, "Rattlesnake" is the real show stopper on the album. It starts out as what seems to be a fairly straightforward funk song, before evolving into life on the lines "you're so far away" and transitioning into a truly awesome synth solo. It's such an amazingly bright arrangement. There are so many great horn sections throughout the record, like on "Morning Glory Blanket" and "Boomerang" that add so much to each song without overdoing it. This is my favorite work by these two to date, and I honestly was a bit bummed I couldn't squeeze them into the top 10 this year.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6fS1NzHCFFXUswH4eTaBgo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Rattlesnack, Stella The Begonia
+
+## 10. Adrianne Lenker - Bright Future
+
+What more can be said about Adrianne Lenker. At this point, between their solo material and work with Big Thief, Lenker is one of this generations most talented songwriters. Over the past few days writing this review, I've had a hard time putting into words exactly how this album makes me feel. I then found this really great [New York Times interview](https://www.nytimes.com/2024/03/11/arts/music/adrianne-lenker-bright-future.html) they gave this past year and a line struck me; "if you can really allow yourself to feel it, your sadness doesn't have to be so scary. You wouldn't feel it if you didn't have this immense care". This album brings a sense of melancholy to me that I think I've had a hard time processing in the past and I think that's why its been impactful. Ultimately, feelings are good thing as it means you living. This is one of those albums that get better with each listen as you unpack it more and more. "Sadness As A Gift" is immensely beautiful, as it balances the sadness involved at the end of relationship with a lovely sense of optimism over a really nice violin part. "No Machine" is another classic Lenker acoustic track, with simple but touching refrain "I don't know what I would do without you". The closing track is very reminiscent to the excellent Big Thief song, [Mary](https://open.spotify.com/track/67bAFRTpTgZU00FUUEhvKE?si=ada71a44a7d94d80), as Lenker devastatingly describes her the complex feelings behind an likely ended relationship. This is another special record from Lenker, and I think my favorite from their solo work. Lenker is probably my favorite songwriter working today, and this album is no exception.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Y8WS7iDIZkvzB5GUeLvku?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Sadness as A Gift, No Machine, Ruined
+
+## 9. Jessica Pratt - Here In The Pitch
+
+An important aspect of music for me is an artist's ability to use space effectively; whether that be going for enormous sounds on rock or metal album, or paying attention to the subtle details on smaller arrangements. Jessica Pratt is a master of the second aspect, writing these fragile 60s folk songs with that use space so efficiently. For instance, on the opening track "Life Is"; it is such a simple little arrangement, with a strumming acoustic guitars, some light drum fills, and the occasional vocal harmonies surrounding Pratt. Yet, the song feels full of life, as the her attention to detail makes the whole greater than the sum of its parts. It certainly helps that Pratt has amazing knack for writing these amazing vocal melodies that get stuck in your head. I'm absolutely in love with the melody on "Empire Never Know", that is produced like she is singing directly to you in a vast hallway. The hushed piano line behind adds this slight bit of sadness to the song. Definitely one of my favorite songs of the year. The album closes what feels almost like a lullaby as Pratt recounts what seems to have been a really tough year, with lines like "cause I'm exactly what you said, and better off than dead. Can't get me out of my own bed". I have a number of big and bold albums throughout this list, so I'm glad I was able to find something a bit more subtle to balance things out. Despite its short runtime of 27 minutes, this album is full of little surprises and things I notice with each successive listen. I highly recommend you listen to this on headphones to catch the little tricks shes uses, and preferably late at night.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7hUAyfpXkSE2JT5gOORZO0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Empires Never Know, Life Is, The Last Year
+
+## 8. MJ Lenderman - Manning Fireworks
+
+If you need a slacker country-rock album, look no further than the excellent "Manning Fireworks" from MJ Lenderman. Between the loose vocals from Lenderman, laid back vibes, and at times, garage rock guitar tones, this album contains a bit of magic that is hard to state clearly in words. The best I can come up with is that this album sounds like porch beers in the summer; and I love porch beers. The album opens with meandering acoustic guitar and loose fiddle playing on the title track to ease you in. "Joker Lips", my personal favorite on the record, picks up the pace just a tad, with a melodic country guitar that I just love so much. While the subject matter isn't particularly happy, there is a comfort to it that I have come to appreciate this year. "Wristwatch" , has this amazing wall of fuzzy guitars, pedal steel, a symbol heavy drums. I also immensely enjoy the concept of bragging about having "a beach house up in Buffalo", if its meant to be tongue in cheek. "She's Leaving You" almost reminds of Gin Blossoms song, which I honestly don't hate. The album ends in a way I didn't quite expect; the 10 minute track "Barking At The Moon", containing another slacker country rock gem in the first half, before transitioning into an ambient song with guitar feedback, that I think is a terrific way to end things. What can I say, this album was probably always going to work for me, with the garage rock sounds and loose lead vocals. But the execution is so excellent in many subtle ways, it deserves its spot in the top 10.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1bKiiYGt1fzm9YMlTnUqpN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Joker Lips, She's Leaving You, Wristwatch
+
+## 7. Father John Misty - Mahashmashana
+
+I would be lying if I said the release date of this album didn't annoy me just slightly. When making these lists, I always have to have a rough cutoff date, as I won't have enough time to listen to an album for fair consideration. But as big Father John Misty fan, I had it a quick listen. And I immediately fell in love with the opening track, with it's enormous strings and piano chords that immediately brought me back to his best album ["I Love You Honeybear"](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F?si=Zk0q8yjiSFmJIFgdnfrM7g). "Mahashmashana" contains some of his most inspired and interesting songwriting of Josh Tillman's career. "She Cleans Up" completely switches things up, with electric guitars and cowbell to boot! "Metal Health" is a beautiful big band arrangement with lovely flutes and saxophone throughout, coupled with some darker themes discussing how there is no higher goal of society (or at least Western culture) than mental health, describing it as "a less pathetic cry for help". The track "I Guess Time Just Makes Fools of Us All" is about as groovy as Tillman has ever gotten, despite the grim subject matter. Of all the albums on this list, this probably the placement I had the hardest time with, but I'm quite convinced this is top 10 worthy. Despite it's fairly depressing vibes, this album contains some of the most stunning musical arrangements written this year, and that alone makes the album worth a listen.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2oJHtuXrCJ0KMH5GrC6Qdw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Mahashmashana, Mental Health, I Guess Time Just Makes Fools of Us All
+
+## 6. Knocked Loose - You Won't Go Before You're Supposed To
+
+This is the first time that a metal album has made one of my lists and there can be only one good reason for that; IT FUCKING RIPS. Metal is a genre I tended not to love in the past, as the sound and aesthetics can be a bit cheesy to me sometimes. However, there is the rawness to how Knocked Loose approach their music on "You Won't Go Before You're Supposed To" that I just absolutely love. Like other albums I listened to this year, this albums comes in at shorter runtime of 28 minutes, but the album flows so smoothly and covers so many different sounds and tempos that it feels like a full meal. The thing that standouts is the insane percussion, with constant tempo changes that keep you on your toes. The album opens quietly with bells in the distance; as if its your last moment of peace before the album melts your face. There isn't a dud on the record, but "Suffocate" is a real standout, with an amazing feature from Poppy. I'm not sure I've ever heard a screamo duet, but man does work to great effect here. "The Calm That Keeps You Awake" is a truly terrifying concept for a song title, that has these great sludgy guitar lines that match the vocalists, and amazing clattering drums that add so much to the song. "Blinding Faith" is another fantastic track that has this super insane breakdown, which transitions amazing into the closer on "Sit and Mourn". This album has shifted my views I've had on metal and has made looking for more metal in 2025 a big priority.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2sLBMdUF5HYNB0voqWs4K3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Blinding Faith, Suffocate, The Calm That Keeps You Awake
+
+## 5. Billie Eilish - HIT HARD AND SOFT
+
+It has been so cool to see Billie and her brother, Finneas, improve as musicians with each subsequent release in their already illustrious careers. What I have always appreciated about their music is the subtlety they brought to the world of pop music, a genre that isn't exactly known for that. On "HIT HARD AND SOFT", they expand their sound, but at the right times, which makes the louder moments feel so much bigger. The album opens with a familiar sound on "SKINNY", with a sparse arrangement, but even this track feels bigger, with layered harmonies and string arrangements. I love the transition into the incredibly fun "LUNCH", which has this amazing wobbly guitar fill that I am obsessed with. My personal favorite track on the record, "CHIHIRO" (a reference to the character in the classic movie ["Spirited Away"](https://www.imdb.com/title/tt0245429/)), is this excellent synth pop song with amazing synth line in the middle of the track that goes harder than it needs to. I also really like the simple but effective bass line in the background that makes itself just obvious enough to drive the song forward. Probably the thing that sticks out most to me is how amazing the vocal performances from Billie. From her cascading falsetto on "CHIHIRO" to the belting on the explosive "THE GREATEST". "THE GREASTEST" works so well because it feels earned; there is enough space between the low and quiet points to make songs like "THE GREATEST" hit hard (and based on the album title was by design). L'AMOUT DE MA VIE is this great simple Billie song that is a little sad and a little sweet, with another great vocal performance. But at the end it transitions into this auto-tuned synth pop section that my brain rejected at first because it was so unexpected, but it's grown on me a ton (and has no right to be as good as it is). I knew this album was a top 10 contender after the first listen, which was so cool for me. This is probably the highest a pop record has ranked on my lists thus far and it's well deserved for my favorite pop artists in music right now. However, something tells me they will get more important accolades this year...
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7aJuG4TFXa2hmE4z1yxc3n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** CHIHIRO, THE GREATEST, L\`AMOUR DE MA VIE
+
+## 4. Geordie Greep - The New Sound
+
+The release of this record was bittersweet. On one hand, Black Midi announced an [indefinite hiatus](https://pitchfork.com/news/black-midi-go-on-hiatus-as-geordie-greep-says-band-is-indefinitely-over/) (their album ["Hellfire"](https://open.spotify.com/album/68z6MWYYNmvTcru1QMcYId?si=OSboF2qXQZKCHw0-Q8hn4w) was my 4th favorite album of 2022, in probably the most competitive list I've ever made), which bummed me out to no end. On the other hand, the lead singer, Geordie Greep, released the excellent "The New Sound" that will likely scratch the itch of many Black Midi fans. However, while the identity of Black Midi can be heard in these tracks, this is sonically distinct, leaning more into the jazz sounds with quite a bit of samba. The opening track "Blues" would feel at home on a Black Midi record, with many of the intricate guitar riffs, off the beaten path melodies, and the rapid almost ramblings of Greep, almost as a way to help fans transition into, well, The New Sound. "Terra" is the wonderful samba track that makes you want to dance (something I never expected from Greep to be perfectly honest). There is so much amazing musicianship throughout the record, whether is its the guitar work, the horns in the big band numbers, or the incredible percussion. But don't worry, there is plenty of dissonance and experimentation found throughout the record, like on "Walk Up" or the oddly sweet "Motorbike". The album reaches a climax on the 12 minute slowburn "The Magician", which opens sweetly strum acoustic guitars and harmonicas, with the track slowly falling apart towards the end. While I'm incredibly sad to Black Midi taking a long-term break at a minimum, if Geordie Greep (or other band members) put out music of this caliber, I think I will manage okay.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/07YS7ooqYtvPZLlW59MHY5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks**: The Magician, Terra, Blues
+
+## 3. Vampire Weekend - Only God Was Above Us
+
+One of the most influential (if not most influential) indie rock band of the 2000s are back with my personal favorite record since their debut. While there were tracks on there previous album, ["Father of the Bride"](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ?si=GMHKHzqsTLScrTg6fFPzuA) that I liked a lot, the 18 song tracklist led to a lot of throwaways that ultimately harmed the listening experience. On "Only God Was Above Us", the project feels much more focused on creating an incredibly fun record that brings back the strengths of the group. The opening track "Ice Cream Piano" explodes with colorful sound to bring you headfirst into the album, before wonderfully transitioning into "Classical", containing a battle between intricate melodic guitar riffs and siren-like slide guitar (which is a feature of much of this album). "Capricorn" is classic Vampire Weekend, with such an infectious and catchy vocal melody that makes you wonder how more artists don't try to replicate it; one of my very favorite songs this past year. A thing that really stands out to me on this record is the degree of musicianship from this group. Not only is there is tremendous guitar throughout, but some truly fantastic piano, like on "Connect". The siren guitar returns very suddenly on "Gen-X Cops" in a way that would jolt anyone awake (and maybe a good track to skip during a nap). The closing track "Hope" serves as a perfect bookend for the record, recreating many of the sounds heard throughout the record, before taking just slightly harder edge (at least for harder for Vampire Weekend). It is truly extraordinary how this band has been able to release so much amazing music in their career and can continue continue this excellence in their career. It is possible that "Only God Was Above Us" doesn't reach the same heights as some of their earlier work, but a certain subset of fans (myself included) are likely to look back at this record as some of their best work.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1W04wu2W4OIcuiNc5AMB3y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Capricorn, Classical, Prep-School Gangsters, Gen-X Cops
+
+## 2. Magdalena Bay - Imaginal Disk
+
+It was going to take a lot of Magdalena Bay to outdo their spectacular 2021 debut record ["Mercurial World"](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY?si=uWSCREwERtynWurYcQeKFA), and they somehow have done it. The duo of Mica Tenebaum and Matthew Lewin manage to strike this perfect balance of super catchy and accessible synth and dance pop, while adding plenty of experimentation and intricate arrangements to prevent things from getting stale. Beyond this, while each track stands well on it's own, a lot of detail was put into how the album flows, making tracks be able to stand on their own while simultaneously rewarding listeners for investing in the project as a whole. For all the different sounds they introduce throughout the record, often my favorite part is the simple use of the keyboard, like on "Death and Romance". That piano just sticks out over the other instruments and just love how it sounds. "Watching T.V." at times is quite a beautiful emotional song, letting for just allowing a brief moment of space for Tenebaum's vocals, before erupting into a wall of synths and crashing drums. Somehow, the record gets better as you move through, shifting tempos and sounds from track to track. If you want to dance, then look no further than the absolutely funky "Love is Everywhere" or the discoey "Cry for Me". They even end the album brilliantly on "The Ballad of Matt & Mica" with a fun motif back to the excellent opening track. The real strength of this record isn't just how absolutely fun it is, but it is the little details throughout the arrangements. I keep finding little things in the songs where I have to sick back and think "man, I really like what they added there". On the final track, I was really charmed by the lyric "two Kids in a new town, baby. Is it my turn? Small-time fame. Bang-Bang and a happy ending". If this album gets even half the attention it deserves, they are probably on their way to more than small-time fame.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4HTy9WFTYooRjE9giTmzAF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Death and Romance, Watching T.V., Love Is Everywhere, Image
+
+## 1. Cindy Lee - Diamond Jubilee
+
+I struggle to put words down that show how much I adore and admire this record. While it may be true that life events made it harder for me to listen to music this past year, I would be lying if I didn't say that part of the problem was that I just found myself coming back to this album over and over. As much as anything, this record felt like a companion when I found myself writing and coding a lot during the summer of 2024. For long time readers (if they exist...), they will recognize Cindy Lee (the drag alter-ego of Partick Flegel) from my 2020 list, with their excellent, incredibly distorted album lo-fi record [What's Tonight to Eternity](https://open.spotify.com/album/5BEV4gGnAkRsLuoW3FQeqN?si=J2RxIrCVRz62xAKiflzIzQ). While it's a beautiful record ([Heavy Metal](https://open.spotify.com/track/6ON0WPRm1tLITpeUsyYoOk?si=a3a5787b73624d57) is a major standout for me), the heavy use of reverb and distortion makes the album a bit tough to approach if you aren't a lo-fi music fan (and often I'm not). For the Cindy Lee discography, this is a much easier starting point.
+
+The magic behind this record is hard to fully put my finger on. Flegel's songwriting is squarely centered around 50s-60s nostalgia with softrock, soul, and doo-wop sounds found throughout. But the production makes the record feel like a time-capsule of a bygone era, or better yet, as Pitchfork magazine perfectly described it as ["may be the greatest radio station you've ever come across](https://pitchfork.com/reviews/albums/cindy-lee-diamond-jubilee/)". There is no overarching theme or message behind the record, just a enourmous collection of songs that feel queued about by a DJ from a different time, one that brings me nothing but comfort. There are plenty of artists out their that wear their influences on their sleeves (including on this list!), but the thing that takes this record another level is the guitar playing. On the opening and title track, there is this great little rhythmic riff that serves both as great foundation for the song and as what is to come.
+
+On tracks like "Kingdom Come" or "All I Want is You", as Flegel dances up and down the neck of their guitar. Very quickly Flegel has become one my absolute favorite guitarists working in music right now. Beyond their virtuosic guitar ability, great use of distortion is used on many tracks, transitioning from sweet, melodic tones on "If You Hear Me Crying" before diving headfirst into screeching feedback. Such a cool moment. If you weren't already impressed, just about every instrument (with a handful of small exceptions) and the production were also handled by Flegel, really making this their own masterpiece. The tracklist comes in at a whopping 32 tracks, with about 2 hours worth of music, but don't let that intimidate you. There is so much to love about this record and truly hope you give it a good chance. Next time you have a mundane task ahead of you, throw Diamond Jubilee on. You may find yourself repeatedly stopping your task to take what is happening.
+
+An important sidenote, this album is not available on traditional streaming platforms. It can be found on [youtube](https://www.youtube.com/watch?v=_LJi5na897Y&t=767s), or via [bandcamp](https://cindylee.bandcamp.com/album/diamond-jubilee?from=search&search_item_id=369930710&search_item_type=a&search_match_part=%3F&search_page_id=3909326650&search_page_no=1&search_rank=2&search_sig=3fcd9204a32ef53000a33cd1d35c714d).
+
+```{=html}
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=369930710/size=large/bgcol=181a1b/linkcol=056cc4/transparent=true/" seamless><a href="https://cindylee.bandcamp.com/album/diamond-jubilee">Diamond Jubilee by Cindy Lee</a></iframe>
+```
+**Key Tracks:** Kingdom Come, Diamond Jubilee, If You Hear Me Crying, Demon Bitch\
+\
