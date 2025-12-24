@@ -1,0 +1,243 @@
+---
+title: "Top 25 Albums of 2025"
+format:
+  html:
+    code-fold: true
+    toc: true
+title-block-banner: true
+---
+
+Well fuck that year. Looking back at my 2024 blog writeup, there was a clear anxiety for the year that was to come, and while it wasn't necessarily what I expected, that anxiety seemed broadly warranted. The year started off somewhat rough, with the Trump administration (illegally) cutting funding to grants and arbitrarily firing people from various agencies, making the funding landscape for science as whole incredibly uncertain. Come April, an impromptu meeting with leadership from NASA informed us that we were going to be removed from our office and instructed to work remote until further notice. This was coupled with constant threats of massive budget and an overall uncertainty our future as an agency of NASA as whole.
+
+If that wasn't fun enough, poor Karen has had an even tougher year, tearing her ACL on hike on her birthday week, requiring surgery (welcome to your 30s!). The recovery from that surgery has been challenging, particularly that first month or so. 0/10 would not recommend. They there is the intrusive threat of generative AI just sitting in the background, on top of just a rapidly degrading online experience. that has really been bugging me all year. I'm not going to go down a massive rabbit hole here, as I have a tendency to ruminate on this. All I'll say on that front is this; [slop](https://www.merriam-webster.com/wordplay/word-of-the-year) being Merriam-Webster's word of the year feels about right.
+
+But not everything was horrible this year and think it's important to take as much stock of good things in your life. I had a wonderful trip this past summer to Japan, a place I hope to return to in the not-to-distant future. [Arsenal a really freaking good this year!](https://www.youtube.com/watch?v=B49XGblhRQY) ([expect when they aren't](https://www.youtube.com/watch?v=x-zSL1g-OQA)). I finally will be also getting the opportunity to see my beloved Arsenal in London right after the New Year against Liverpool.
+
+Needless to say, it's been a tough year for me and my mental health. One thing I feel like I lost a little bit this year was a love music. Especially the first half the year, I just wasn't finding myself connecting to a whole lot of things, which has legitimately been upsetting. I did wonder if perhaps the music offerings this year were not up to par, and but as I started to compile my list, I found this not to be the case. I did manage to find a number of things by the end of the year and create a list that I'm proud of. An perhaps most importantly, this is the 10th anniversary of my end of year lists! This all started with a way to not go insane studying for finals. Once I graduated, I promised myself to keep these lists going, as they serve as a time capsule for each year of my life and provide a wonderful catalog of music I can revisit. If you somehow stumbled on this blog; thanks for reading! Here's to 10 more years.
+
+## My Favorite Songs of 2025
+
+1.  Elderberry Wine - Wednesday
+
+2.  Tenspeed (Shallows) - Racing Mount Pleasant
+
+3.  CCF (I'm Going to Stay With You) - Car Seat Headrest
+
+4.  Straight Line Was A Lie - The Beths
+
+5.  Anova - Hesse Kassel
+
+6.  Run Free- Soulwax
+
+7.  Bird - Angélica Garcia
+
+8.  Empire Never Knows - Jessica Pratt
+
+9.  The Calm That Keeps You Awake - Knocked Loose
+
+10. Rattlesnake - Rubblebucket
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1qIl4nAq5LD2Fi8U9losOs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+\*\*Kingdom Come can only be found on bandcamp or youtube.
+
+## 25.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1qG30zCAZ30hsmA5wAlaQ3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe
+```
+## 24. Jack White - no name
+
+Sneaking into the list is year is the latest Jack White project. In all honesty, I have never been the biggest Jack White fan. But on this record, the raw garage rock sound he goes for on "no name" just freaking rips ([the exact thing he told fans to do with vinyls that he gifted them](https://consequence.net/2024/07/jack-white-encourages-fans-to-rip-his-new-album/)). There is no denying his incredible ability to shred, and it is on full display here. There are so many amazing scratchy and raw riffs throughout "That's How I'm Feeling". I like the sentiment "It's Rough On Rates (If You're Asking)"; like if this are this bad for us, how bad is it for the rats? If you are need of loud garage rock record, look no further than here.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4j6OkbZmVIqJYDLJbiWHbX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** It's Rough On Rats (If You're Asking), That's How I'm Feeling
+
+## 23. Angélica Garcia - Gemelo
+
+Angélica Garcia is a new artist discovery for me in 2024, with a fun and unique set of electronic tracks. This album represents the first album this artist wrote almost completely in Spanish. I love the rising vocal melody on the chorus "Color De Dolor". I have been bumping "Gemini" all year, with its amazing refrain of "I see double everywhere I go", that just sounds so cool to me. Highly recommend this album for any electronic fans out there.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/16hyi0FtwSiv2Kojazr71m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Gemini, Color De Dolor
+
+## 22. Waxahatchee - Tigers Blood
+
+Waxahatchee is back with probably my favorite collection songs from Katie Crutchfield; spanning from country and folk. The album is full of country rock tracks like "Ice Cold" that serve a perfect background at any cookout."Right Back to It" is such a fun and relaxing song that I feel like it declutters my brain, with it's swaying tempo and perfectly loose harmonies with MJ Lenderman. A great album to reach for an a relaxed day outdoors.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5O9TGAJ6Opoya7KCBKKQUA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Right Back to It, Ice Cold
+
+## 21. Iron and Wine - Light Verse
+
+I'm not sure there is another person that produces music that relaxes the soul more than Sam Beam of Iron and Wine. Here he continues his excellent catalog of indie-folk and singer-songwriter tracks that are perfect company for a rainy or lazy kind of day. There really isn't a dud in the bunch, but my favorites include the slow-burn arrangements on "You Never Know" or the amazingly gentle "Taken By Surprise".
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0dZ4tHT2Ka2kScPqLK9x1Q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** You Never Know, Taken By Surprise
+
+## 20. SPIRIT OF THE BEEHIVE - YOU'LL HAVE TO LOSE SOMETHING
+
+What a strange album this is! SPIRIT OF THE BEEHIVE are back with their most eclectic and chaotic album yet. At times, 1 song feels like 10 songs, making it sometimes challenging to even know what track you currently are on. But beyond the chaos and dissonance, there are number of quite lovely moments that reward the listener for sticking around (which is a feature of music I tend to really enjoy). "STRANGER ALIVE" is a fantastic example of this, starting with faded drums and what sound like synths, before swinging into an off-center psychedelic rock song, before moving into sweet indie rock track. This is an album that may be hard to approach at first, but it will reward you greatly for sticking with it.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0aZGq0nA2n4275MFylaTGM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Stranger Alive, 1/500
+
+## 19. Lupe Fiasco - Samurai
+
+Hip hop was a genre that I just didn't spend enough time on this year, especially as some heavy weights dropped new records, including Kendrick Lamar and Tyler the Creator. However, Lupe Fiasco's "Samurai" caught my attention. This album is loosely based on the idea of Amy Winehouse becoming a rap samurai (based on a quote from a [2015 documentary](https://www.imdb.com/title/tt2870648/)). It's such a neat and fresh idea, especially from a rapper with as many credentials as Lupe Fiasco. The title track has this instantly infectious jazz beats and great flow. I love the silly jazz trumpet impressions on "No. 1 Headband", coupled with a really sick drumbeat. This album is a super fun record, and coming in at the super approachable runtime of around 30 minutes, there is no excuse no to give this a spin.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1O6d4cNuUV78GeXv7hgr4e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Samurai, No. 1 Headband
+
+## 18. Nilüfer Yanya - My Method Actor
+
+Nilüfer Yanya continues to make the amazingly interesting indie-rock/electronic music that sounds like nothing else out there. I just adore the strumming of the acoustic guitars on "Like I Say (I runaway)" before they explore into fuzzy electric guitars on the chorus. "Just A Western" is a great acoustic track with some great atmospheric production in the background to make things just a little spooky. Another fantastically unique record from Yanya.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4BBVZgRsWeNVgGmub6LY3p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Like I Say (I runaway), Just A Western
+
+## 17. Porter Robinson - SMILE! :D
+
+My favorite electronic record of the year goes to the super sweet "SMILE! :D" by Porter Robinson. I was honestly surprised at how much I enjoyed this album, as sonically, its a bit too sugar sweet. But there is sincerity in the execution that just make things work for me. I love how digital "Knock Yourself Out XD" sounds, like a anthropomorphic computer wrote the track (in fun way, not crappy AI slop). "Cheerleader" is a fantastic dance track that feels an electric version of the "[Great Escape](https://open.spotify.com/track/56Tl3UgyZTqfZtvFNS31wm?si=e215ad7b39c04f2d)", which gives this silly nostalgia vibe to it that I really love. This album is full of brightness and optimism, even in it's sadder and more vulnerable moments. Looking forward to hearing more from Porter!
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2iS4pBIiQf4sCTJLZ5n8dy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Cheerleader, Knock Yourself Out XD
+
+## 16. The Lemon Twigs - A Dream Is All We Know
+
+The Lemon Twigs are honestly a band that I had been sleeping on a bit. Not long after I had finished my 2023 list, I noticed that their 2023 release ["Everything Harmony"](https://open.spotify.com/album/5X0MAnUVN7eEZyO1LjprIk?si=_kQW7Yh4SwWkzJ5GMxF1Ow) was [Anthony Fantano's 10th favorite album of the year](https://youtu.be/PlloTwEBBE8?si=3DPUskVM3KtSXqq5&t=692), which surprised me so much I had to go listen and I became immediately frustrated that this album was in my blindspot. When they released their newest project "A Dream Is All We Know", I made sure to not make the same mistake, and to great benefit. The album (much like their last release) is filled with 70s soft-rock nostalgia that I feel anyone a fan of that era of music would greatly enjoy. The due fronted of brother's Brian and Michael D'Addario thread the needle of capturing the essence of their clear influences (think the Beatles, The Beach Boys) while not being a complete ripoff. This largely comes down to how excellent the arrangements, making the music feel more like an appreciation rather than a copycat. My 2nd favorite song of the year "My Golden Years" feels perfectly engineered for a road trip, with it's driving drum beat and delightfully intricate harmonies. "How Can I Love Her More" is a track that Brian Wilson himself would be proud, containing such an infectious chorus. Give this album a spin, if nothing else but improve your mood.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3ZEIxul2SC2AslVuGZGO68?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** My Golden Years, How Can I Love Her More?
+
+## 15. St. Vincent - All Born Screaming
+
+St. Vincent continues to show why she is such a big figure in the alternative-pop scene. Her work always feels so cinematic; look no further than the crazy album cover! I love the slight headfake the opening track, "Hell is Near", does to you, starting with (what sounds like) timpanies and her vocals starting low, as if to build toward something epic, before it transitions into this slow, groovy rock track. Easily my favorite song on the record. "Broken Man" has these awesome heavy guitar lines that just hit so hard on the song. I maintain that Annie Clark is at her best when she is shredding. Another fantastic record to add to her already insane catalog.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3nRlJXz5W39luXRto5hc4f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Hell is Near, Broken Man
+
+## 14. Chelsea Wolfe - She Reaches Out to She Reaches Out To She
+
+If you're looking for a moody, dark album, look no further then Chelsea Wolfe's excellent "She Reaches Out to She Reaches Out To She" (crazy album title by the way). This work is filled with synths, drum beats, and guitars that provide this aura and sense of foreboding that could soundtrack the creepiest horror film imaginable. "House of Self-Undoing" has this great driving drum line and fuzzy guitars that create this sense of tension that I just think is so cool. The closing track "Dusk" is a perfect closer, starting with this almost child-like melody to start, before closing with an enormous wall of guitars to bring things home. I've been aware of Chelsea Wolfe for a long time, but have never given her a real listen before. This album has me wanting to go back through her catalog, because if it sounds anything like this record, I'm already a fan.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4uJMF1xAEk9IgPA5UbwNA6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Dusk, House of Self-Undoing
+
+## 13. Remi Wolf - Big Ideas
+
+Remi Wolf begins a string of indie-pop groups on this list releasing a ton of incredibly fun and danceable tracks. On "Big Ideas", Wolf comes in hot with the incredibly funky track "Cinderella", with its jangly guitars, bright horn section, and the utterly infectious refrain "me and the boys in the hotel lobby". This album is just jammed backed indie-pop bangers that will just get stuck in your head. "Toro" remains one of my absolute favorite songs this year (and decade while were at it), with some pretty intricate instrumentation throughout the song. But the key moment is just how much Wolf kills the vocal line on the second verse, walking up her range until she's at fully belting, with the instrumentation catching up to match her. God what a cool moment. "Alone in Miami" is another awesome vocal performance from Wolf, with almost bratty sound that suits the song perfectly. Remi Wolf is a star in the making and hope after "Big Ideas" she gets the attention she deserves.
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7HQOEMCDGKY8eJyQPdsnYH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Toro, Cinderella
+
+## 12. Clairo - Charm
+
+Caliro is back with another fantastic vibey record! I really enjoyed her previous work ([Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459?si=EVWPMBZMSGmK4a6Qn16h1w) was my 8th favorite record in 2021), which felt like a bedroom pop album recorded in a log cabin. On "Charm", she expands her to a slightly larger, almost jazz-lounge sound, filled with flutes, piano and a busier percussion. "Sexy to Someone" was a quick favorite for me, with the trilling clarinets and flutes on the verses and ringing guitar on the chorus. I particularly like how the phrase "oh I need a reason to get of the house" flows on the chorus. "Juna" is another clear standout, that is as sleepy as it is funky, with that amazing crescendo on the synth line found throughout the song. While the high points on "Sling" are bit higher for me, there is a fantastic consistency to this project, making it her most focused work to date. I'm super eager to hear how her work evolves from here!
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1KNUCVXgIxKUGiuEB8eG0i?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Sexy to Someone, Juna
+
+## 11. Rubblebucket - Year of The Banana
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6fS1NzHCFFXUswH4eTaBgo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Rattlesnack, Stella The Begonia
+
+## 10. Adrianne Lenker - Bright Future
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2Y8WS7iDIZkvzB5GUeLvku?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Sadness as A Gift, No Machine, Ruined
+
+## 9. Jessica Pratt - Here In The Pitch
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7hUAyfpXkSE2JT5gOORZO0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Empires Never Know, Life Is, The Last Year
+
+## 8.  - Manning Fireworks
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1bKiiYGt1fzm9YMlTnUqpN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Joker Lips, She's Leaving You, Wristwatch
+
+## 7. billy woods - GOLLIWOG
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2oJHtuXrCJ0KMH5GrC6Qdw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** BLK XMAS, Misery,
+
+## 6. ROSALÍA  - LUX
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2sLBMdUF5HYNB0voqWs4K3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Blinding Faith, Suffocate, The Calm That Keeps You Awake
+
+## 5. Wednesday - Bleeds 
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7aJuG4TFXa2hmE4z1yxc3n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Elderberry Wine, Candy Breath, Townies
+
+## 4. Guerrila Toss - You're Weird Now
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/07YS7ooqYtvPZLlW59MHY5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks**: CEO of Personal & Pleasure, Panglossian Mannequin, Kyrstal Ball
+
+## 3. Joan Shelley - Real Warmth
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1W04wu2W4OIcuiNc5AMB3y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Field Guide to Wild Life, New Anthem, Everybody, The Hum
+
+## 2. Racing Mount Pleasant - Racing Mount Pleasant 
+
+```{=html}
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4HTy9WFTYooRjE9giTmzAF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Death and Romance, Watching T.V., Love Is Everywhere, Image
+
+## 1. Hesse Kassal - La Brea
+
+```{=html}
+<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=369930710/size=large/bgcol=181a1b/linkcol=056cc4/transparent=true/" seamless><a href="https://cindylee.bandcamp.com/album/diamond-jubilee">Diamond Jubilee by Cindy Lee</a></iframe>
+```
+**Key Tracks:** Kingdom Come, Diamond Jubilee, If You Hear Me Crying, Demon Bitch\
+\
