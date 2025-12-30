@@ -1,0 +1,268 @@
+---
+title: "Top 25 Albums of 2025"
+format:
+  html:
+    code-fold: true
+    toc: true
+title-block-banner: true
+---
+
+Well fuck that year. Looking back at my 2024 blog writeup, there was a clear anxiety for the year that was to come, and while it wasn't necessarily what I expected, that anxiety seemed broadly warranted. The year started off somewhat rough, with the Trump administration (illegally) cutting funding to grants and arbitrarily firing people from various agencies, making the funding landscape for science as whole incredibly uncertain. Come April, an impromptu meeting with leadership from NASA informed us that we were going to be removed from our office and instructed to work remote until further notice. This was coupled with constant threats of massive budget and an overall uncertainty our future as an agency of NASA as whole.
+
+If that wasn't fun enough, poor Karen has had an even tougher year, tearing her ACL on hike on her birthday week, requiring surgery (welcome to your 30s!). The recovery from that surgery has been challenging, particularly that first month or so. 0/10 would not recommend. They there is the intrusive threat of generative AI just sitting in the background, on top of just a rapidly degrading online experience. that has really been bugging me all year. I'm not going to go down a massive rabbit hole here, as I have a tendency to ruminate on this. All I'll say on that front is this; [slop](https://www.merriam-webster.com/wordplay/word-of-the-year) being Merriam-Webster's word of the year feels about right.
+
+But not everything was horrible this year and think it's important to take as much stock of good things in your life. I had a wonderful trip this past summer to Japan, a place I hope to return to in the not-to-distant future. [Arsenal a really freaking good this year!](https://www.youtube.com/watch?v=B49XGblhRQY) ([expect when they aren't](https://www.youtube.com/watch?v=x-zSL1g-OQA)). In related news, I finally will getting the opportunity to see my beloved Arsenal in London right after the New Year against Liverpool.
+
+Needless to say, it's been a tough year. One thing I feel like I lost a little bit this year was a love music. Especially the first half the year, I just wasn't finding myself connecting to a whole lot of things, which has legitimately been upsetting. I did wonder if perhaps the music offerings this year were not up to par, and but as I started to compile my list, I found this not to be the case. I did manage to find a number of things by the end of the year and create a list that I'm proud of. An perhaps most importantly, this is the 10th anniversary of my end of year lists! This all started with a way to not go insane studying for finals. Once I graduated, I promised myself to keep these lists going, as they serve as a time capsule for each year of my life and provide a wonderful catalog of music I can revisit. If you somehow stumbled on this blog; thanks for reading! Here's to 10 more years.
+
+## My Favorite Songs of 2025
+
+1.  Elderberry Wine - Wednesday
+
+2.  Anove - Hesse Kassel
+
+3.  Tenspeed (Shallows) - Racing Mount Pleasant
+
+4.  CCF (I'm Going to Stay With You) - Car Seat Headrest
+
+5.  Straight Line Was A Lie - The Beths
+
+6.  CEO of Personal & Pleasure - Guerilla Toss
+
+7.  Run Free - Soulwax
+
+8.  Field Guide to Wild Life - Joan Shelley
+
+9.  Postparto - Hesse Kassel
+
+10. BLK XMAS - billy woods
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2qLqpPHwALo51tOPFPajjH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+
+
+## 25. Viagra Boys - Viagr ABoys
+
+Just sneaking into the top 25 the latest record from Viagra Boys. I didn't fully jibe with their [previous release](https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt?si=oUgrBmyvQ6KonkmOb3F_Lg), but I had much more fun with this one. "Man Made of Meat" is such a great opener, with a sarcastic view of how we consume content (or slop) can make us feel a bit numb.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0ibbISvq4loJXVtZquKrQB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Man Made of Meat, Water Boy
+
+## 24. Soulwax - All Systems Are Lying
+
+A incredibly fun EDM record for the veteran group "Soulwax". While there is a ton to love here, "Run Free" is an absolute standout and one of my favorite tracks released this year.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5YrUPQ9Xib98i41d6caVl8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Run Free, Gimme a Reason
+
+## 23. Ty Segall - Possession
+
+If you are looking for a fun, 70s style southern rock album, look no further than Ty Segall's "Possession". It's not the most ground breaking record around but I'm always a sucker for the guitar tones on songs like "Shining".
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3ZxMlJq7ztw1jd5mDEaNkl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Possession , Shining
+
+## 22. Hatchie - Liquorice
+
+Hatchie's jangly dream pop sound is something that just scratches the right spot in my brain's dopamine centers but Liquorice is the first full project that I connected with. "Lose it Again" strikes that perfect balance of bright guitars and hazy vocals that Hatchie is known for.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0dtHFmAZG3WuxrpxxGoXlV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Lose It Again, Wonder
+
+## 21.yeule - evangelic girl is a gun
+
+Making another list is electronic pop artist, yeule. "Dudu" I immediately loved, with an ear wormy chorus a a legitimately greats vocal performance. I find yeule finds a nice balance between many of the electronic beats she uses in her music and some of the subtle rock influences she works into many songs throughout the record.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0YYPOxN7WrWD3ygAP5KB50?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Dudu, What3vr
+
+## 20. Darkside - nothing
+
+In some ways, I find this record a tad frustrating, as it starts out so strong, but runs out of steam at the end of the record. Still, there are some undeniable grooves on this record. "S.N.C.", with some sweet pretty amazing harpsichord(!?!) runs that goes surprisingly hard. The good far outweighs the bad here.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3wKQNK7DBQI23DLLEr0XSe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** S.N.C, Are You Tired? (Keep on Singing)
+
+## 19. Tame Impala- Deadbeat
+
+So, I was a bit surprised to see some pretty mixed/negative response of online music communities to this record, as while it it does not live up to the amazing projects of [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv?si=4l19_lXPScyIxQAQtJnbPQ)or [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7?si=f0X2SzabTU-KTLI9eciYww), I found this record to be a lot more engaging than his [previous effort](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL?si=AmFN7CnoTBChmyA6m1sbPg). "Dracula" is such a catchy song that would have been right at home on Currents. "Loser" is another instant classic, with a more forward facing drums and fantastic chorus. A fun addition to the Tame Impala catalog.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5WulAOx9ilWy1h8UGZ1gkI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Dracula, Loser
+
+## 18. McKinley Dixon - Magic, Alive!
+
+An amazing jazz rap release from McKinley Dixon on "Magic, Alive!". The production on this record is stellar and Dixon delivers a number of fantastic performances. "Sugar Water" brings you into the record, and it never lets you go. I love the controlled chaos that is "Crooked Stick", with the dissonant saxophones and energetic flows. Some of the most fun hip hop you'll listen to all year.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0RXsRwX4iMCKkSFPoSs8Go?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Sugar Water, Crooked Stick
+
+## 17. Dominic Fike - Rocket
+
+Dominic Fike releases a loose, laid-back, meandering mixtape with "Rocket". So much of this album feels like half-baked ideas that Dominic had laying around (I suppose why this is a mixtape), but I find this to be a strength of the record, making it really accessible. "Quite the Opposite" is one favorite tracks released this year as Fike talks about some of his self absorbed and melodramatic behavior. I find the image from the line "But then I sat on your couch and proceeded to pout so you would acknowledge me" quite enjoyable. At a runtime of 26 minutes, why not give the record a spin!
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3KKqjBV0QBcgfTErzdkEd3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Quite the Opposite, Great Pretender
+
+## 16. Cory Hanson - I Love People
+
+There is this amazing familiar cozy feeling that I get when listening to Cory Hanson, despite the fairly dark lyrics. "I Love People" is this collection of 70s soft-rock/singer-songwriter tracks that feel like you have heard a 1000 times but yet are feel so fresh. "Bird With A Swing" is a major highlight, as Hanson explores his loneliness and how it prevents him from being sad (if you can believe that). "Texas Weather" follows the narrator as he tries to escape after the murder of a woman. This is a must for any singer-songwriter fans.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5tVDbgwTS4P1ZciZRqKNVW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Bird on A Swing, Texas Weather
+
+## 15. Psychedelic Porn Crumpets - Pogo Rodeo
+
+The Psychedelic Porn Crumpets are back their second record to my list since there 2019 release ["And Now for the Whatchamacallit"](https://larrysfavoritemusic.github.io/Blog/lists/2019_List.html#psychedelic-porn-crumpets-and-now-for-the-whatchamacallit) and it hits just as hard. This record contains so of my absolute favorite guitar work this year. The opening track is such an amazing opener to the record and has this amazing breakdown that interestingly follows the lyrics of The Beatles ["Come Together"](https://open.spotify.com/track/2EqlS6tkEnglzr7tkKAAYD?si=0b830202179c408b) that somehow just works. "Manny's Ready to Roll" has these amazingly intricate guitar riffs that are almost hard to follow with how fast the song is moving. Don't let the truly silly name keep you from enjoying some of the best hard/psychedelic rock you'll hear all year.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3S7VkLHtCTQPcoi2ZaY4TL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Manny's Ready to Roll, Salsa Verde
+
+## 14. Madison Cunningham - Ace
+
+Madison Cumming releases a wonder collection of chamber-folk tracks filled with lush arrangements including strings, piano, and most importantly, bass clarinet (a criminally underutilized instrument). Cunningham oscillates between slower, more traditional chamber-folk style songs like on the lovely "Shore" and (where I think the record really shines) this more percussive songs like on "Skeletree". But my absolute favorite track is "Golden Gate (On and On)", where the bass clarinet has never sounded as funky. A really excellent chamber-folk record that has me looking forward to her future releases.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1A8y28WkLlz79cpf843cWV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Golden Gate (On and On), Skeletree
+
+## 13. Foxwarren - 2
+
+I'm not sure Andy Shauf has ever sounded like he was having as much fun as he does with his side project Foxwarren (or at least fun for a guy whose music has a body count). Anyone who has followed this blog knows Andy Shauf is one of my main guys, so any review I give related to his works should be taken with a grain of salt. But I still think this an incredibly fun record, that was made more fun to listen after I saw them live a few months ago. "Listen2Me" has this groovy beat and pulsing synth lines, which erupt into life on the last minute of 30 seconds of the track. "Deadhead" is explicit permission from Shauf to not stop dancing, which always makes me giggle. "Round&Round" has such a catchy little guitar riff that gets very stuck in my head, forcing me to listen to again. Foxwarren may not quite reach the heights of Shauf's solo work, but that's not really the point.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1YtKNlX4qnRpZtPYWZxnKX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Listen2Me, Round&Round
+
+## 12. The Beths - Straight Line Was Lie
+
+The Beth's have served as a bit of comfort blanket for me this year. There is just something about how they approach pop-punk and indie-rock that puts them above most other groups. So naturally, I was quite excited to find they were releasing a new record. The title track is something that I have really connected to, with very simple and repetitive lines; "I thought I was getting better, but I'm back to where I started. And the straight line was a circle, yeah the straight line was a lie". This is just such a relatable feeling where you are trying to improve yourself on anything from mental health to bad habits, where you feel like you made progress but then you slip up, making it feel like you have to start over. In an [interview with the Guardian](https://www.theguardian.com/music/2025/jul/17/beths-band-liz-stokes-interview-straight-line-was-a-lie), Elizabeth Stokes (lead singer/songwriter) talks about her experience taking antidepressants helped with her anxiety, but ended up flattening her out emotions, as alluded to on "No Joy", which I found to be an interestingly transparent and approachable discussion on taking care of your mental health. While Straight Line Was A Lie doesn't have the same power-chord driven rock that we have come to expect from The Beths, this record includes some of there most incisive writing to date.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5XbVk30ifqaiI6EiVVjA1p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Straight Line Was A Lie, Metal
+
+## 11. Car Seat Headrest - The Scholars
+
+Just missing out on the top 10 is from a long time favorite of mine, Car Seat Headrest. "The Scholars" was a welcome follow-up to their messy (though somewhat enjoyable) record, ["Making A Door Less Open](https://open.spotify.com/album/0p6P42zHY2W8Zd7BKBcKQg?si=fBbhQR6lSFS2OaGfFEjG3A)". The album opens incredibly strongly with one of my favorite tracks of the year "CCF (I'm Going to Stay With You)" with its incredibly catchy chorus and ends with this super cool vocal round. "The Catastrophe (Good Luck With That, Man)" has the frantic energy, with the rapid acoustic guitar progressions towards the front of the track, and some just classic garage rock that we all know and love about Car Seat Headrest (plus finding a way to work in the phrase "ramalamadingdong"). Lead singer/songwriter, Will Toledo, has always been incredibly ambitious in his approach to songwriting, but not in sound but scope of his songs. This record is no exception with the B-side containing two 11 minute and one 19 minute songs right in a row. While each track doesn't land perfectly, there is still so much to love within each of those track that practically serve as mini-albums themselves. While this band may never reach the heights of [Twin Fantasy](https://open.spotify.com/album/6gDtROOIYa6OQxwhDNkDRM?si=z5QQeCq0TKmwWRU3odBlQQ) or [Teens of Denial](https://open.spotify.com/album/3KpYyDP8q8sUBxatHaYEsP?si=TfwlAd0xRvqoL8MLt7Zouw), this is a rock solid record to add to Car Seat Headrest'ss excellent catalog and should be welcome to any fan.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3EuXbeOZZukUbq4ZdreJzV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** CCF (I'm Going to Stay With You), The Catastrophe (Good Luck With That, Man)
+
+## 10. Men I Trust - Equus Caballus
+
+It was a big year for the minimalistic indie-pop group Men I Trust, releasing two records this year, Equus Caballus and [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU?si=sRdGIhqeSkay_h-ddjH5Kw) that are two-sides of the same coin. The former record is a bit more energetic and poppy compared to the later, though not dramatically slow. I have a hard time putting my finger on why exactly I love this record. Sonically nor lyrically, there isn't anything particularly crazy going on nor is there a massive song diversity. And yet, I found myself drawn back to the record, even during periods where I didn't find myself drawn to a whole lot. All I can conclude is that these are well written, performed, and produced songs with some sort of "secret sauce" that other groups can't reproduce. "Come Back Down" has very vibes similar to Fleetwood Mac's ["Dreams"](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz?si=bf07e917dd714d75). I particularly love the subtle ring of the lead guitar on this track. "Ring of Past" is a super catchy pop track with a great bassline walk-up that always makes my head pop. "Billy Toppy" has this great urgency to it, with a vibration-ey or wobbley guitars. This review has been challenging to write, as the it isn't very interesting to write "the vibes are good" 13 times. But they are. The vibes are good 13 times in a row. And that is exactly why I rank this album so highly.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7dJPDPUi94jA91VxG4vZb3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Ring of Past, Come Back Down, Billy Topper
+
+## 9. Bon Iver - SABLE, FABLE
+
+When I saw Bon Iver was releasing new music, I honestly felt myself uninterested, despite loving his music in the past. Part of me wonders if I've outgrown his work a little bit; the moodiness that comes with records like [For Emma, Forever Ago](https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM?si=PsFCecqfSJ6VJRMEp4F8pg) suited me better when I was younger, or the electronic experiments of [22, A Million](https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl?si=aAp90CiIRcK8q7Kszfvwyw) were losing their charm. Still, Bon Iver is such an important figure in music that I gave it a chance, and I was immediately reminded of why I love his music so much. The record is split into two parts. The first few tracks are more stripped back, allowing Justin Vernon's voice to shine through with minimal production. "AWARDS SEASON" is the highlight of first part of the album (and the album as a whole), starting with largely just Vernon's vocals, before evolving to this truly beautiful horn section. The second section of the record comes back to the more produced elements of Bon Iver, but it I do find the production to be more stripped back compared to others projects. I love the dance between the piano and the vocal alterations that essentially serve as the beat to the song on "Day One". Flock of Dimes has worked with Bon Iver in the past and their contributions are always a welcome surprised. "From" is the wonderful folk-pop song with a fantastic vocal performance from Vernon and some lovely vocal harmonies and guitar. Justin Vernon has strongly hinted this is [his final record](https://consequence.net/2025/11/bon-iver-done-justin-vernon-last-album/), at least as Bon Iver. If this is the case, I think this is fantastic bookend to a truly excellent musical career.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3L3UjpXtom6T0Plt1j6l1T?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** AWARDS SEASON, From, Day One
+
+## 8. Black Country, New Road - Forever Howlong
+
+I was so happy that I was able to enjoy the newest Black Country, New Road record. "[Ants from Up There](https://larrysfavoritemusic.github.io/Blog/lists/2022_List.html#black-country-new-road-ants-from-up-there)" was my album of the year in 2022 and very well may be my album of the decade. But the record's release coincided with the lead singer Issac Woods, a major influence on their overall sound, leaving the band to tend to his mental health. This left the band in a somewhat tough spot, trying to redefine itself without an influential member; and I think think they have done so successfully. The group has stepped away from it's post-punk roots in favor of more of a chamber-pop sound. Additionally, it feels as though there is more of a collective compared to their previous work; a real power of friendship type of connection. The arrangements of this record are both incredibly intricate and well thought out, but feel a bit rough around the arrangements that make the sound feel a lot more intimate, as if you are in the room with them. "Socks" is my personal favorite on the record, a bit of a slow-burn track that almost feels whimsical. "Happy Birthday" is another great track, with themes of marrying for wealth. I love the percussive vocal performance on the lines "How do you make it down the street? The city burns like fire beneath your feet". "For the Cold Country" starts as a choral section before building towards a big finale that almost has a vaudeville feel to it. I was so encouraged to see this band land on its feet properly. It may not be the same band it was in 2022, but today's version has so much to offer.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5FjaEW3Hi8vD2aoJNWln4t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Socks, Happy Birthday, For the Cold Country
+
+## 7. ROSALÍA - LUX
+
+One of my favorite things in music is when an artist takes a massive, ambitious swing on a project and just nails it. On LUX, ROSALIA does exactly that, For starters, the albums contains 13 languages, ranging from Chinese, to German, to (of course) Spanish. [In an interview with NPR](https://www.npr.org/2025/11/03/nx-s1-5593155/rosalia-lux-interview), she talks about wanting to put the whole world into a record if she could, which feels immediately clear. This a clear sonic departure for ROSALÍA, with a unique mixture of orchestral and flamenco. "Sexo, Violencia, y Llantas" is stunning opener, essentially serving an opening to an opera. "Divinize" is my personal favorite, with a great vocal performance, with piano and string arrangements balancing some amazing production and booming electronic drumbeat in the background. There is this incredible transition between "Mio Cristo Piange Diamanti" and "Berghain", where ROSALÍA hits this truly amazing note with her falsetto, before transitioning into this rapid and massive strings, coupled with a stunning a massive church choir. "Sauvignon Blac" is a beautiful love ballad and probably my favorite vocal performance on the record. This album is an absolute triumph and I imagine will win all kinds of awards and I am so here it for it.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/3SUEJULSGgBDG1j4GQhfYY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Divinize, Dios Es Un Stalker, Sauvignon Blanc
+
+## 6. billy woods - GOLLIWOG
+
+One of the most thoughtful wrappers in music right now returns with the bleak but powerful "GOLLIWOG". The subject matter and production are slow at times incredibly creepy. For instance, on "Waterproof Mascara", a loop of a woman crying is front in center as Wood raps about domestic abuse and the impacts it had on him later in life. It is an incredibly unsettling listen. There are some amazing performances on this record, like the craziest flow from Bruiser Wolf on "BLK XMAS" as both artists talk about the struggles of poverty. I'm particularly struck lines talking about his disgust at a family being kicked out of their apartment on Christmas, but going through the stuff that was left behind. "Misery", another wonderfully produced track, talking about a love-triangle with a vampire. The album gets more experimental with it's horror themes towards the middle of the record, like on tracks like "Corinthians" and "Pitchforks and Halos". "A Doll Fulla Pins" is another highlight, with it's woozy beat and blaring saxophone as Woods raps about needing to look out for himself with lines like "can't run with the wolves when you're a stray". This album is not an easy listen, but it is among the most essential listens from this past year.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6YjoANrjcsf17p1OmWESfo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** BLK XMAS, Misery, A Doll Fulla Pins
+
+## 5. Wednesday - Bleeds
+
+I was much looking forward to this record from Wednesday after their excellent debut "Rat Saw God" [(and 6th on my 2023 list)](https://larrysfavoritemusic.github.io/Blog/lists/2023_List.html#wednesday-rat-saw-god) and boy did they not disappoint. On "Bleeds", they seem to lean heavier on their garage rock and grunge sounds, such as the opener "Reality TV Argument Bleeds", hit you immediately with a mixture of fuzzy and bright guitars. "Townies" is a great encapsulation of returning to your home town, with all of the complicated feelings and relationships surrounding that, with heavy lines like "you sent my nudes around. I never yelled at you because you died". But they best moment of the record is among the quietest: "Elderberry Wine" which is my song of the year. The lead songwriter, Karly Hartzman, described in a press release "Elderberry Wine’ is about the potential for sweet things in life (love, family, success) to become poison if not prepared for and attended to correctly” and that "There's a delicate balance that needs to be created, especially in love, for two lives to intersect without poisoning each other.", which I just think is such a amazing basis for a song. Hartzman is at her very best lyrically throughout this record, painting such grim yet somewhat silly pictures of small town life. On "Pick Up That Knife", there is this amazing reference to Afrin addiction, a nasal decongestant spray that can become habit forming if you use it more than a couple of days, which I find somewhat humorous but also a bit anxiety inducing. This band has quickly one of the most consistent and interesting groups in rock and I cannot wait for their next work. Stephen Thompson said on NPR's All Songs Considered that Wednesday hasn't made their best album yet. I think he's right, and that is an exciting prospect.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/29HKbQ2pgXgElTnH66mFXK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Elderberry Wine, Pick Up That Knife, Townies
+
+## 4. Joan Shelley - Real Warmth
+
+Every year, I make a massive effort to find an amazing folk/singer songwriter record as its a genre that tends to stay with me. The honor this year goes to the cozy "Real Warmth" by Joan Shelley; and what perfectly named record. Shelly has been on my radar in the past, but none of her previous work ever had any staying power with me. This changed immediately when I heard "Field Guide to Wild Life", which just grabbed me. The track has these peaceful vocals from Shelley and delightful trilling guitar lines sprinkled throughout. I also just love the concept of a field guide for life; it would honestly come in handy at times! The opening track "Here in the High and Low" is about as big as the album gets, with a grooving drumline and some subtle electric lead guitar. I found myself spinning this record this fall over and over, as it just fit perfectly for chilly days where the sun is setting earlier and we all inevitably move indoors. Tracks like "Everybody" or "New Anthem" have this great swaying quality to them with the subtle pedal steel and hushed tones of the snare brush. The album ends with the super simple "The Hum" with its little infectious hum and minimal acoustic guitar. This album brought me a ton of peace this year and should do the same for you.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/6KXkwMStqgOgtptaBCuqjP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Field Guide to Wild Life, New Anthem, Everybody
+
+## 3. Guerrila Toss - You're Weird Now
+
+I have had a tough time distilling this album down into anything other than "the most". Aptly named, "You're Weird Now" finds this amazing balance between raw and fuzzy punk and this digital synth-pop sound that is a bit hard to nail down. But every time you think you have this album figured out, it goes in a different direction. The opening track "Krystal Ball" blows down the doors with a wall of synths, guitars, and symbols before it immediately moves to a alt-rock section that makes you want just jump. "Psychosis is Just a Number" (a track title I still not sure I understand) seems like it can't make up its mind, alternating between the super hyper chorus or the messy breakdown on the bridges. These wacky and over the top arrangements never slow down, like on the 80s rock track "CEO of Personal & Pain" (my person favorite on the record), which is somehow both groovy and completely in your face. I find the vocal flow on this track in particular is incredible, like on lines like "You know the stubborn never change, the just get really bored of it" (great line too) or "jaded by my own sense of meaningless identity". "Panglossian Mannequin" borders on a danceable, with a super fun baseline and drumline but not too long before it moves into this stadium rock-esque sound that melts your face. While this isn't maybe the most important piece of art that was released this year, the fun and craziness is completely undeniable. It might not be for everyone, but I can't think of a record I had more pure fun listening to this year.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/5dbWXyt3JIxxAQVC8PrV0o?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks**: CEO of Personal & Pleasure, Panglossian Mannequin, Krystal Ball, Psychosis is Just a Number
+
+## 2. Racing Mount Pleasant - Racing Mount Pleasant
+
+This was probably the hardest time I've had choosing my album of the year as the top two records are so strong. The self titled record of Racing Mount Pleasant is a tour is of sincerity, delicate vocals, and big sounds led by a massive horn section. It is legitimately hard to put my finger on what genre best describes this group. Are they post-punk? Chamber Folk? Indie Folk? The way they jump between sounds in nothing but astounding. The record opens with the big "Your New Place", opening with light saxophones and guitars before growing in scale. An unbelievable opener that sets the scene for the record perfectly. "Tenspeed (Shallows)" is my personal favorite, with a horn line that gets stuck in my head so easily. Around the 1 minute mark is this incredibly abrupt symphony of horns and staccato percussion that might be the coolest moment of music of the year for me. The record employs these kinds of tricks throughout, and somehow manages to never get stale. "Seminary" is a dreamy, swaying track that boarders on jazz with it's horn section that does so much to just relax me. The album really never hits a lull or weak point, with massive tracks like the title track or "Call it Easy" just continuing the big scope seen on the A side of the record. I'm not 100% sure why, but I get this feeling that a record like this is going to have a massive cult following not similar to records like [Aeroplane Over the Sea](https://open.spotify.com/album/17q5eeNk3HAjX1gzQnkTX7?si=1r4cOoRVRLGNNpHCGQIPoQ) (but don't quote me on that!). A modern day masterpiece.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/037axs2AfEPUD5LtjfFYSv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Tenspeed (Shallows), Seminary, Your New Place, Call It Easy
+
+## 1. Hesse Kassel - La Brea
+
+My favorite album of this year goes to a full-length debut from the Chilean band, Hessel Kassel, and what a breathtaking debut "La Brea" is. The record is fully in Spanish, making it the first non-English speaking album to rank in my top 10. Calling this record ambitious is an understatement, with 5 of the 9 tracks coming in at about 10 minutes or more, and run time of 1 hour and 18 minutes. Sonically, this album runs the post-rock/prog-rock gamut, bringing in heavy guitars, busy baselines, and a lot of slowburns. It is hard not to immediately draw comparisons to other post-punk groups; the influence or at least the similarities to the early work of Black Country, New Road are especially clear (hey, the name sound familiar). And yet, this work stands on its own feet and in many ways surpasses the work of its predecessors The lead vocals of Renatto Olivares are real standout; alternating between primal snarls and fragile confessionals that even non-Spanish speakers can connect with immediately. The album starts off strong with the bombastic "Postparto"; the song slowly gaining steam until it reaches the breakdown in the middle of the track with sludgy guitars and an incredibly busy bassline. "Anova", my undeniable favorite on the record, is this wonderful dance between the vocalist, saxophonist, and pianist, before the band sings in unison, which I can't help but love. Perhaps the thing I love about this record and Anova specifically is the piano; it is the emotional core of the album and I think is what makes this record so beautiful. "Moussa" is another stunner, containing what is essentially a ambient section, with slowly rising guitars and percussion before the it erupts into a soaring guitar. An unforgettable moment. "Vida En Terranova" opens with a guitar riff that sounds like something Black Midi would be proud of. The song later has what feels like a duel between the arpeggios of the piano and the rolling booms of the drums. The record ends as it started; a big wall of fuzzy guitars before devolving into a pure chaos of feedback. All in all, it is pretty amazing that this is a debut for this group and you can't help but be excited for what they do next. I can understand that this record is a bit daunting to approach (it took me a while myself!). But with each listen, this record's grip on my got just a little bit tighter. I also recognize that many of the my top albums of the past few years run on the [long](https://larrysfavoritemusic.github.io/Blog/lists/2024_List.html#cindy-lee---diamond-jubilee) [side](https://larrysfavoritemusic.github.io/Blog/lists/2022_List.html#black-country-new-road-ants-from-up-there). But I really do hope you give this record the time it deserves. You may find it rewards you.
+
+```{=html}
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/4VMNGHzzMAkabEJmsZqeZT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+```
+**Key Tracks:** Anova, Postparto, Moussa, Vida En Terranova
